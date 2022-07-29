@@ -1,183 +1,25 @@
-                                      Edition : Février 2022
+# Règlements sportifs et Arbitrage - Fédération Française de Tir à l'Arc
 
-Cette version intègre la modification des règles sportives votées par les Comité
-Directeur de la FFTA en juillet, octobre 2021 et janvier 2022.
-Les paragraphes notés "réservé" sont conservés pour la numérotation.
+_Edition : Février 2022_
 
-Cette version des règlements sportifs et Arbitrage utilise les « liens dynamiques ».
-Ceux-ci sont soulignés en bleu. En cliquant dessus, ils vous conduiront au plus près de l’article
-recherché. Le retour au sommaire de chaque chapitre se fait par un lien dynamique en en-tête
-de sous chapitre.
+Cette version intègre la modification des règles sportives votées par les Comité Directeur de la FFTA en juillet, octobre 2021 et janvier 2022. Les paragraphes notés "réservé" sont conservés pour la numérotation.
 
-               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©        1
+## CHAPITRE I - LES RÈGLEMENTS GÉNÉRAUX
 
-Changement depuis la version de Février 2021
-Règlements Généraux :
-Article B.5.1 Le jury d'appel
-
-Article C.5.1.2 SELECTION : MODE DE SELECTION AUX CHAMPIONNATS DE FRANCE ELITE ET AUX
-CHAMPIONNATS DE FRANCE INDIVIDUELS DE TIR EN SALLE(TIR À 18M), TIR A L'ARC EXTERIEUR, TIR EN
-CAMPAGNE, PARCOURS NATURE ET TIR SUR CIBLES 3D
-
-               Cas particulier de la discipline Tir en Salle(Tir à 18m) :
-
-Article C.5.1.3 des Règlements Généraux § 3. Catégories reconnues
-
-Article C.5.2.3 LE CLASSEMENT NATIONAL DOUBLE MIXTE PAR EQUIPE DE CLUB EN TIR
-EN CAMPAGNE ET TIR 3D
-ANNEXE 4 des Règlements Généraux (document de demande d’homologation et tableau des
-catégories reconnues)
-
-Intégration des nouvelles dénominations des catégories Jeune mises en application au 1 er
-Septembre 2022 (dans toute la réglementation)
-
-Intégration du changement de dénomination de la discipline "Tir en Salle" en "Tir à 18m" mise en
-application au 1er Septembre 2022 (dans toute la réglementation)
-
-Règlements Sportifs :
-Article II.1 A.6.2 Pour le Tir à l'Arc Extérieur
-Article II.1. A.7 LES EPREUVES DE TIR À L'ARC EXTERIEUR
-Article II.1 B.3 Insertion d'un article B.3.2 définissant les caractéristiques de l'Arc Nu en Tir à l'Arc
-Extérieur
-Article II.1 – C.5 du règlement spécifique du Tir à l'Arc Extérieur
-Article II.1. C.5.6 CHAMPIONNATS DEPARTEMENTAUX ET REGIONAUX
-Article II. 2 - C.1 LE CHAMPIONNAT DE France EN SALLE(TIR À 18M) et suivants
-Article II. 3 – C.3.3 Le déroulement
-Article II. 6 – C.1.5 Le tir
-Article II.5. A.3.2.1 ARC NU
-Article II.6 A.3.2.1 ARC NU
-Article II.7 Le Run-Archery
-
-Nom des courses comme à l’international Tout le texte
-Ordre des positions de tir C.1.1, C.2.1, C.3.2.2, B.7.1.2
-Retard au départ B.1.3.2, B.3.2, B.7.1.3
-Tolérance des distances de circuits de course A.4.
-Taille de la zone archer au pas de tir B.1.5.2.2.
-Désaccord spotting B.5.4.10
-Mise à jour des Schémas et tableaux Annexes :
-Ajout d'un chapitre C5
-Modification par ajout de mentions aux articles A.3, A.3.2,
-
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              2
-
-TA B LE D ES M A TI ÈR ES
-
-Chapitre I
-LES R ÈGLEMENTS G ÉNÉRAUX
-
-A. Les arbitres
-B. Les organisations
-C. Les compétiteurs : règles administratives et sportives
-D. Les dispositions médicales
-E. La publicité
-F. Les distinctions
-G. Les modifications de règlements
-H. Les annexes
-
-Chapitre II
-LES R ÈGLEMENTS S PORTIFS
-
-II.1. – Le Tir à l'Arc Extérieur
-
-II.2. – Le Tir en Salle (Le Tir à 18m)
-
-II.3. – Le Tir en Campagne
-
-II.4. – Réservé
-
-II.5. – Le Parcours Nature
-
-II.6. – Le Tir sur Cibles 3D
-
-II.7. – Le Run-Archery
-
-            Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©   3
-
-CHAPITRE I
-
-LES RÈGLEMENTS GÉNÉRAUX
-
-A. Les arbitres
-B. Les organisations
-C. Les compétiteurs : règles administratives et sportives
-D. Les dispositions médicales
-E. La publicité
-F. Les distinctions
-G. Les modifications de règlements
-H. Les annexes
-
-         Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©   4
-
-I . – LES R ÈGLEMENTS G ÉNÉRAUX
-Sommaire
-
-                A. Les Ar bitr es                                           E. La Publicité
-
-A.1 Les règles éthiques du corps arbitral de la FFTA E.1 Sur le terrain
-A.2 L’organisation du corps arbitral au sein de la FFTA E.2 Pour les compétiteurs
-A.3 La Commission Régionale des Arbitres
-A.4 Les « outils de travail » de l’arbitre
-F. Les D istinctions
-B. Les O r ganisations F.1 Pour la WA
-B.1 L’organisation du greffe des compétitions F.2 Pour la FFTA
-B.2 L’accès au terrain
-B.3 Les marqueurs G. Les Modifications de Règlements
-B.4 L’aménagement des sites de compétition G.1 Dates d’application
-B.5 Le Jury d’Appel, les Délégués Techniques
-et la nomination des arbitres H. Les Annexes
-B.6 La réunion des capitaines d’équipes Annexe 1 : Réservé
-B.7 Points particuliers Annexe 2 :
-B.8 Les règles de sécurité sur les terrains Rapport d’arbitre : Tir à l'Arc Extérieur, Tir en
-Salle(Tir à 18m), et Tir Beursault
-Rapport d’arbitre : Tir en Campagne, Parcours
-C. Les Compétiteur s : r ègles Nature et Tir sur cibles 3D
-administr atives et sportives Rapport d’arbitre : Run-Archery
-Annexe 3 :
-C.1 Les compétiteurs étrangers Demande de WA TARGET
-C.2 Les compétiteurs handicapés Demande d’ETOILE WA et ARROW HEAD
-C.3 Les dispositions administratives communes : Annexe 4 :
-catégories, surclassements, transferts Demande d’homologation de Record de France ou
-C.4. Comportement sur les terrains de compétition de Meilleure Performance
-C.5 Qualifications/sélections aux Championnats de Les Records de France et les Meilleures
-France – Classements Nationaux Performances Françaises
-C.6 Les règles d’abandon Annexe 5 :
-C.7 Les Records de France et les Meilleures Modèle de réclamation auprès du Jury d’Appel
-Performances Françaises Annexe 6 :
-C.8 Les règles d’exclusion Disposition d’un local pour un contrôle anti-dopage
-C.9 Les licences Annexe 7 :
-C.10 Réclamations – Appels – Litiges Nomenclature matériel de tir
-Annexe 8 :
-C.11 Les sanctions
-Accessoires de terrains
-C.12 L’équipement et les tenues de compétiteurs
-C.13 Les indicateurs de vent
-C.14 Le tir avec deux arcs
-C.15 Les interprétations de la WA
-
-      D . Les D ispositions Médicales
-
-D.1 Le suivi médical des arbitres
-D.2 Le certificat médical de non contre-indication à la
-pratique sportive
-D.3 Les surclassements
-D.4 La lutte contre le dopage
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  5
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-                                             Introduction
+**Introduction**
 
 Cette première partie traite de l'organisation du corps arbitral et de l'arbitrage. Le manuel "Constitution et
 Règlements de la WA", relatif aux statuts et règlements administratifs de la WA, ainsi que certains articles,
 ne sont pas reproduits ici. Ce manuel complétera l’information présente dans cet ouvrage, destinée plus
 particulièrement aux arbitres, dirigeants, cadres et compétiteurs…
 Les arbitres sont des licenciés de la FFTA. Bénévolement, ils acceptent :
-• de recevoir une formation spécifique comprenant l'étude de règlements précis et souvent complexes ;
-• de passer, après un stage, un examen écrit ;
-• de maintenir leurs connaissances à jour par l'étude des modifications continuelles des règlements
-émanant aussi bien de la WA que de la FFTA ;
-• de consacrer de nombreux week-ends dans l’année pour assurer leur charge.
+
+- de recevoir une formation spécifique comprenant l'étude de règlements précis et souvent complexes ;
+- de passer, après un stage, un examen écrit ;
+- de maintenir leurs connaissances à jour par l'étude des modifications continuelles des règlements
+  émanant aussi bien de la WA que de la FFTA ;
+- de consacrer de nombreux week-ends dans l’année pour assurer leur charge.
+
 Les arbitres exercent leur fonction dans un esprit d’équité et de respect des règles qui sont les mêmes
 pour tous. Ils méritent reconnaissance… Leur fonction, parfois ingrate, est indispensable.
 
@@ -194,26 +36,28 @@ Les règlements applicables sont composés des éléments suivants :
   de plusieurs sources : World Archery, Commissions Sportives, archers, arbitres, …
   Les Interprétations et les Décrets prévalent sur le Livre des Règlements.
 
-A. LES ARBITRES
-A.1 LES RÈGLES ÉTHIQUES DU CORPS ARBITRAL DE LA FFTA
-A.1.1 CODE MORAL DE L’ARBITRE ET DU JEUNE ARBITRE
+### A. LES ARBITRES
+
+#### A.1 LES RÈGLES ÉTHIQUES DU CORPS ARBITRAL DE LA FFTA
+
+##### A.1.1 CODE MORAL DE L’ARBITRE ET DU JEUNE ARBITRE
+
 Le code moral est partie intégrante de la Charte Éthique et Déontologie de la FFTA. Les Arbitres Fédéraux et
 les Jeunes Arbitres s’engagent à respecter les termes de la Charte en toute circonstance.
 
-A.1.2 TEXTE DU SERMENT DE L’ARBITRE ET DU JEUNE ARBITRE
-"Je jure, sur l'honneur, d'appliquer et de faire appliquer exactement et loyalement les règlements établis
-par la FFTA, dans toutes les épreuves sportives auxquelles je prendrai part ou pour lesquelles je serai
-désigné comme arbitre.
-Conscient(e) de l'honneur qui m'est fait en m'admettant parmi les arbitres de la fédération, j'accepte d'en être
-exclu(e) dans les conditions qui m'ont été précisées si je manquais aux devoirs qui m'incombent de ce fait.
-En foi de quoi, je m'engage en signant le présent Procès-Verbal."
+##### A.1.2 TEXTE DU SERMENT DE L’ARBITRE ET DU JEUNE ARBITRE
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    6
+> Je jure, sur l'honneur, d'appliquer et de faire appliquer exactement et loyalement les règlements établis
+> par la FFTA, dans toutes les épreuves sportives auxquelles je prendrai part ou pour lesquelles je serai
+> désigné comme arbitre.
+> Conscient(e) de l'honneur qui m'est fait en m'admettant parmi les arbitres de la fédération, j'accepte d'en être
+> exclu(e) dans les conditions qui m'ont été précisées si je manquais aux devoirs qui m'incombent de ce fait.
+> En foi de quoi, je m'engage en signant le présent Procès-Verbal.
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+#### A.2 L’ORGANISATION DU CORPS ARBITRAL AU SEIN DE LA FFTA
 
-A.2 L’ORGANISATION DU CORPS ARBITRAL AU SEIN DE LA FFTA
-A.2.1 LA COMMISSION NATIONALE DES ARBITRES (CNA)
+##### A.2.1 LA COMMISSION NATIONALE DES ARBITRES (CNA)
+
 Pour traiter les questions d’arbitrage au sein de la Fédération, le Comité Directeur de la FFTA,
 conformément aux dispositions statutaires, désigne les membres de la Commission Nationale des Arbitres.
 Ils doivent impérativement être des arbitres fédéraux en activité et sont choisis en raison de leurs
@@ -224,47 +68,46 @@ La CNA coordonne les relations avec les Présidents des Commissions Régionales 
 La commission s’entoure après accord du Comité Directeur de la FFTA des personnes nécessaires à la
 bonne marche de la gestion des distinctions internationales (WA TARGET et ARROW HEAD).
 
-A.2.1.1. COMPOSITION : selon les statuts de la FFTA.
+###### A.2.1.1 COMPOSITION : selon les statuts de la FFTA.
 
-A.2.1.2 FONCTIONNEMENT
-• la CNA est présidée par un membre élu du Comité Directeur de la FFTA ; elle nomme parmi ses
-membres un secrétaire et un secrétaire-adjoint.
-• Les membres de la CNA se répartissent les tâches administratives qui lui incombent et
-particulièrement - la rédaction des PV de réunions ; - la gestion des examens d’arbitres (inscriptions, rédaction des sujets, envoi aux Comités
-Régionaux, correction, jury, édition et diffusion des résultats) ; - le suivi du fichier des arbitres ; - la collecte des PV des prestations de serment et l’édition des cartes d’arbitre ; - l’établissement des listes de distribution des équipements des nouveaux arbitres : tenues
-(sur commande), mallettes
+###### A.2.1.2 FONCTIONNEMENT
 
-A.2.1.3 MISSIONS ET PREROGATIVES
-• Assurer le respect des règlements sportifs de la FFTA ;
-• Éditer et mettre à jour le "Livre des Règlements Sportifs et Arbitrage" ;
-• Assurer les relations avec les PCRA ;
-• Veiller à la formation des arbitres ;
-o définir les modalités et référentiels des formations, des examens ;
-o organisation de la formation continue ;
-o assurer le contrôle des connaissances ;
-o définir les prestations de serment ;
-• Aide à la formation des Arbitres Fédéraux par :
-o des stages pratiques ;
-o des études de cas ;
-• Proposer et former les postulants Arbitres Internationaux ;
-• Proposer les Présidents de Commission des Arbitres des championnats de France et des
-compétitions nationales ;
-• Réunir et assurer la formation des PCRA et des formateurs ;
-• Assurer la solidarité du corps arbitral ;
-• Veiller à la mise en œuvre des dispositions réglementaires pour résoudre les problèmes au sein du
-corps arbitral ;
-• Le Président de la CNA (ou ses représentants) participe aux travaux des différentes Commissions
-Sportives ;
-• Sur demande d’un Comité Régional, et aux frais de celui-ci, participer à une réunion régionale
-regroupant les arbitres de cette région, afin d'étudier les règlements ou régler des situations
-particulières.
+- la CNA est présidée par un membre élu du Comité Directeur de la FFTA ; elle nomme parmi ses
+  membres un secrétaire et un secrétaire-adjoint.
+- Les membres de la CNA se répartissent les tâches administratives qui lui incombent et
+  particulièrement - la rédaction des PV de réunions ; - la gestion des examens d’arbitres (inscriptions, rédaction des sujets, envoi aux Comités
+  Régionaux, correction, jury, édition et diffusion des résultats) ; - le suivi du fichier des arbitres ; - la collecte des PV des prestations de serment et l’édition des cartes d’arbitre ; - l’établissement des listes de distribution des équipements des nouveaux arbitres : tenues
+  (sur commande), mallettes
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©            7
+###### A.2.1.3 MISSIONS ET PREROGATIVES
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- Assurer le respect des règlements sportifs de la FFTA ;
+- Éditer et mettre à jour le "Livre des Règlements Sportifs et Arbitrage" ;
+- Assurer les relations avec les PCRA ;
+- Veiller à la formation des arbitres ;
+	- définir les modalités et référentiels des formations, des examens ;
+  - organisation de la formation continue ;
+  - assurer le contrôle des connaissances ;
+  - définir les prestations de serment ;
+- Aide à la formation des Arbitres Fédéraux par :
+  - des stages pratiques ;
+  - des études de cas ;
+- Proposer et former les postulants Arbitres Internationaux ;
+- Proposer les Présidents de Commission des Arbitres des championnats de France et des
+  compétitions nationales ;
+- Réunir et assurer la formation des PCRA et des formateurs ;
+- Assurer la solidarité du corps arbitral ;
+- Veiller à la mise en œuvre des dispositions réglementaires pour résoudre les problèmes au sein du
+  corps arbitral ;
+- Le Président de la CNA (ou ses représentants) participe aux travaux des différentes Commissions
+  Sportives ;
+- Sur demande d’un Comité Régional, et aux frais de celui-ci, participer à une réunion régionale
+  regroupant les arbitres de cette région, afin d'étudier les règlements ou régler des situations
+  particulières.
 
-A.2.1.4 LE CONSEIL FEDERAL D’ARBITRAGE
-A.2.1.4.1 Rôle
+###### A.2.1.4 LE CONSEIL FEDERAL D’ARBITRAGE
+
+_A.2.1.4.1 Rôle_
 
 Le Conseil Fédéral d'Arbitrage (CFA) a pour objectif de régler tous différents qui peuvent survenir au sein
 du corps arbitral de la FFTA.
@@ -276,23 +119,24 @@ Le CFA est chargé de traiter tous problèmes, y compris disciplinaires, concern
 l'exercice de leur fonction, ont contrevenu à l'éthique morale et sportive ainsi qu’au serment qu’ils prêtent
 lors de leur prise de fonction.
 
-Les sanctions pouvant être prises par le CFA sont celles du règlement disciplinaire de la FFTA, notamment
-:
-• Avertissement ;
-• Blâme ;
-• Suspension provisoire du droit à l'arbitrage.
+Les sanctions pouvant être prises par le CFA sont celles du règlement disciplinaire de la FFTA, notamment :
+
+- Avertissement ;
+- Blâme ;
+- Suspension provisoire du droit à l'arbitrage.
 
 Les sanctions prises par le Conseil Fédéral d'Arbitrage seront :
-• communiquées au Président de la FFTA ainsi qu'au Président de la CNA pour information et
-transmission à qui de droit ;
-• signifiées à (aux) l'intéressé(s), par lettre recommandée avec accusé de réception, par le CFA qui
-pourra utiliser le secrétariat de la FFTA.
+
+- communiquées au Président de la FFTA ainsi qu'au Président de la CNA pour information et
+  transmission à qui de droit ;
+- signifiées à (aux) l'intéressé(s), par lettre recommandée avec accusé de réception, par le CFA qui
+  pourra utiliser le secrétariat de la FFTA.
 
 Considérées de première instance les sanctions du CFA pourront être mises en appel auprès de l'instance
 d'appel de la FFTA.
 Les décisions sont prises à la majorité. En cas de ballottage la voix du Président est prépondérante.
 
-A.2.1.4.2 : Fonctionnement (Cf. Le Règlement disciplinaire de la FFTA)
+_A.2.1.4.2 : Fonctionnement (Cf. Le Règlement disciplinaire de la FFTA)_
 
 Sur proposition du Président de la CNA, le Conseil Fédéral d'Arbitrage est composé de cinq membres, tous
 Arbitres Fédéraux, dont un, au maximum, élu du Comité Directeur.
@@ -315,20 +159,20 @@ Le Conseil Fédéral d'Arbitrage peut entendre toute personne dont l'audition pa
 Les frais généraux et administratifs des membres du Conseil fédéral d'Arbitrage sont pris en charge par la
 FFTA.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   8
+##### A.2.2 LA FILIERE ARBITRE
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-A.2.2 LA FILIERE ARBITRE
 Le schéma de formation arbitre sera réécrit suivant le schéma des formations fédérales.
-A.2.2.1 LE SCHEMA DE LA FILIERE ARBITRE – MISSIONS ET PREROGATIVES
-Le corps arbitral est structuré selon le schéma suivant :
-• Jeune Arbitre ;
-• Arbitre Fédéral + Arbitre Formateur ;
-• Arbitre National
-• Arbitre Continental/International.
 
-            - Jeunes Arbitres :
+###### A.2.2.1 LE SCHEMA DE LA FILIERE ARBITRE – MISSIONS ET PREROGATIVES
+
+Le corps arbitral est structuré selon le schéma suivant :
+
+- Jeune Arbitre ;
+- Arbitre Fédéral + Arbitre Formateur ;
+- Arbitre National
+- Arbitre Continental/International.
+
+**Jeunes Arbitres :**
 
 Une formation et une validation adaptées ont été mises en place en 2010 pour les jeunes (à partir de 14
 ans) désireux de s'investir dans la mission d'arbitrage.
@@ -341,23 +185,26 @@ Le but recherché :
   international (la limite d'âge et les conditions pour devenir Arbitre International impliquent une
   formation précoce).
 
-Prérogatives
+_Prérogatives_
 
-       1 - Droits : le "Jeune Arbitre" a les mêmes droits qu'un arbitre adulte.
-       − Il peut arbitrer des concours jeunes ;
-       − Il peut arbitrer des concours adultes jusqu'au niveau du Championnat Départemental.
+1.  Droits : le "Jeune Arbitre" a les mêmes droits qu'un arbitre adulte.
 
-       2 - Responsabilités :
-       − Il est "Arbitre Assistant" dans toutes les disciplines.
-       − Il peut juger les cordons.
-       − Il peut diriger le tir et gérer les feux ou chronométrer les temps de tir.
-       Dans son option, il peut en plus :
-       − Gérer les incidents de tir ;
-       − Prendre les sanctions prévues au règlement en cas d'infraction ;
-       − Il ne peut pas être responsable d'un concours adultes ;
-       − Il peut être responsable d'un concours jeunes.
+    - Il peut arbitrer des concours jeunes ;
+    - Il peut arbitrer des concours adultes jusqu'au niveau du Championnat Départemental.
 
-        -    Arbitres Fédéraux :
+2.  Responsabilités :
+    - Il est "Arbitre Assistant" dans toutes les disciplines.
+    - Il peut juger les cordons.
+    - Il peut diriger le tir et gérer les feux ou chronométrer les temps de tir.
+
+Dans son option, il peut en plus :
+
+- Gérer les incidents de tir ;
+- Prendre les sanctions prévues au règlement en cas d'infraction ;
+- Il ne peut pas être responsable d'un concours adultes ;
+- Il peut être responsable d'un concours jeunes.
+
+**Arbitres Fédéraux :**
 
 L'Arbitre Fédéral peut arbitrer toute compétition inscrite au calendrier fédéral dans son (ses) option(s).
 
@@ -365,26 +212,25 @@ Parmi les Arbitres Fédéraux, il n'y a pas de "hiérarchie" entre l'Arbitre Fé
 dernier est un Arbitre Fédéral qui accepte, après une formation spécifique (cf. A.2.2.1.1), de prendre en
 charge la formation des candidats aux fonctions de Jeune Arbitre ou d'Arbitre Fédéral.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   9
+_Prérogatives_
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-Prérogatives
-− L'Arbitre Fédéral peut participer à l’arbitrage de toutes les compétitions inscrites au calendrier
-officiel de la FFTA en dehors de son option, jusqu’au Championnat Départemental, en exécutant
-uniquement les tâches suivantes :
-▪ Chronométrage
-▪ Jugement des cordons
-▪ Directeur des tirs
+- L'Arbitre Fédéral peut participer à l’arbitrage de toutes les compétitions inscrites au calendrier
+  officiel de la FFTA en dehors de son option, jusqu’au Championnat Départemental, en exécutant
+  uniquement les tâches suivantes :
+  - Chronométrage
+  - Jugement des cordons
+  - Directeur des tirs
+
 Il peut être Président de la Commission des Arbitres d'une compétition (sauf lors d’une compétition
 organisée par son club), jusqu’au niveau régional, dans son/ses option(s). Cet alinéa ne s'applique
 pas à la Corse et aux Comités Régionaux d'outremer.
-− Il peut devenir "Arbitre Formateur" après avoir suivi la formation spécifique (cf. A.2.2.1.1).
-− Il peut devenir membre de la CNA.
-− Il peut postuler à la fonction d'Arbitre National (voir ci-dessous) en fonction des besoins de la
-FFTA.
-− Il peut postuler à la fonction d’Arbitre Continental en fonction des besoins de la FFTA.
 
-           − Arbitres Nationaux :
+- Il peut devenir "Arbitre Formateur" après avoir suivi la formation spécifique (cf. A.2.2.1.1).
+- Il peut devenir membre de la CNA.
+- Il peut postuler à la fonction d'Arbitre National (voir ci-dessous) en fonction des besoins de la FFTA.
+- Il peut postuler à la fonction d’Arbitre Continental en fonction des besoins de la FFTA.
+
+**Arbitres Nationaux :**
 
 L'Arbitre Fédéral, après réussite à un examen spécifique (écrit et pratique) assuré par la CNA, peut devenir
 Arbitre National dans une ou plusieurs options et ainsi accéder à la présidence de la commission des
@@ -398,12 +244,12 @@ Tous les semestres les Arbitres Nationaux devront répondre à deux questions po
 réponses sont obligatoires dans les délais définis par la CNA. Une non réponse pourra empêcher l'arbitre
 d'être sélectionné pour arbitrer une manifestation nationale.
 
-           − Arbitres Continentaux - Internationaux :
+**Arbitres Continentaux - Internationaux :**
 
 Les postulants Arbitres Continentaux, sont choisis parmi les Arbitres Nationaux, en fonction des besoins de
 la FFTA, sur proposition de la Commission Nationale des Arbitres et accord du Comité Directeur de la FFTA.
 
-A.2.2.1.1 LES ARBITRES FORMATEURS
+_A.2.2.1.1 LES ARBITRES FORMATEURS_
 
 L’Arbitre Fédéral devient Arbitre Formateur après avoir suivi la formation spécifique ad-hoc organisée par
 la CNA sous le contrôle de la Fédération. Cette formation inclut une partie généraliste confiée à un
@@ -418,18 +264,21 @@ chaque année avec « alternance géographique » des lieux de stages.
 Pour présenter un (des) candidat(s) à l’examen d’arbitre, les Comités Régionaux devront posséder au moins
 un Arbitre Formateur actif.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 10
+#### A.3 LA COMMISSION REGIONALE DES ARBITRES
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+##### A.3.1 COMPOSITION
 
-A.3 LA COMMISSION REGIONALE DES ARBITRES
-A.3.1 COMPOSITION
 Selon ses propres statuts, chaque Comité Régional désigne son Président de Commission Régionale des
 Arbitres (PCRA) qui sera reconnu par la CNA. Il devra impérativement être un Arbitre Fédéral en activité
-Il est souhaitable que chaque Commission comprenne : - le Président ; - un secrétaire chargé du fichier des arbitres de la région. Annuellement, la liste des arbitres de la région
-figurant dans la base fédérale est vérifiée et mise à jour avec le concours du secrétariat de la CNA ; - un responsable de l'équipe des Arbitres Formateurs, chargé du suivi des formations et des examens ; - un responsable du calendrier sportif régional.
+Il est souhaitable que chaque Commission comprenne :
 
-A.3.2 MISSIONS ET PREROGATIVES
+- le Président ;
+- un secrétaire chargé du fichier des arbitres de la région. Annuellement, la liste des arbitres de la région
+  figurant dans la base fédérale est vérifiée et mise à jour avec le concours du secrétariat de la CNA ;
+- un responsable de l'équipe des Arbitres Formateurs, chargé du suivi des formations et des examens ;
+- un responsable du calendrier sportif régional.
+
+##### A.3.2 MISSIONS ET PREROGATIVES
 
 - assurer la formation des Jeunes Arbitres, et des Arbitres Fédéraux ;
 - désigner les arbitres des compétitions officielles de la région, sur proposition des Commissions
@@ -439,7 +288,8 @@ A.3.2 MISSIONS ET PREROGATIVES
 - veiller au respect des règles déontologiques des arbitres ;
 - décentraliser, au besoin, son activité par la création de Commissions Départementales des Arbitres.
 
-A.3.3 ROLES ET DEVOIRS DU PCRA
+##### A.3.3 ROLES ET DEVOIRS DU PCRA
+
 Il sera le relais entre la CNA et les arbitres de sa région.
 
 La désignation des PCRA est de la responsabilité propre de chaque région (nomination par le Comité
@@ -463,48 +313,18 @@ Le PCRA est chargé :
 - de désigner, en fonction de l'organisation choisie par le Comité Régional, un responsable arbitre par
   compétition, le ou les adjoints, le ou les remplaçants.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   11
-
-  Les R èglement s Gé nér aux Edition Févr ier 2022
-
 La Validation de la carte d’arbitre des PCRA se fera lors de la réunion annuelle des PCRA, à l’exception des
 PCRA des Comités Régionaux d’Outremer.
 
-Statuts des arbitres
-Statut Condition Durée Retour au statut "ACTIF" Après la durée
-ACTIF Licence en cours prise avant Reconductible
-le 15 octobre de l'année
-sportive
-Avoir suivi une formation
-continue dans les 14
-mois suivant la dernière
-formation (initiale ou
-continue).
-Avoir effectué 2 arbitrages
-dans l'année sportive
-précédente
-INACTIF Une des conditions d'activité Saison sportive en Se mettre en conformité Passe en
-non remplie cours au maximum avec le statut d'Actif "RETRAIT"
-RETRAIT Être "INACTIF" pendant une 3 ans maximum Suivre une formation de Passe en
-durée supérieure à une remise à niveau dans les "SOMMEIL"
-saison sportive options obtenues
-Avoir demandé à cesser son initialement avec validation
-activité d'arbitre pour une du PCRA
-période déterminée Cette acquisition devra être
-validée à nouveau et actée
-par une attestation écrite
-du PCRA qui la transmettra
-à la CNA.
-SOMMEIL Avoir été en situation de Suivre le cycle complet de
-"Retrait" pendant plus de formation d'Arbitre Fédéral
-trois ans avec un contrôle final validé
-par la CNA
-DÉMISSIONNAIRE Avoir décidé de cesser toute Suivre le cycle complet de
-activité d'arbitrage en formation d'Arbitre Fédéral
-adressant à son PCRA le avec un contrôle final validé
-formulaire de démission par la CNA
-daté et signé (avec copie à la
-CNA)
+**Statuts des arbitres**
+
+| Statut         | Condition                                                                                                                                                                                                                                            | Durée                               | Retour au statut "ACTIF"                                                                                                                                                                                                        | Après la durée     |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| ACTIF          | Licence en cours prise avant Reconductible le 15 octobre de l'année sportive. Avoir suivi une formation continue dans les 14 mois suivant la dernière formation (initiale ou continue). Avoir effectué 2 arbitrages dans l'année sportive précédente | Reconductible                       |                                                                                                                                                                                                                                 |                    |
+| INACTIF        | Une des conditions d'activité non remplie                                                                                                                                                                                                            | Saison sportive en cours au maximum | Se mettre en conformité avec le statut d'Actif                                                                                                                                                                                  | Passe en "RETRAIT" |
+| RETRAIT        | Être "INACTIF" pendant une durée supérieure à une saison sportive. Avoir demandé à cesser son activité d'arbitre pour une période déterminée.                                                                                                        | 3 ans maximum                       | Suivre une formation de remise à niveau dans les options obtenues initialement avec validation du PCRA. Cette acquisition devra être validée à nouveau et actée par une attestation écrite du PCRA qui la transmettra à la CNA. | Passe en "SOMMEIL" |
+| SOMMEIL        | Avoir été en situation de "Retrait" pendant plus de trois ans                                                                                                                                                                                        |                                     | Suivre le cycle complet de formation d'Arbitre Fédéral avec un contrôle final validé par la CNA                                                                                                                                 |                    |
+| DÉMISSIONNAIRE | Avoir décidé de cesser toute activité d'arbitrage en adressant à son PCRA le formulaire de démission daté et signé (avec copie à la CNA)                                                                                                             |                                     | Suivre le cycle complet de formation d'Arbitre Fédéral avec un contrôle final validé par la CNA                                                                                                                                 |                    |
 
 A.3.4 OBLIGATIONS, ROLE ET MISSIONS DES ARBITRES
 
@@ -512,7 +332,7 @@ A.3.4.1 ADMISSIBILITE
 Les arbitres responsables d’une compétition, sont les seuls à être habilités à signer les qualifications et à
 récolter les demandes de distinctions internationales.
 
-    • Arbitrer et tirer
+    - Arbitrer et tirer
 
 Lors des compétitions (tirs sur cibles et disciplines de parcours) ne comportant qu'un seul "départ", un
 arbitre ne peut pas participer, en qualité de compétiteur, au concours officiel pour lequel il a été désigné.
@@ -520,8 +340,7 @@ Lors des compétitions (Tir à l'Arc Extérieur, Salle(Tir à 18m), Beursault) c
 un arbitre pourra tirer lors du départ de son choix, à condition : - que cela ne gêne pas le déroulement de l'épreuve et qu'il y ait suffisamment d'arbitres ; - que l'arbitre ne soit pas en situation d'arbitrer lors de ce départ.
 Dans les disciplines de parcours, si plusieurs "départs" sont organisés, l'arbitre ne pourra participer qu'au
 premier départ, à condition : - que cela ne gêne pas le déroulement de l'épreuve et qu'il y ait suffisamment d'arbitres ; - que l'arbitre ne soit pas en situation d'arbitrer lors de ce départ ; - que l'arbitre n'ait pas participé auparavant à "l'inspection" des parcours.
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 12
-Les R èglement s Gé nér aux Edition Févr ier 2022
+Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 1
 
 Lors de toute compétition avec phases éliminatoire et finale, un arbitre, ayant participé, en qualité de
 compétiteur, à la phase de qualification et se trouvant éliminé à l'issue de cette dernière, pourra officier en
@@ -529,14 +348,15 @@ qualité d'arbitre lors de la phase éliminatoire et finale, à condition : - qu
 
 Les droits d'un arbitre participant au tir en qualité de compétiteur sont ceux de tout archer participant à
 une compétition pour ce qui concerne, entre autres, le jugement de la valeur des flèches. Il ne doit porter
-aucun signe distinctif de sa qualité d'Arbitre Fédéral ou de Jeune Arbitre (maillot avec logo des arbitres,
+aucun signe distinctif de sa qualité d'Arbitre Fédéral ou de Jeune Arbitre (maillot avec log- des arbitres,
 insignes, pin's …). Il ne pourra être membre du Jury d'Appel.
 
 Les tâches des arbitres sont précisées :
-• pour le Tir à l'Arc Extérieur : Chapitre II – Tir à l'Arc Extérieur – Article B.9
-• pour la Salle(Tir à 18m) : Chapitre II – Tir en Salle(Tir à 18m) - Article B.9
-• pour le Tir en Campagne : Chapitre II – Tir en Campagne - Article B.9.
-• pour le Run Archery : Chapitre II – Run Archery – Article A.9.
+
+- pour le Tir à l'Arc Extérieur : Chapitre II – Tir à l'Arc Extérieur – Article B.9
+- pour la Salle(Tir à 18m) : Chapitre II – Tir en Salle(Tir à 18m) - Article B.9
+- pour le Tir en Campagne : Chapitre II – Tir en Campagne - Article B.9.
+- pour le Run Archery : Chapitre II – Run Archery – Article A.9.
 
 A.3.4.2 ABSENCE D’ARBITRE
 Un concours ne peut être officiel, donc qualificatif/sélectif, que s'il est placé sous la responsabilité d'au
@@ -548,7 +368,7 @@ puis prévenir l'organisateur du concours et le Responsable Arbitre Département
 A.3.4.3 LA TENUE VESTIMENTAIRE DES ARBITRES ET EQUIPEMENTS
 
 A partir de 2018, la FFTA a défini une nouvelle tenue "bleue" amenée à remplacer d’ici 2 ans la tenue
-actuelle (tenue "rouge" composée d'un pantalon/jupe noir, d'un polo rouge, d'une veste polaire et d'une
+actuelle (tenue "rouge" composée d'un pantalon/jupe noir, d'un pol- rouge, d'une veste polaire et d'une
 parka rouge). Cette tenue "bleue" est composée des éléments de base suivants :
 Une parka
 Une veste
@@ -564,46 +384,39 @@ courtes que la position du bout des doigts lorsque l’arbitre a les bras et les
 Lorsque l’arbitre est équipé avec la tenue "Bleue", il ne peut plus porter la tenue "rouge".
 Seule la tenue "bleue" définie par la FFTA est valide, il ne peut pas y avoir d’éléments de base provenant d’un
 autre fournisseur même si les couleurs sont respectées.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     13
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 A compter du 1er septembre 2020, seule la tenue "bleue" pourra être portée par les Arbitres Fédéraux
 et les Jeunes Arbitres.
 
-• L'équipement des arbitres (compétitions officielles) - mètre à ruban ou pliant (minimum 2m) ; - sifflet ; - loupe ; - chronomètre ; - jumelles ; - bloc-notes ; - stylo rouge, bleu ou noir (avoir des stylos de rechange) ; - le règlement pour la compétition concernée ; - cartons jaune et rouge ; - matériel (compas à pointes sèches ou autre) pour juger la flèche la plus près du centre ; - matériel pour mesurer le diamètre des flèches.
+- L'équipement des arbitres (compétitions officielles) - mètre à ruban ou pliant (minimum 2m) ; - sifflet ; - loupe ; - chronomètre ; - jumelles ; - bloc-notes ; - styl- rouge, bleu ou noir (avoir des stylos de rechange) ; - le règlement pour la compétition concernée ; - cartons jaune et rouge ; - matériel (compas à pointes sèches ou autre) pour juger la flèche la plus près du centre ; - matériel pour mesurer le diamètre des flèches.
 
-• A mettre à disposition des arbitres par l’organisateur - un plan du parcours avec indication des distances (Tir en Campagne, parcours nature et
-3D) uniquement l'arbitre responsable ; - un ruban de 50m minimum ; - une fausse équerre pour mesurer l'inclinaison des cibles ; - une pige pour mesurer la hauteur des ors ; - un peson pour mesurer la puissance des arcs à poulies et une balance pour peser les flèches si
-nécessaire. Afin d’éviter les contestations, le peson de référence et la balance utilisés pour
-contrôler la puissance des arcs à poulies et le poids des flèches lors des compétitions sont ceux
-de l’arbitre responsable ou désignés par l’arbitre responsable - Si possible des talkies-walkies.
+- A mettre à disposition des arbitres par l’organisateur - un plan du parcours avec indication des distances (Tir en Campagne, parcours nature et
+  3D) uniquement l'arbitre responsable ; - un ruban de 50m minimum ; - une fausse équerre pour mesurer l'inclinaison des cibles ; - une pige pour mesurer la hauteur des ors ; - un peson pour mesurer la puissance des arcs à poulies et une balance pour peser les flèches si
+  nécessaire. Afin d’éviter les contestations, le peson de référence et la balance utilisés pour
+  contrôler la puissance des arcs à poulies et le poids des flèches lors des compétitions sont ceux
+  de l’arbitre responsable ou désignés par l’arbitre responsable - Si possible des talkies-walkies.
 
 A.3.4.4 L’ARBITRE ET LE DEROULEMENT DE LA COMPETITION
 
 L’arbitre est garant de la bonne marche générale d’une compétition. A ce titre, il doit…
 
-• Avant le concours : 1. prendre connaissance de la convocation qui doit être adressée par l'organisateur aux arbitres ; 2. effectuer toutes les vérifications nécessaires (terrain, distances, blasons) au bon déroulement du
-concours, en utilisant la liste du rapport d'arbitre ; 3. prendre contact avec le responsable de l'équipe de terrain ; 4. s'assurer que le greffe contrôle bien l'identité de chaque concurrent préalablement inscrit ; 5. contrôler l'affectation des cibles ; 6. contrôler l'installation des tireurs sur le terrain (tentes, parasols, arcs) ; 7. diriger l'entraînement, en concertation avec le directeur des tirs ; 8. contrôler la tenue vestimentaire des archers, le port correct du dossard.
+- Avant le concours : 1. prendre connaissance de la convocation qui doit être adressée par l'organisateur aux arbitres ; 2. effectuer toutes les vérifications nécessaires (terrain, distances, blasons) au bon déroulement du
+  concours, en utilisant la liste du rapport d'arbitre ; 3. prendre contact avec le responsable de l'équipe de terrain ; 4. s'assurer que le greffe contrôle bien l'identité de chaque concurrent préalablement inscrit ; 5. contrôler l'affectation des cibles ; 6. contrôler l'installation des tireurs sur le terrain (tentes, parasols, arcs) ; 7. diriger l'entraînement, en concertation avec le directeur des tirs ; 8. contrôler la tenue vestimentaire des archers, le port correct du dossard.
 
-• Pendant le concours : 1. faire respecter les consignes de sécurité ; 2. faire respecter, avec le directeur des tirs, les horaires de la compétition ; 3. faire respecter les règlements de tir avec fermeté ; 4. régler les situations particulières ou difficiles avec bon sens ; 5. veiller au nombre de flèches tirées par archer ; 6. gérer les incidents de tir et les défaillances d'équipement ; 7. guider les nouveaux compétiteurs ; 8. contrôler continuellement les équipements des archers ; 9. suspendre le tir et réunir l'ensemble de la commission des arbitres, le cas échéant, devant une
-situation difficile ;
+- Pendant le concours : 1. faire respecter les consignes de sécurité ; 2. faire respecter, avec le directeur des tirs, les horaires de la compétition ; 3. faire respecter les règlements de tir avec fermeté ; 4. régler les situations particulières ou difficiles avec bon sens ; 5. veiller au nombre de flèches tirées par archer ; 6. gérer les incidents de tir et les défaillances d'équipement ; 7. guider les nouveaux compétiteurs ; 8. contrôler continuellement les équipements des archers ; 9. suspendre le tir et réunir l'ensemble de la commission des arbitres, le cas échéant, devant une
+  situation difficile ;
+  l'arbitre, en toute circonstance, doit rester calme, attentif, poli, aimable mais ferme, avoir un jugement
+  rapide tout en prenant le temps de bien analyser la situation pour préserver l’équité.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             14
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-l'arbitre, en toute circonstance, doit rester calme, attentif, poli, aimable mais ferme, avoir un jugement
-rapide tout en prenant le temps de bien analyser la situation pour préserver l’équité.
-
-• Après le concours : 1. ne signer les qualifications qu'après proclamation des résultats ou présentation d'un justificatif ; 2. aider le greffe (contrôle des feuilles de marque ou des résultats, classements individuels et par
-équipes) ; 3. signaler au greffe les éventuels records ; 4. enregistrer les demandes de ETOILE WA, WA TARGET ou ARROW HEAD ; 5. demander les résultats complets de la compétition ; 6. adresser les documents demandés à la FFTA et les demandes des distinctions de la WA aux
-responsables.
+- Après le concours : 1. ne signer les qualifications qu'après proclamation des résultats ou présentation d'un justificatif ; 2. aider le greffe (contrôle des feuilles de marque ou des résultats, classements individuels et par
+  équipes) ; 3. signaler au greffe les éventuels records ; 4. enregistrer les demandes de ETOILE WA, WA TARGET ou ARROW HEAD ; 5. demander les résultats complets de la compétition ; 6. adresser les documents demandés à la FFTA et les demandes des distinctions de la WA aux
+  responsables.
 
 L’arbitre participe à la mise en place d’une image positive de notre sport :
-• il favorisera avec la plus grande courtoisie, dans le respect des règlements, le travail des médias en
-les guidant vers les espaces qui leur sont réservés et en les renseignant autant que faire se peut ;
-• de même, vis à vis du public, il prodiguera les recommandations nécessaires pour mieux apprécier
-la compétition dans leur intérêt et celui des participants.
+
+- il favorisera avec la plus grande courtoisie, dans le respect des règlements, le travail des médias en
+  les guidant vers les espaces qui leur sont réservés et en les renseignant autant que faire se peut ;
+- de même, vis à vis du public, il prodiguera les recommandations nécessaires pour mieux apprécier
+  la compétition dans leur intérêt et celui des participants.
 
 A.3.4.5 LE DIRECTEUR DES TIRS
 Concours sélectifs : le directeur des tirs est nommé par l’arbitre responsable. Il peut être un arbitre
@@ -622,17 +435,13 @@ arbitres s’entendront avec lui (avant le début des tirs) pour la procédure �
 incidents de tir, les défaillances d’équipements, les interruptions de tir. Sa collaboration, tout au long du
 concours est nécessaire.
 
-    • Procédure à suivre en cas de décision difficile
+    - Procédure à suivre en cas de décision difficile
 
 L’arbitre doit prendre du recul pour mieux analyser les différents éléments du problème et aller à
 l’essentiel… Être attentif à ce qui suit : 1. Quelle est l'origine du problème ? 2. Conduit-il à avantager ou désavantager un tireur, au détriment ou au bénéfice d’un autre… ? 3. La décision conduira-t-elle ou non à une sanction ? 4. La décision est-elle équitable ? 5. Y a-t-il eu faute en connaissance de cause ou est-on en présence d’un jeune ou d’un débutant
 ignorant l’usage ou la réglementation ? 6. Existe-t-il plusieurs règles traitant du même sujet ? Y a-t-il ambiguïté ? 7. En cas d’incertitude, peut-on accorder le bénéfice du doute ? Oui c’est préférable…
 
-• Liste des points à contrôler avant le concours : Consulter le rapport d’arbitre.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    15
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- Liste des points à contrôler avant le concours : Consulter le rapport d’arbitre.
 
 A.4 LES « OUTILS DE TRAVAIL » DE L’ARBITRE
 A.4.1 LES RAPPORTS DE L’ARBITRE
@@ -640,10 +449,11 @@ Les imprimés doivent être disponibles auprès du PCRA. Ils doivent servir au c
 Ils comportent 3 colonnes d'appréciation : 1. pointer tout ce qui est conforme sur le terrain ; 2. pointer ce qui est imparfait, à revoir ou à modifier ; 3. pointer quand la modification a été réalisée.
 
 Les rapports d'arbitres servent :
-• pour les arbitres : contrôler et vérifier leur travail, ce qui va, ce qui doit être amélioré ;
-• pour les responsables arbitres départementaux et le PCRA : permettre le suivi des concours ;
-• pour les organisateurs : connaître ce qui a pu être oublié ou mal compris .
-Ne pas envoyer les rapports d’arbitres à la FFTA. Cependant, il y a des exceptions :
+
+- pour les arbitres : contrôler et vérifier leur travail, ce qui va, ce qui doit être amélioré ;
+- pour les responsables arbitres départementaux et le PCRA : permettre le suivi des concours ;
+- pour les organisateurs : connaître ce qui a pu être oublié ou mal compris .
+  Ne pas envoyer les rapports d’arbitres à la FFTA. Cependant, il y a des exceptions :
 
 1. si, au cours de la compétition, s’est posé un problème important, l’arbitre doit envoyer un rapport à la
    FFTA (à l’attention du Président de la CNA) avec tous les détails concernant l’incident ;
@@ -686,25 +496,21 @@ RAPPEL : Ces distinctions de la WA, ne peuvent s'obtenir que lors de compétitio
 lesquelles une demande particulière a été faite auprès de la FFTA, au moment de l'établissement du
 calendrier.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    16
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 B. LES ORGANISATIONS
 
 Définition d’une compétition sélective :
 
-    •   Une compétition se déroule le week-end (samedi et/ou dimanche)
-    •   Les organisateurs peuvent ajouter une journée supplémentaire accolée au week-end (jour férié ou
+    -   Une compétition se déroule le week-end (samedi et/ou dimanche)
+    -   Les organisateurs peuvent ajouter une journée supplémentaire accolée au week-end (jour férié ou
         non). Dans ce cas, ce jour supplémentaire est considéré pour nos règlements, comme partie
         intégrante du week-end. Une compétition comptant pour le classement sélectif ne dépassera pas
         trois jours consécutifs.
-    •   Seules les manifestations nationales ou internationales peuvent sortir de ce cadre (TNJ, Semaine
+    -   Seules les manifestations nationales ou internationales peuvent sortir de ce cadre (TNJ, Semaine
         Jeune, Manche de D1, finale des DR, Semaine des championnats de France et tous les
         Championnats de France).
-    •   Les clubs, Comités Départementaux, Comités Régionaux et la FFTA ont la possibilité d’organiser
+    -   Les clubs, Comités Départementaux, Comités Régionaux et la FFTA ont la possibilité d’organiser
         des compétitions sur une seule journée en semaine.
-    •   La participation d’archers licenciés dans un autre club est OBLIGATOIRE à chaque départ (pas plus
+    -   La participation d’archers licenciés dans un autre club est OBLIGATOIRE à chaque départ (pas plus
         de 2 archers d’un même club sur une même cible quel que soit le rythme de tir).
         Un minimum de 8 cibles par départ devra être utilisé, excepté pour les DOM-TOM.
 
@@ -740,17 +546,14 @@ Avant le début du concours, faire vérifier par le greffe :
 - veiller au dépôt, en temps voulu, de la composition des équipes ;
 - veiller à ne pas laisser un archer seul, ou 2 archers d'un même club, sur une cible par suite de défections.
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                       17
-
-  Les R èglement s Gé nér aux Edition Févr ier 2022
-
 B.1.3. LES RESULTATS
-• Faire figurer : date – lieu – nom du club organisateur ; - nom des arbitres du concours ; - nombre de participants dans chaque catégorie ; - une colonne par distance et une colonne pour le total général, ainsi que le total longues et courtes
-distances (Tir 4 distances) ; - pour chaque archer : nom, prénom, n° de licence, club, catégorie, score par distance.
-• Lors des championnats (départements, région, France), sauf en cas de classement scratch, le
-classement se fait par catégories d’âge et d’armes, selon les catégories ouvertes pour les
-Championnats de France.
-Un logiciel FFTA permet la gestion des inscriptions et des résultats (ResultArc).
+
+- Faire figurer : date – lieu – nom du club organisateur ; - nom des arbitres du concours ; - nombre de participants dans chaque catégorie ; - une colonne par distance et une colonne pour le total général, ainsi que le total longues et courtes
+  distances (Tir 4 distances) ; - pour chaque archer : nom, prénom, n° de licence, club, catégorie, score par distance.
+- Lors des championnats (départements, région, France), sauf en cas de classement scratch, le
+  classement se fait par catégories d’âge et d’armes, selon les catégories ouvertes pour les
+  Championnats de France.
+  Un logiciel FFTA permet la gestion des inscriptions et des résultats (ResultArc).
 
 B.1.4 ENVOI DES RESULTATS
 L'organisateur doit envoyer uniquement par le biais de l'application préconisée par la FFTA les résultats de
@@ -779,7 +582,7 @@ Le nombre de personnes accréditées par club ne peut dépasser une accréditati
 compétition sur le terrain ou une accréditation par tranche de 4 archers (1 entraîneur pour 1 à 4 archers
 en compétition individuelle, 2 entraîneurs de 5 à 8 archers, etc.).
 Les cadres techniques de la FFTA et les responsables de pôles (France et Espoirs) doivent présenter de
-façon constamment visible leur carte d’accréditation nominative, avec photo d’identité, valable pour la
+façon constamment visible leur carte d’accréditation nominative, avec phot- d’identité, valable pour la
 saison sportive en cours et délivrée par le Directeur Technique National.
 Toute personne demandant une accréditation doit détenir la licence fédérale de la saison en cours.
 Les cadres ou entraîneurs ci-dessus doivent présenter leur licence comportant l'indication de leur diplôme.
@@ -790,8 +593,7 @@ Un ou des photographes sont désignés officiellement par le service Communicati
 à l’organisateur et au Délégué Technique.
 Les photographes "amateurs" pourront être autorisés à pénétrer momentanément sur le terrain de
 compétition (dans la zone de presse), sous le contrôle et la responsabilité des arbitres.
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 18
-Les R èglement s Gé nér aux Edition Févr ier 2022
+Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 1
 
 1. Le Championnat de France en Salle(Tir à 18m)
    Lors des phases de qualification et jusqu'en 1/8ème de finale inclus :
@@ -824,12 +626,12 @@ Lors des 1/4 de finales, 1/2 finales et finales
 compétition et se positionner derrière la ligne d'attente.
 
 2. Championnat de France et compétitions nationales en extérieur (en individuel)
-   • Les championnats de France Elite et Championnats de France de Tir à l'Arc Extérieur
-   • La phase de qualification individuelle des manches des Championnats de France D1 Arcs Classique
-   et Arcs à Poulies, du championnat de France de D2, du championnat de France Jeunes par équipe
-   de club
-   • La semaine des Championnats de France individuels
-   • Les Tournoi Nationaux Jeunes (TNJ)
+   - Les championnats de France Elite et Championnats de France de Tir à l'Arc Extérieur
+   - La phase de qualification individuelle des manches des Championnats de France D1 Arcs Classique
+     et Arcs à Poulies, du championnat de France de D2, du championnat de France Jeunes par équipe
+     de club
+   - La semaine des Championnats de France individuels
+   - Les Tournoi Nationaux Jeunes (TNJ)
 
 Lors des phases de qualification et jusqu'en 1/8ème de finale inclus :
 Après la (les) session(s) d’entraînement, ne sont admis sur le terrain de compétition que les concurrents
@@ -842,16 +644,12 @@ Lors des 1/4 de finales, 1/2 finales et finales
 1 entraîneur, désigné par l'archer pour ces phases de la compétition, peut accéder au terrain de
 compétition et se positionner derrière la ligne d'attente.
 
-    • Tir en campagne, Parcours Nature et 3D
+    - Tir en campagne, Parcours Nature et 3D
 
 Ne sont admis sur le terrain de compétition que les concurrents participant au championnat, les arbitres,
 le Délégué Technique de la FFTA, le Président du Jury d'Appel, le Président du Comité d'Organisation,
 l'encadrement technique des équipes nationales (ces derniers munis d'un badge spécifique), et les
 personnes composant l'équipe de terrain qui devront être facilement identifiables et qui ne pourront
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    19
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 intervenir que sur demande expresse des arbitres, du Délégué Technique ou du Président du Comité
 d'Organisation.
 
@@ -866,9 +664,9 @@ comité régional met en place le règlement qu'elle désire.
 B.2.2 COMPETITIONS PAR ÉQUIPES
 B.2.2.1 CHAMPIONNATS DE FRANCE ET COMPETITIONS NATIONALES
 
-• Tir à l'Arc Extérieur : lors de la phase de qualification des compétitions de la filière par équipes
-de club, (Championnat de France D1 Arc Classique et Arc à Poulies, Manche et finale du
-championnat de France de D2, finale nationale des DR et Championnat de France Jeunes)
+- Tir à l'Arc Extérieur : lors de la phase de qualification des compétitions de la filière par équipes
+  de club, (Championnat de France D1 Arc Classique et Arc à Poulies, Manche et finale du
+  championnat de France de D2, finale nationale des DR et Championnat de France Jeunes)
 
 Phase de qualification : ne sont admis sur le terrain de compétition que les concurrents participant au
 tournoi, les arbitres et les entraîneurs (dans la limite d’1 entraîneur par équipe ou d’1 entraîneur pour 4
@@ -885,7 +683,7 @@ qui lui est réservé, selon la réglementation internationale.
 Les journalistes, photographes de presse, TV et la personne responsable de la communication de la FFTA
 auront accès au terrain de compétition après consultation de l'arbitre responsable.
 
-    • Tir en campagne, Parcours Nature et 3D
+    - Tir en campagne, Parcours Nature et 3D
 
 Ne sont admis sur le terrain de compétition que les concurrents participant au championnat, les arbitres,
 le Délégué Technique de la FFTA, le Président du Jury d'Appel, le Président du Comité d'Organisation,
@@ -910,8 +708,6 @@ Pour les compétitions autres que les championnats de France ou les compétition
 comité régional met en place le règlement qu'elle désire.
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              20
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 B.3 LES MARQUEURS
 Au moins un marqueur doit être désigné pour chaque cible. Ces marqueurs peuvent être des compétiteurs.
@@ -962,21 +758,18 @@ communication ;
 ✓ Si l'organisateur fournit un podium, les marches de ce dernier devront pouvoir accueillir les trois ou
 quatre archers composant les équipes, lors des compétitions par équipes.
 
-    • Repas et rafraîchissements
+    - Repas et rafraîchissements
 
 Les organisateurs doivent prévoir la distribution de boissons et d'un léger repas de midi pour tous les
 compétiteurs, responsables d'équipes, les arbitres et les membres du jury d'appel.
 De telles prestations peuvent être payantes pour les équipes. Elles seront gratuites pour les arbitres. Les
 prix de ces prestations seront indiqués dans l'invitation (mandat).
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    21
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 B.5 LE JURY D’APPEL, LES DÉLÉGUÉS TECHNIQUES ET LA NOMINATION DES ARBITRES
 B.5.1 LE JURY D’APPEL
 Le jury d'appel est souhaitable sur les compétitions. Il est obligatoire alors :
-• des championnats de France et compétitions nationales ;
-• des manches des compétitions de la Filière TAE en équipes, DRE, D2 et D1
+
+- des championnats de France et compétitions nationales ;
+- des manches des compétitions de la Filière TAE en équipes, DRE, D2 et D1
 
 Pour les Championnats Régionaux et Départementaux, le Comité Régional ou Départemental est libre d’en
 fixer le caractère obligatoire
@@ -990,25 +783,26 @@ d'entre elles aurait besoin de s'absenter. Par ailleurs, cela peut être intére
 Jury se trouve en conflit d'intérêt avec l'une des parties lors d'une réclamation.
 Lors de l'étude d'une réclamation, le Jury ne doit se composer que de trois membres.
 Ne peuvent, en aucune façon, faire partie du Jury d'Appel :
-• un archer participant à cette compétition ;
-• un arbitre officiant lors de cette compétition, même le président des arbitres.
-• Quelqu’un ayant un lien de parenté entre le Président de la Commission des arbitres, le Président
-du Jury et les membres du Jury.
-• Plus d’un membre du club organisateur
+
+- un archer participant à cette compétition ;
+- un arbitre officiant lors de cette compétition, même le président des arbitres.
+- Quelqu’un ayant un lien de parenté entre le Président de la Commission des arbitres, le Président
+  du Jury et les membres du Jury.
+- Plus d’un membre du club organisateur
 
 Les membres du jury doivent avoir une bonne connaissance des règlements sportifs de la discipline
 concernée.
 
-• Nomination
-Le Jury d’appel doit être nommé et sa composition rendue publique (par affichage par exemple) avant le
-démarrage de la compétition (tirs de qualification).
-Pour les championnats de France et compétitions de D1, tous les membres du Jury (dont le Président)
-sont nommés par le délégué technique de la compétition
-Pour les championnats Régionaux et Départementaux, les Comités Régionaux ou Départementaux
-concernés sont libres de fixer le mode de désignation.
-Pour les autres compétitions il est nommé par le Président de la commission des arbitres de la compétition.
+- Nomination
+  Le Jury d’appel doit être nommé et sa composition rendue publique (par affichage par exemple) avant le
+  démarrage de la compétition (tirs de qualification).
+  Pour les championnats de France et compétitions de D1, tous les membres du Jury (dont le Président)
+  sont nommés par le délégué technique de la compétition
+  Pour les championnats Régionaux et Départementaux, les Comités Régionaux ou Départementaux
+  concernés sont libres de fixer le mode de désignation.
+  Pour les autres compétitions il est nommé par le Président de la commission des arbitres de la compétition.
 
-    • Rôle du Jury d'Appel
+      - Rôle du Jury d'Appel
 
 Le Président du jury d’appel doit s'assurer qu'un local lui a été réservé et qu'il dispose du matériel pour faire
 des copies des décisions prises.
@@ -1024,22 +818,21 @@ doit juger en tout équité.
 
 La décision du Jury est définitive et sans appel.
 
-• La procédure
-Aucune réclamation ne pourra être prise en considération si elle n'a pas été présentée dans la forme ci-
-dessous.
-Les réclamations contre des décisions des arbitres, les organisateurs ou contre un autre concurrent,
-doivent être formulées par écrit par un compétiteur, une équipe ou leur capitaine d'équipe. La réclamation
-doit être remise au Président des arbitres de la compétition qui, après en avoir pris connaissance, la
-remettra au Président du Jury d'Appel.
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 22
-Les R èglement s Gé nér aux Edition Févr ier 2022
-Cette réclamation doit comporter :
-✓ nom et prénom du demandeur ;
-✓ fonction (compétiteur, capitaine d'équipe, etc…) ;
-✓ n° de dossard du demandeur ;
-✓ date et heure de dépôt de la réclamation ;
-✓ exposé de la réclamation, en se référant si possible à des règles précises ;
-✓ signature du demandeur.
+- La procédure
+  Aucune réclamation ne pourra être prise en considération si elle n'a pas été présentée dans la forme ci-
+  dessous.
+  Les réclamations contre des décisions des arbitres, les organisateurs ou contre un autre concurrent,
+  doivent être formulées par écrit par un compétiteur, une équipe ou leur capitaine d'équipe. La réclamation
+  doit être remise au Président des arbitres de la compétition qui, après en avoir pris connaissance, la
+  remettra au Président du Jury d'Appel.
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 22
+  Cette réclamation doit comporter :
+  ✓ nom et prénom du demandeur ;
+  ✓ fonction (compétiteur, capitaine d'équipe, etc…) ;
+  ✓ n° de dossard du demandeur ;
+  ✓ date et heure de dépôt de la réclamation ;
+  ✓ exposé de la réclamation, en se référant si possible à des règles précises ;
+  ✓ signature du demandeur.
 
 L'intention de déposer une réclamation, dans le cas où cela pourrait affecter la progression d'un concurrent
 d'une étape à l'autre de la compétition, doit être exprimée par écrit dans les 5 minutes qui suivent la fin du
@@ -1047,7 +840,7 @@ match.
 Une réclamation déposée 15 minutes après la fin des tirs ou après la remise des récompenses ne pourra
 pas être prise en considération.
 
-    • Devoirs du Jury d'Appel
+    - Devoirs du Jury d'Appel
 
 Le jury (au moins 3 membres) doit être disponible sur le terrain de compétition à tout moment, depuis le
 début de l'entraînement officiel jusqu'à 15 minutes après la fin des tirs.
@@ -1065,16 +858,16 @@ nationales et dont le rôle sera de :
 
 2. Présenter le cahier des charges de la compétition nationale à l'organisateur. Cela implique pour le Délégué
    Technique :
-   − d'être en possession de ce document réalisé par la FFTA ;
-   − d'avoir une bonne connaissance des règlements ;
-   − de prendre contact, dès sa nomination, avec l'organisateur, pour organiser sa venue ;
-   − de prévoir au moins une visite sur le site de la compétition quelques mois avant la compétition afin de
-   s'assurer que les terrains et le matériel à utiliser seront conformes (et en nombre suffisant) aux
-   règlements ainsi qu'aux vœux de la FFTA, sur le plan :
-   ✓ technique (contrôle des terrains et du matériel) ;
-   ✓ de la sécurité ;
-   ✓ de l'accueil des personnalités, des média, du public ;
-   ✓ de la publicité faite autour de l'événement.
+   - d'être en possession de ce document réalisé par la FFTA ;
+   - d'avoir une bonne connaissance des règlements ;
+   - de prendre contact, dès sa nomination, avec l'organisateur, pour organiser sa venue ;
+   - de prévoir au moins une visite sur le site de la compétition quelques mois avant la compétition afin de
+     s'assurer que les terrains et le matériel à utiliser seront conformes (et en nombre suffisant) aux
+     règlements ainsi qu'aux vœux de la FFTA, sur le plan :
+     ✓ technique (contrôle des terrains et du matériel) ;
+     ✓ de la sécurité ;
+     ✓ de l'accueil des personnalités, des média, du public ;
+     ✓ de la publicité faite autour de l'événement.
 
 En fonction des problèmes ou des difficultés rencontrés lors de cette prise de contact, une deuxième visite peut
 s'avérer nécessaire pour contrôler que tout ce qui a été prévu (ou promis) a bien été mis en place.
@@ -1082,39 +875,36 @@ s'avérer nécessaire pour contrôler que tout ce qui a été prévu (ou promis)
 3.  Être présent sur les lieux de la compétition dès la veille de l'entraînement officiel, afin de pouvoir prendre
     les dernières décisions, si nécessaire. Le rôle du Délégué Technique prendra fin lors de la clôture de la
     compétition. Au cours de celle-ci, son travail est de :
-    − être en liaison étroite avec les organisateurs (aide, conseils) ;
-    − superviser l'attribution des cibles (Tir à l'Arc Extérieur, Salle(Tir à 18m), Beursault) ;
-    − superviser la composition des pelotons (Tir en Campagne, Parcours Nature, Parcours 3D) ;
-    − organiser et présider la réunion des capitaines d'équipes lors des compétitions par équipes ;
-    − superviser l'organisation de la cérémonie d'ouverture (s'il y en a une) ;
-    − superviser le bon déroulement de la compétition, l'application des règlements et les demandes de
-    la FFTA ;
-    − résoudre tout problème qui ne concerne pas les arbitres ou le Jury d'Appel ;
-    − coopérer étroitement avec la Commission des Arbitres de la compétition ;
 
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   23
+    - être en liaison étroite avec les organisateurs (aide, conseils) ;
+    - superviser l'attribution des cibles (Tir à l'Arc Extérieur, Salle(Tir à 18m), Beursault) ;
+    - superviser la composition des pelotons (Tir en Campagne, Parcours Nature, Parcours 3D) ;
+    - organiser et présider la réunion des capitaines d'équipes lors des compétitions par équipes ;
+    - superviser l'organisation de la cérémonie d'ouverture (s'il y en a une) ;
+    - superviser le bon déroulement de la compétition, l'application des règlements et les demandes de
+      la FFTA ;
+    - résoudre tout problème qui ne concerne pas les arbitres ou le Jury d'Appel ;
+    - coopérer étroitement avec la Commission des Arbitres de la compétition ;
 
-    Les R èglement s Gé nér aux Edition Févr ier 2022
+    - servir d'intermédiaire (si nécessaire) entre le Président des arbitres, les organisateurs, la FFTA ;
+    - conduire l’organisation de la remise des récompenses en respect des cahiers des charges
+      (protocole de la remise de récompenses) ;
+    - protéger la réputation de la FFTA ;
+    - être attentif aux préoccupations des médias ;
+    - être "le maître de cérémonie" de la compétition. cf. C.12.1.1.
+    - Étant le représentant officiel de la FFTA, le Délégué Technique est de droit le délégué fédéral lors d’un
+      contrôle antidopage. Il lui incombe de former les escortes et d’assister les préleveurs tout au long du
+      contrôle.
+    - lors des compétitions nationales, le solde de la subvention FFTA sera versé à l’organisateur suite
+      au rapport transmis par le Délégué Technique de la FFTA.
 
-    − servir d'intermédiaire (si nécessaire) entre le Président des arbitres, les organisateurs, la FFTA ;
-    − conduire l’organisation de la remise des récompenses en respect des cahiers des charges
-    (protocole de la remise de récompenses) ;
-    − protéger la réputation de la FFTA ;
-    − être attentif aux préoccupations des médias ;
-    − être "le maître de cérémonie" de la compétition. cf. C.12.1.1.
-    − Étant le représentant officiel de la FFTA, le Délégué Technique est de droit le délégué fédéral lors d’un
-    contrôle antidopage. Il lui incombe de former les escortes et d’assister les préleveurs tout au long du
-    contrôle.
-    − lors des compétitions nationales, le solde de la subvention FFTA sera versé à l’organisateur suite
-    au rapport transmis par le Délégué Technique de la FFTA.
+    - Rapports
+      Le Délégué Technique, après chaque visite sur le site de la compétition, devra adresser un rapport au
+      Président de la FFTA (avec copie au Président de la Commission Sportive concernée et au Président de la
+      Commission des Arbitres désigné pour la compétition) sur l'avancement de l'organisation de la compétition,
+      en fonction du cahier des charges.
 
-    • Rapports
-    Le Délégué Technique, après chaque visite sur le site de la compétition, devra adresser un rapport au
-    Président de la FFTA (avec copie au Président de la Commission Sportive concernée et au Président de la
-    Commission des Arbitres désigné pour la compétition) sur l'avancement de l'organisation de la compétition,
-    en fonction du cahier des charges.
-
-        • Les frais du Délégué Technique
+          - Les frais du Délégué Technique
 
     Désigné par la FFTA, le Délégué Technique est pris en charge financièrement (déplacements, hébergement,
     repas), par la FFTA. Il devra avoir l'accord du Président de la FFTA pour une éventuelle deuxième visite sur
@@ -1129,12 +919,13 @@ par cet arbitre ou un Jeune Arbitre en activité ayant prêté serment.
 
 Un club sans arbitre en activité ne pourra pas organiser de compétition officielle (=sélective ou qualificative
 pour une compétition nationale Championnat). Cependant :
-• Un club récemment créé disposera d’un délai de 2 ans pour se mettre en conformité.
-• Les clubs des DOM-TOM ne sont pas soumis à cette obligation.
-• Des dérogations pourront être accordées par les Présidents de Comités Départementaux
-uniquement pour ce qui concerne l'organisation de Championnats Départementaux et par les
-Présidents de Comités Régionaux uniquement pour l'organisation de Championnats Régionaux.
-• Les dérogations pour l'organisation de compétitions dominicales ne sont pas admises.
+
+- Un club récemment créé disposera d’un délai de 2 ans pour se mettre en conformité.
+- Les clubs des DOM-TOM ne sont pas soumis à cette obligation.
+- Des dérogations pourront être accordées par les Présidents de Comités Départementaux
+  uniquement pour ce qui concerne l'organisation de Championnats Départementaux et par les
+  Présidents de Comités Régionaux uniquement pour l'organisation de Championnats Régionaux.
+- Les dérogations pour l'organisation de compétitions dominicales ne sont pas admises.
 
 L'arbitre responsable du Championnat de France Beursault sera désigné en fonction de la région sur le
 territoire de laquelle est organisé ce championnat : - arbitre d'Ile de France quand le championnat se déroule en Ile de France ; - arbitre des Hauts de France quand ce championnat se déroule en Hauts de France.
@@ -1147,10 +938,6 @@ territoire de laquelle est organisé ce championnat : - arbitre d'Ile de France 
 - Le PCRA d’une région où se déroule une compétition nationale doit transmettre la liste des arbitres (et
   du Directeur de Tir) à l’Arbitre Responsable de la compétition 3 semaines avant le début de la compétition.
 - Seuls les arbitres détenant l’option de la compétition à arbitrer pourront participer à l’arbitrage.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 24
-
-  Les R èglement s Gé nér aux Edition Févr ier 2022
 
                         NOMBRE D’ARBITRES DANS LES COMPETITIONS NATIONALES
 
@@ -1209,76 +996,77 @@ capitaines d'équipes pour régler un problème momentané, important et/ou urge
 faire, car cela peut être un élément sérieux au bon déroulement de la compétition. Cela peut aussi
 empêcher des réclamations auprès du Jury d'Appel qui risqueraient de retarder le concours.
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                            25
+25
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- Plan de la réunion des capitaines d'équipes :
+  ▪ présentation des personnalités présentes (s'il y en a) ;
+  ▪ présentation du Président du comité d'organisation ;
+  ▪ présentation de la Commission des Arbitres : arbitres et Directeurs des Tirs ;
+  ▪ reprendre le programme et les horaires : informer des modifications éventuelles qui ont pu
+  intervenir depuis les publications antérieures ;
 
-• Plan de la réunion des capitaines d'équipes :
-▪ présentation des personnalités présentes (s'il y en a) ;
-▪ présentation du Président du comité d'organisation ;
-▪ présentation de la Commission des Arbitres : arbitres et Directeurs des Tirs ;
-▪ reprendre le programme et les horaires : informer des modifications éventuelles qui ont pu
-intervenir depuis les publications antérieures ;
+- informations techniques :
 
-• informations techniques :
-o rythmes de tir ;
-o blasons utilisés ;
-o organisation de l'entraînement (45 minutes ou flèches d'essai) ;
-o organisation de la marque (feuilles de marque, présence ou non de marqueurs fournis par
-l'organisation, la marque durant les phases éliminatoires et finales) ;
-o organisation des phases éliminatoires et finales : attribution des cibles, nombre d'archers par
-cible, utilisation des abris pour les arbitres près des cibles, les agents des archers, les
-coureurs, tir simultané ou tir alterné, etc… ;
-o organisation du tir par équipes ;
-o comment seront gérés les incidents de tir et de matériel ;
-o entraînement possible sur un terrain séparé ou sur le terrain de compétition ;
-o la tenue vestimentaire des compétiteurs ;
-o problèmes de publicité sur l'habillement ou l'équipement des concurrents ;
-o l'inspection du matériel (où ? quand ?) ;
+  - rythmes de tir ;
+  - blasons utilisés ;
+  - organisation de l'entraînement (45 minutes ou flèches d'essai) ;
+  - organisation de la marque (feuilles de marque, présence ou non de marqueurs fournis par
+    l'organisation, la marque durant les phases éliminatoires et finales) ;
+  - organisation des phases éliminatoires et finales : attribution des cibles, nombre d'archers par
+    cible, utilisation des abris pour les arbitres près des cibles, les agents des archers, les
+    coureurs, tir simultané ou tir alterné, etc… ;
+  - organisation du tir par équipes ;
+  - comment seront gérés les incidents de tir et de matériel ;
+  - entraînement possible sur un terrain séparé ou sur le terrain de compétition ;
+  - la tenue vestimentaire des compétiteurs ;
+  - problèmes de publicité sur l'habillement ou l'équipement des concurrents ;
+  - l'inspection du matériel (où ? quand ?) ;
 
-• nombre de qualifiés à l'issue de la phase de qualification ;
+- nombre de qualifiés à l'issue de la phase de qualification ;
 
-• les personnes autorisées à entrer dans la zone de repos des archers ;
+- les personnes autorisées à entrer dans la zone de repos des archers ;
 
-• rappel de quelques points importants du règlement :
-o départage des égalités lors des différentes phases de la compétition ;
-o position des coachs lors du tir par équipes ;
-o les pénalités lors du tir par équipes ;
-o interdiction de fumer ;
-o usage des téléphones portables ;
+- rappel de quelques points importants du règlement :
 
-• Jury d'Appel :
-o annoncer sa composition (président, membres titulaires et suppléants) ;
-o rappeler rapidement la procédure à utiliser pour faire appel au jury ;
-o utilisation des imprimés spéciaux (où se les procurer ?) ;
+  - départage des égalités lors des différentes phases de la compétition ;
+  - position des coachs lors du tir par équipes ;
+  - les pénalités lors du tir par équipes ;
+  - interdiction de fumer ;
+  - usage des téléphones portables ;
 
-• donner la parole à l'assistance et répondre aux questions concernant le côté technique de la
-compétition ;
+- Jury d'Appel :
 
-• donner la parole au Président du comité d'organisation qui donnera les informations nécessaires
-sur les problèmes matériels tels que :
-o les repas ;
-o les transports, l'hébergement (s'il y a lieu) ;
-o règlement particulier concernant le terrain, la Salle(Tir à 18m) ;
-o et tout autre problème matériel (autre que technique) pouvant se présenter.
+  - annoncer sa composition (président, membres titulaires et suppléants) ;
+  - rappeler rapidement la procédure à utiliser pour faire appel au jury ;
+  - utilisation des imprimés spéciaux (où se les procurer ?) ;
 
-                Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                26
+- donner la parole à l'assistance et répondre aux questions concernant le côté technique de la
+  compétition ;
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- donner la parole au Président du comité d'organisation qui donnera les informations nécessaires
+  sur les problèmes matériels tels que :
+
+  - les repas ;
+  - les transports, l'hébergement (s'il y a lieu) ;
+  - règlement particulier concernant le terrain, la Salle(Tir à 18m) ;
+  - et tout autre problème matériel (autre que technique) pouvant se présenter.
+
+                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                26
 
 B.7 POINTS PARTICULIERS
-• Les feuilles de marques – Contrôle des scores
-Il existe un modèle de feuille de marque par discipline. Pour des raisons de sécurité, les feuilles de marque
-doivent être déposées à au moins 2m devant les cibles (Tir à l'Arc Extérieur, Salle(Tir à 18m)).
-Lors de toutes les compétitions, les archers sont responsables de leurs scores. Ils doivent
-impérativement :
-➢ Contrôler leurs scores (feuille de marque et double marque)
-➢ Signer les deux feuilles de marques. Cette signature atteste que l’archer est d’accord avec :
-o la valeur de chaque flèche
-o le nombre de 10 et de X (Tir à l'Arc Extérieur) le nombre de 10 et de 9 (Tir en Salle(Tir à
-18m)), de 5 et de 6 (Tir en Campagne), de 10 et de 11 (Tir 3D)
-o le total général
-o Le vainqueur du match
+
+- Les feuilles de marques – Contrôle des scores
+  Il existe un modèle de feuille de marque par discipline. Pour des raisons de sécurité, les feuilles de marque
+  doivent être déposées à au moins 2m devant les cibles (Tir à l'Arc Extérieur, Salle(Tir à 18m)).
+  Lors de toutes les compétitions, les archers sont responsables de leurs scores. Ils doivent
+  impérativement :
+  ➢ Contrôler leurs scores (feuille de marque et double marque)
+  ➢ Signer les deux feuilles de marques. Cette signature atteste que l’archer est d’accord avec :
+  - la valeur de chaque flèche
+  - le nombre de 10 et de X (Tir à l'Arc Extérieur) le nombre de 10 et de 9 (Tir en Salle(Tir à
+    18m)), de 5 et de 6 (Tir en Campagne), de 10 et de 11 (Tir 3D)
+  - le total général
+  - Le vainqueur du match
 
 Les feuilles de marques :
 ➢ doivent être remplies correctement et sans rature (valeur de flèche, nombre de 10 et de X ou 9)
@@ -1297,25 +1085,25 @@ l’objet d’une réclamation dans les règles habituelles de la part d’un ar
 lésé. Dans cette opération, il est essentiel qu’aucune valeur de flèche ne soit modifiée. Un archer
 ne peut remettre en cause sa propre signature ou celle de son agent.
 
-• Mises multiples
-Lorsqu'un archer participe à plusieurs départs lors d'un même concours, seul son premier score sera pris
-en compte pour le classement officiel de la compétition.
-Pour les compétitions dont les scores sont qualificatifs (tir Beursault), se reporter à Cf. II.1 Le Tir à l'Arc
-Extérieur - Article C.5.4
-Pour les compétitions donnant lieu au classement national, les scores des différents départs doivent être
-transmis pour saisie.
+- Mises multiples
+  Lorsqu'un archer participe à plusieurs départs lors d'un même concours, seul son premier score sera pris
+  en compte pour le classement officiel de la compétition.
+  Pour les compétitions dont les scores sont qualificatifs (tir Beursault), se reporter à Cf. II.1 Le Tir à l'Arc
+  Extérieur - Article C.5.4
+  Pour les compétitions donnant lieu au classement national, les scores des différents départs doivent être
+  transmis pour saisie.
 
 Entraînement : si l'archer participe à plusieurs départs le même jour, il pourra bénéficier d’une session
 d’entraînement (de 20 à 45 mn ou de 2 volées d’essai) avant chaque départ.
 
-• Assistance médicale et secours
-L’organisateur est tenu de prendre toutes dispositions pour assurer l’assistance médicale : équipe de
-secouristes (1 ou plusieurs postes), le cas échéant, ligne téléphonique ou portable, numéro de téléphone
-d’un médecin de garde ou SAMU. Il veillera à l’élaboration d’un plan d’approche des secours et d’évacuation.
-En Salle(Tir à 18m), les issues de secours devront être en service.
-L’arbitre devra, avant la compétition, rappeler cette obligation à l’organisateur.
+- Assistance médicale et secours
+  L’organisateur est tenu de prendre toutes dispositions pour assurer l’assistance médicale : équipe de
+  secouristes (1 ou plusieurs postes), le cas échéant, ligne téléphonique ou portable, numér- de téléphone
+  d’un médecin de garde ou SAMU. Il veillera à l’élaboration d’un plan d’approche des secours et d’évacuation.
+  En Salle(Tir à 18m), les issues de secours devront être en service.
+  L’arbitre devra, avant la compétition, rappeler cette obligation à l’organisateur.
 
-    • Épreuve Salle(Tir à 18m) : 2x25m+2x18m
+      - Épreuve Salle(Tir à 18m) : 2x25m+2x18m
 
 Cette compétition est au format international, avec classement unique à l’issue des 4 distances.
 L’ordre de tir (25m ou 18m) est laissé au choix de l’organisateur.
@@ -1324,15 +1112,11 @@ session d’entraînement (de 20 à 45 minutes ou 2 volées d’essai) avant le 
 si les archers sont amenés à changer de ligne de tir lors de la deuxième distance.
 Si cette compétition est organisée sur deux jours, les compétiteurs ont droit à une session d’entraînement
 chaque jour.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   27
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 Les scores de chaque distance (2x25m et 2x18m) qui doivent apparaître dans les résultats transmis à la
 FFTA, sont pris en compte pour le classement national et seront sélectifs pour le Championnat de France
 en Salle(Tir à 18m).
 
-    • Arrêt du tir
+    - Arrêt du tir
 
 Si un concurrent a tiré au moins 1 flèche durant l’épreuve de qualification, il sera classé selon le score qu’il
 aura obtenu, aussi bien pour la compétition individuelle que par équipes.
@@ -1341,7 +1125,7 @@ S’il ne tire aucune flèche durant l’épreuve de qualification, il ne sera p
 est membre de l’équipe et que cette équipe ne dispose que de 3 archers). Leurs adversaires disposeront
 donc d’un bye (exemption).
 
-    • Interruption de la compétition
+    - Interruption de la compétition
 
 L’interruption définitive d’une compétition sélective ou qualificative pour les compétitions nationales
 (championnats) ne peut être décidée que par l’arbitre responsable de la compétition après concertation
@@ -1355,18 +1139,15 @@ que tous les concurrents aient tiré le même nombre de volées afin de pouvoir 
 ➢ Quel que soit le nombre de flèches tirées, la compétition n’est pas annulée, elle est arrêtée sur
 décision de l’arbitre
 ➢ Le classement est validé avec les scores acquis au moment de l’interruption. Ainsi :
-o la remise des prix doit se tenir comme prévu
-o l’organisateur n’a pas à rembourser les mises : il n’est pas responsable des intempéries
-o la FFTA reconnaît le classement et les scores réalisés
-Une autre compétition (dans la même discipline), sélective ou qualificative pour une compétition nationale
-(championnat…), pourra être organisée à la demande du Comité Régional.
+
+- la remise des prix doit se tenir comme prévu
+- l’organisateur n’a pas à rembourser les mises : il n’est pas responsable des intempéries
+- la FFTA reconnaît le classement et les scores réalisés
+  Une autre compétition (dans la même discipline), sélective ou qualificative pour une compétition nationale
+  (championnat…), pourra être organisée à la demande du Comité Régional.
 
 B.8 LES RÈGLES DE SÉCURITÉ SUR LES TERRAINS
 Les règles de sécurité sur les terrains ou les parcours sont précisées sur le site internet de la FFTA.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  28
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 C. LES COMPÉTITEURS : RÈGLES ADMINISTRATIVES ET SPORTIVES
 C.1 LES COMPÉTITEURS ETRANGERS
@@ -1393,39 +1174,37 @@ PRATIQUE DE LA PERSONNE HANDICAPÉE
 
 En France, trois fédérations sont délégataires de mission de service publique pour l’organisation du tir à
 l’arc (unisport ou multisport) :
-• La FFTA pour la pratique dite ordinaire
-• La FFH, Fédération Française Handisport pour les handicaps physiques, visuels et auditifs
-• La FFSA, Fédération Sport Adapté pour les handicaps mentaux et maladies psychiques.
-La pratique adaptée du tir à l’arc est dévolue, par délégation du Ministère chargé des Sports, à la FFH ou à
-la FFSA.
-Les archers souhaitant pratiquer sur des compétitions inscrites au calendrier de la FFTA doivent être en
-possession d’une licence de la FFTA ouvrant droit à la compétition (dont la licence "convention Handi").
+
+- La FFTA pour la pratique dite ordinaire
+- La FFH, Fédération Française Handisport pour les handicaps physiques, visuels et auditifs
+- La FFSA, Fédération Sport Adapté pour les handicaps mentaux et maladies psychiques.
+  La pratique adaptée du tir à l’arc est dévolue, par délégation du Ministère chargé des Sports, à la FFH ou à
+  la FFSA.
+  Les archers souhaitant pratiquer sur des compétitions inscrites au calendrier de la FFTA doivent être en
+  possession d’une licence de la FFTA ouvrant droit à la compétition (dont la licence "convention Handi").
 
 PRATIQUE ORDINAIRE (selon catégories et règlement FFTA)
 
 La FFTA accueille les archers, capables de tirer selon les règlements FFTA, y compris
-• lorsqu’ils ont des déficiences pouvant être compensées par des assistances (mécaniques ou
-humaines),
-• lorsqu’ils ont besoin d’avoir une station permanente au pas de tir pendant les phases de tir
-Dans ce cas, les archers sont inscrits dans les catégories (âge/sexe/arme) de la FFTA et ne font pas
-l’objet d’un classement spécifique.
-Seule la Fédération Française Handisport est en mesure de définir les assistances mécaniques ou
-humaines permettant de tirer dans les conditions équitables et règlementaires. A cette fin et si cela est
-justifié, la FFH délivre à l’archer qui en fera la demande, une carte de classification faisant mention :
-• de l’autorisation d’usage d’une assistance mécanique ou humaine
-• du type d’assistance (tabouret, prothèse, fauteuil, accessoires, …)
-• de la nécessité de la station permanente au pas de tir (de l’archer ou de son assise)
-Les archers concernés doivent :
-• en informer l’organisateur dès leur inscription
-• présenter la carte de classification délivrée par la FFH à l’arbitre responsable de la compétition dès
-leur arrivée sur le terrain de compétition
-Il appartient à l’organisateur de prendre ses dispositions pour la répartition sur le pas de tir, sachant que
-les dimensions maximum autorisées pour les fauteuils sont de 1,25 m et pour les assises (tabourets) sont
-de 0,80 m.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               29
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- lorsqu’ils ont des déficiences pouvant être compensées par des assistances (mécaniques ou
+  humaines),
+- lorsqu’ils ont besoin d’avoir une station permanente au pas de tir pendant les phases de tir
+  Dans ce cas, les archers sont inscrits dans les catégories (âge/sexe/arme) de la FFTA et ne font pas
+  l’objet d’un classement spécifique.
+  Seule la Fédération Française Handisport est en mesure de définir les assistances mécaniques ou
+  humaines permettant de tirer dans les conditions équitables et règlementaires. A cette fin et si cela est
+  justifié, la FFH délivre à l’archer qui en fera la demande, une carte de classification faisant mention :
+- de l’autorisation d’usage d’une assistance mécanique ou humaine
+- du type d’assistance (tabouret, prothèse, fauteuil, accessoires, …)
+- de la nécessité de la station permanente au pas de tir (de l’archer ou de son assise)
+  Les archers concernés doivent :
+- en informer l’organisateur dès leur inscription
+- présenter la carte de classification délivrée par la FFH à l’arbitre responsable de la compétition dès
+  leur arrivée sur le terrain de compétition
+  Il appartient à l’organisateur de prendre ses dispositions pour la répartition sur le pas de tir, sachant que
+  les dimensions maximum autorisées pour les fauteuils sont de 1,25 m et pour les assises (tabourets) sont
+  de 0,80 m.
 
 Assistance humaine :
 Lorsqu’un assistant est requis avec l’autorisation de la FFH, cet assistant pourra être positionné en arrière
@@ -1441,10 +1220,11 @@ au manque de compétitions spécifiques en FFH ou FFSA. Cette tolérance s’app
 l’organisateur, en fonction de la place complémentaire dont il dispose sur la zone de tir. Dans ce cas,
 l’organisateur doit au préalable en informer l’arbitre responsable désigné pour la compétition. Cette
 situation peut se présenter sous réserve des conditions suivantes :
-• tout archer tirant sur le terrain doit être en possession de la licence FFTA de la saison en cours
-• la présence et la pratique ne doivent pas perturber le rythme de la compétition officielle
-• les scores ne peuvent pas faire l’objet d’un classement FFTA et ne doivent pas être enregistrés
-dans le système fédéral des scores.
+
+- tout archer tirant sur le terrain doit être en possession de la licence FFTA de la saison en cours
+- la présence et la pratique ne doivent pas perturber le rythme de la compétition officielle
+- les scores ne peuvent pas faire l’objet d’un classement FFTA et ne doivent pas être enregistrés
+  dans le système fédéral des scores.
 
 C.3 LES DISPOSITIONS ADMINISTRATIVES COMMUNES
 C.3.1. LES CATEGORIES
@@ -1489,66 +1269,59 @@ délivrable uniquement à partir de mars de la
 saison en cours à des personnes n’ayant jamais été
 licenciées FFTA
 
-• On trouvera les dispositions particulières à chaque discipline, suivant la catégorie et le type d'arme
-utilisé, dans la partie "Descriptions des compétitions".
-Tout archer participant à une compétition, sans être en possession de sa nouvelle licence à la date du 15 octobre,
-perdra le bénéfice des scores réalisés entre la date de la nouvelle saison et la date de prise de licence.
+- On trouvera les dispositions particulières à chaque discipline, suivant la catégorie et le type d'arme
+  utilisé, dans la partie "Descriptions des compétitions".
+  Tout archer participant à une compétition, sans être en possession de sa nouvelle licence à la date du 15 octobre,
+  perdra le bénéfice des scores réalisés entre la date de la nouvelle saison et la date de prise de licence.
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                          30
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-• Classements* : lors des Championnats Départementaux et Régionaux avec ou sans phases finales, il
-est obligatoire d'établir les classements en respectant toutes les catégories d'âge reconnues dans le
-tableau officiel des qualifications.
-*Cette règle est déclinée pour toutes les disciplines
-C.3.1.1 LES POUSSINS(U11)
-Les Poussins(U11) bénéficient de la pratique en club : apprentissage, rencontres ludiques et rencontres
-spécifiques. Ils doivent être en possession d’un certificat médical de non contre-indication à la pratique du
-tir à l’arc pouvant être délivré par tout docteur en médecine.
-Pour cette catégorie, cette pratique s'entend avec une gamme d'arcs classiques de faible puissance
-(puissance marquée sur les branches inférieure ou égale à 18 livres). Les distances de tir, les blasons, les
-séances devront être en rapport avec la démarche pédagogique proposée par la Fédération. Afin de
-faciliter la pratique, la hauteur du centre de l’objectif ne doit pas dépasser 1,10m par rapport au sol.
-Les rencontres spécifiques sont des épreuves préconisées par la FFTA :
-• passage et obtention des badges « plumes » et « flèches de progression »
-• toutes rencontres dont les règles sont publiées dans un ouvrage ou une brochure éditée par la FFTA.
+- Classements* : lors des Championnats Départementaux et Régionaux avec ou sans phases finales, il
+  est obligatoire d'établir les classements en respectant toutes les catégories d'âge reconnues dans le
+  tableau officiel des qualifications.
+  *Cette règle est déclinée pour toutes les disciplines
+  C.3.1.1 LES POUSSINS(U11)
+  Les Poussins(U11) bénéficient de la pratique en club : apprentissage, rencontres ludiques et rencontres
+  spécifiques. Ils doivent être en possession d’un certificat médical de non contre-indication à la pratique du
+  tir à l’arc pouvant être délivré par tout docteur en médecine.
+  Pour cette catégorie, cette pratique s'entend avec une gamme d'arcs classiques de faible puissance
+  (puissance marquée sur les branches inférieure ou égale à 18 livres). Les distances de tir, les blasons, les
+  séances devront être en rapport avec la démarche pédagogique proposée par la Fédération. Afin de
+  faciliter la pratique, la hauteur du centre de l’objectif ne doit pas dépasser 1,10m par rapport au sol.
+  Les rencontres spécifiques sont des épreuves préconisées par la FFTA :
+- passage et obtention des badges « plumes » et « flèches de progression »
+- toutes rencontres dont les règles sont publiées dans un ouvrage ou une brochure éditée par la FFTA.
 
 A partir de l’âge de 8 ans, les jeunes archers de la catégorie Poussin(U11) sont admis en compétition officielle
 en Salle(Tir à 18m) et en Tir à l'Arc Extérieur.
-• seuls les arcs classiques sont admis ;
-• Tir en Salle(Tir à 18m) à 18m, sur blason de 80cm, hauteur du centre du blason : 1,10m
-• Tir à l'Arc Extérieur à 20m, sur blason de 80cm, hauteur du centre du blason : 1,10m
-• Les Poussins(U11) doivent tirer une puissance marquée sur les branches inférieure ou égale à 18 livres.
-Un archer, tirant une puissance marquée sur les branches, supérieure à 18 livres, doit obligatoirement
-être en possession d’un certificat médical de non contre-indication à la pratique du tir à l’arc en
-compétition délivré par un médecin agréé par la FFTA. Ce certificat devra mentionner la puissance
-marquée des branches utilisées lors de l’examen médical. La puissance devra être contrôlée par l’arbitre
-qui n’autorisera pas le Poussin(U11) à concourir si cette puissance marquée est supérieure à celle
-inscrite sur le certificat médical.
-• Pour cette catégorie, aucun titre et aucun record, ni meilleure performance ne peuvent être attribués au
-niveau national.
 
-• Surclassement
-A l’âge de 10 ans (dernière année de la catégorie), le Poussin(U11) peut être classé en catégorie
-Benjamin(U13) uniquement à condition de posséder 2 certificats médicaux qui ne peuvent être établis que par
-un médecin agréé par la FFTA :
-• Un certificat médical de non contre-indication à la pratique du tir à l’arc en compétition
-• Un certificat médical de surclassement dans la catégorie Benjamin(U13)
-Dans ce cas, le nouveau Benjamin(U13) peut tirer dans toutes les disciplines ouvertes aux Benjamins(U13) en
-arc classique uniquement. Les Poussins(U11) surclassés en Benjamin(U13) ne peuvent pas tirer avec un arc à
-poulies. Le double surclassement est interdit.
+- seuls les arcs classiques sont admis ;
+- Tir en Salle(Tir à 18m) à 18m, sur blason de 80cm, hauteur du centre du blason : 1,10m
+- Tir à l'Arc Extérieur à 20m, sur blason de 80cm, hauteur du centre du blason : 1,10m
+- Les Poussins(U11) doivent tirer une puissance marquée sur les branches inférieure ou égale à 18 livres.
+  Un archer, tirant une puissance marquée sur les branches, supérieure à 18 livres, doit obligatoirement
+  être en possession d’un certificat médical de non contre-indication à la pratique du tir à l’arc en
+  compétition délivré par un médecin agréé par la FFTA. Ce certificat devra mentionner la puissance
+  marquée des branches utilisées lors de l’examen médical. La puissance devra être contrôlée par l’arbitre
+  qui n’autorisera pas le Poussin(U11) à concourir si cette puissance marquée est supérieure à celle
+  inscrite sur le certificat médical.
+- Pour cette catégorie, aucun titre et aucun record, ni meilleure performance ne peuvent être attribués au
+  niveau national.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 31
+- Surclassement
+  A l’âge de 10 ans (dernière année de la catégorie), le Poussin(U11) peut être classé en catégorie
+  Benjamin(U13) uniquement à condition de posséder 2 certificats médicaux qui ne peuvent être établis que par
+  un médecin agréé par la FFTA :
+- Un certificat médical de non contre-indication à la pratique du tir à l’arc en compétition
+- Un certificat médical de surclassement dans la catégorie Benjamin(U13)
+  Dans ce cas, le nouveau Benjamin(U13) peut tirer dans toutes les disciplines ouvertes aux Benjamins(U13) en
+  arc classique uniquement. Les Poussins(U11) surclassés en Benjamin(U13) ne peuvent pas tirer avec un arc à
+  poulies. Le double surclassement est interdit.
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
+      Tableau de synthèse de la pratique du tir à l’arc chez les Poussins(U11) :
 
-    Tableau de synthèse de la pratique du tir à l’arc chez les Poussins(U11) :
-
-                                                         Tir en Salle(Tir à   Tir à l'Arc           Disciplines de Parcours
-                          Certificats médicaux                 18m)           Extérieur
-                                                         18m         25m                    Campagne       Nature             3D
-                         Certificat médical de non
+                                                           Tir en Salle(Tir à   Tir à l'Arc           Disciplines de Parcours
+                            Certificats médicaux                 18m)           Extérieur
+                                                           18m         25m                    Campagne       Nature             3D
+                           Certificat médical de non
 
 Poussins(U11)
 contre-indication à la pratique NON NON NON NON NON NON
@@ -1609,13 +1382,10 @@ C.3.2 LES SURCLASSEMENTS
     subir un examen médical spécifique qui donne lieu à la délivrance d’un certificat médical de simple
     surclassement :
 
-
-                         Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                             32
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 Ce certificat ne peut être délivré que :
-• Par un médecin agréé par la FFTA.
-• Lors de la dernière année d’une catégorie d’âge
+
+- Par un médecin agréé par la FFTA.
+- Lors de la dernière année d’une catégorie d’âge
 
           Pour le certificat médical de surclassement, il est demandé au médecin examinateur d’apprécier
 
@@ -1623,10 +1393,10 @@ l’adaptation des capacités physiques de l’archer à la puissance du matéri
 tir, arc tendu).
 
     En pratique, après échauffement :
-        •   Armement harmonieux et maintien de l’armement avec respect de la statique rachidienne et
+        -   Armement harmonieux et maintien de l’armement avec respect de la statique rachidienne et
             scapulaire dans tous ses plans.
-        •   Test de maintien durant au moins 30 secondes sans déformation.
-        •   En cas de doute, un test de la puissance maximale pourra être effectué.
+        -   Test de maintien durant au moins 30 secondes sans déformation.
+        -   En cas de doute, un test de la puissance maximale pourra être effectué.
 
        L’examen en vue d’un surclassement devra tenir compte des capacités psychologiques d’un jeune
 
@@ -1637,8 +1407,9 @@ Le surclassement annuel est autorisé sans certificat médical dans la mesure o�
 changement de distance, de blason ou de piquet. S’il y a changement de distance, de blason ou de piquet il
 faudra fournir un certificat médical.
 Ce certificat :
-• peut être délivré par tout Docteur en médecine au choix du licencié
-• sans exclusivité d’ancienneté dans la catégorie
+
+- peut être délivré par tout Docteur en médecine au choix du licencié
+- sans exclusivité d’ancienneté dans la catégorie
 
        Le « Double surclassement » (deux catégories d’âge au-dessus) est interdit sauf celui des seniors
 
@@ -1669,10 +1440,6 @@ C) Les regroupements de catégories
 Les regroupements de catégories sont interdits, sauf en tir en Salle(Tir à 18m) et en campagne pour la
 catégorie « cadet(U18) » arcs nus qui regroupe « Minimes(U15) et Cadets(U18) » (Cf C.5.1.3 Règlements
 des classements nationaux).
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             33
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 C.3.3 LES TRANSFERTS DE CLUB
 Un licencié est libre de changer de club du 1 er octobre au 30 novembre, sur simple présentation au club
@@ -1710,9 +1477,9 @@ Bureau Directeur de la FFTA se réserve le droit de déroger après avis de la C
 
 C.4 COMPORTEMENT SUR LES TERRAINS DE COMPÉTITION
 
-• Interdiction de fumer
-Dans toute compétition, il est interdit de fumer sur l’ensemble du site de la compétition. Les cigarettes
-électroniques sont soumises à cette interdiction.
+- Interdiction de fumer
+  Dans toute compétition, il est interdit de fumer sur l’ensemble du site de la compétition. Les cigarettes
+  électroniques sont soumises à cette interdiction.
 
 C.5 QUALIFICATIONS / SÉLECTIONS AUX CHAMPIONNATS DE FRANCE ELITE ET CHAMPIONNAT DE
 FRANCE / CLASSEMENTS NATIONAUX
@@ -1724,18 +1491,15 @@ qualifications.
 Les Sélections : elles s’appliquent aux disciplines pour lesquelles il existe un classement national. Un arrêté
 sélectif sert à établir la liste des participants retenus en Tir en Salle(Tir à 18m), Tir à l'Arc Extérieur, Tir en
 Campagne, Parcours Nature et Tir sur Cibles 3D.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    34
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 C.5.1 QUALIFICATIONS / SELECTIONS AUX CHAMPIONNATS DE FRANCE ELITE ET CHAMPIONNATS DE
 FRANCE INDIVIDUELS
 
 C.5.1.1 QUALIFICATION ET PROCEDURE D’INSCRIPTION AU CHAMPIONNAT DE FRANCE DE TIR BEURSAULT
-• La qualification
-Pour se qualifier au Championnat de France Beursault, il faut pour toutes les catégories :
 
-        - Participer à une/des compétition(s) qualificative(s) telle(s) que définie(s) au II.1 Le Tir à l'Arc
+- La qualification
+  Pour se qualifier au Championnat de France Beursault, il faut pour toutes les catégories :
+
+          - Participer à une/des compétition(s) qualificative(s) telle(s) que définie(s) au II.1 Le Tir à l'Arc
 
 Extérieur - Article C.5.4
 
@@ -1750,71 +1514,70 @@ Paris (75), de la Seine et Marne (77), des Yvelines (78), de l’Essonne (91), d
 Seine St Denis (93), du Val de Marne (94), du Val d’Oise (95), de l’Eure (27), de Seine Maritime (76), des
 Ardennes (08), l’Aube (10), de la Marne (51) et de la Haute Marne (52).
 
-• Procédure et calendrier de validation et d'inscription :
-Se reporter au document PROCEDURE D'INSCRIPTION & QUOTAS CHAMPIONNAT DE FRANCE TIR BEURSAULT sur
-le site internet de la FFTA www.ffta.fr
+- Procédure et calendrier de validation et d'inscription :
+  Se reporter au document PROCEDURE D'INSCRIPTION & QUOTAS CHAMPIONNAT DE FRANCE TIR BEURSAULT sur
+  le site internet de la FFTA www.ffta.fr
 
 C.5.1.2 SELECTION : MODE DE SELECTION AUX CHAMPIONNATS DE FRANCE ELITE ET AUX CHAMPIONNATS DE
 FRANCE INDIVIDUELS DE : TIR EN SALLE(TIR A 18M), TIR A L'ARC EXTERIEUR, TIR EN CAMPAGNE, PARCOURS
 NATURE ET TIR SUR CIBLES 3D
 
-• Il est tenu un classement national établi sur la base des 3 meilleurs scores pour toutes les
-catégories.
-Lecture du classement :
-Les classements nationaux et l’arrêté sélectif pour tous les Championnats de France sont établis
-sur la moyenne des 3 meilleurs scores.
+- Il est tenu un classement national établi sur la base des 3 meilleurs scores pour toutes les
+  catégories.
+  Lecture du classement :
+  Les classements nationaux et l’arrêté sélectif pour tous les Championnats de France sont établis
+  sur la moyenne des 3 meilleurs scores.
 
-• Les classements nationaux sont consultables sur Internet www.ffta.fr. Les classements évoluent tout
-au long de la saison, en fonction de la rentrée des scores.
+- Les classements nationaux sont consultables sur Internet www.ffta.fr. Les classements évoluent tout
+  au long de la saison, en fonction de la rentrée des scores.
 
-• Chaque archer désirant participer à tous les Championnats de France doit faire une demande
-d’inscription spontanée (pré-inscription). La FFTA publie, chaque année, les modalités d’inscription.
-Les classements nationaux permettent aux archers de connaître leur sélection ou non.
+- Chaque archer désirant participer à tous les Championnats de France doit faire une demande
+  d’inscription spontanée (pré-inscription). La FFTA publie, chaque année, les modalités d’inscription.
+  Les classements nationaux permettent aux archers de connaître leur sélection ou non.
 
-• La période des classements nationaux débute le 1er septembre et s’arrête le 31 août suivant.
+- La période des classements nationaux débute le 1er septembre et s’arrête le 31 août suivant.
 
-• Conditions de participation au Championnat Elite ou Championnat de France d’une discipline :
-10 jours avant la date du championnat de France, et au plus tard le 31 août, il est effectué une
-extraction du classement national pour établir l’arrêté sélectif.
+- Conditions de participation au Championnat Elite ou Championnat de France d’une discipline :
+  10 jours avant la date du championnat de France, et au plus tard le 31 août, il est effectué une
+  extraction du classement national pour établir l’arrêté sélectif.
 
-• Dans toutes les disciplines :
-Lors de sa pré-inscription, l'archer doit choisir l'arme avec laquelle il va concourir.
-Un tableau officiel des quotas est publié par la Fédération chaque année
-Pour la discipline Parcours Nature :
-Pour participer au Championnat de France, il faut entrer dans les "n" premiers de l'arrêté
-sélectif.
-Pour le Tir en Salle(Tir à 18m), le Tir à l'Arc Extérieur, le Tir en Campagne et le Tir 3D :
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 35
-Les R èglement s Gé nér aux Edition Févr ier 2022
-Pour les Championnats de France Elite, le quota détermine une place au Classement
-National.
-Pour être sélectionné à un championnat de France Elite, l'archer doit être pré inscrit et sa
-place au classement national doit être dans le quota prévu pour la catégorie ouverte à ce
-championnat.
-Afin d'assurer un nombre de participants proche du quota, une zone tampon de sélection
-est prévue en fonction des quotas.
+- Dans toutes les disciplines :
+  Lors de sa pré-inscription, l'archer doit choisir l'arme avec laquelle il va concourir.
+  Un tableau officiel des quotas est publié par la Fédération chaque année
+  Pour la discipline Parcours Nature :
+  Pour participer au Championnat de France, il faut entrer dans les "n" premiers de l'arrêté
+  sélectif.
+  Pour le Tir en Salle(Tir à 18m), le Tir à l'Arc Extérieur, le Tir en Campagne et le Tir 3D :
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 35
+  Pour les Championnats de France Elite, le quota détermine une place au Classement
+  National.
+  Pour être sélectionné à un championnat de France Elite, l'archer doit être pré inscrit et sa
+  place au classement national doit être dans le quota prévu pour la catégorie ouverte à ce
+  championnat.
+  Afin d'assurer un nombre de participants proche du quota, une zone tampon de sélection
+  est prévue en fonction des quotas.
 
-      Détermination de la Zone Tampon en fonction des quotas :
+        Détermination de la Zone Tampon en fonction des quotas :
 
-                                                             ZONE
-                                          QUOTAS
-                                                            TAMPON
-                                        < OU = A 4             2
-                                       < OU = A 16             4
-                                          > A 16               8
+                                                               ZONE
+                                            QUOTAS
+                                                              TAMPON
+                                          < OU = A 4             2
+                                         < OU = A 16             4
+                                            > A 16               8
 
-                Exemple : si le quota est de 40 et la Zone Tampon de 8, on recherche 40 archers
-               préinscrits jusqu'à la 48ème place.
-                La valeur de la Zone Tampon peut être modulée en cas de concomitance entre la date du
-               championnat de France et un championnat international.
-                Pour les Championnats de France, les sélectionnés sont les archers préinscrits jusqu'à
-               concurrence des quotas.
-                 Dans chaque discipline, pour participer au championnat de France Elite, il faut entrer dans
-                 les "n" premiers de l'arrêté sélectif. Un tableau officiel des quotas est publié par la
-                 Fédération chaque année.
-                 La suite de l'arrêté sélectif permet de déterminer les archers sélectionnés pour le
-                 Championnat de France.
-        Cas particulier de la discipline Tir en Salle(Tir à 18m) :
+                  Exemple : si le quota est de 40 et la Zone Tampon de 8, on recherche 40 archers
+                 préinscrits jusqu'à la 48ème place.
+                  La valeur de la Zone Tampon peut être modulée en cas de concomitance entre la date du
+                 championnat de France et un championnat international.
+                  Pour les Championnats de France, les sélectionnés sont les archers préinscrits jusqu'à
+                 concurrence des quotas.
+                   Dans chaque discipline, pour participer au championnat de France Elite, il faut entrer dans
+                   les "n" premiers de l'arrêté sélectif. Un tableau officiel des quotas est publié par la
+                   Fédération chaque année.
+                   La suite de l'arrêté sélectif permet de déterminer les archers sélectionnés pour le
+                   Championnat de France.
+          Cas particulier de la discipline Tir en Salle(Tir à 18m) :
 
 La pré-inscription en Tir en Salle(Tir à 18m) pour les archers des catégories S1, S2 et S3 en Arc Classique
 et en Arc à Poulies et de la catégorie Scratch Arc Nu permet aux archers de concourir soit au championnat
@@ -1835,14 +1598,14 @@ Pour participer au Championnat de France Elite en Salle(Tir à 18m) :
   Elite TAE, soit au championnat de France TAE distances internationales en fonction de leur position au
   classement National "Toutes catégories".
   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 36
-  Les R èglement s Gé nér aux Edition Févr ier 2022
 
 Les S3 (ainsi que les Cadets(U18)) peuvent participer à ce championnat « Toutes Catégories » Classique
 dans la mesure où :
 ✓ Ils ont réalisé des scores à 70 m (pour apparaître au classement "Toutes Catégories")
 Ces scores réalisés à 70 m seront pris en compte :
-• Pour le classement « Toutes Catégories »
-• Pour les scores sélectifs à 60 m de leur catégorie
+
+- Pour le classement « Toutes Catégories »
+- Pour les scores sélectifs à 60 m de leur catégorie
 
 La pré-inscription en TAE Distances Internationales ne permet pas de se pré-inscrire en TAE Distances
 Nationales et inversement. Le choix entre TAE Distances Internationales et TAE Distances Nationales se
@@ -1861,13 +1624,13 @@ Pour participer au Championnat de France TAE Distances Internationales :
   classement, les Cadets(U18) et Juniors(U21) peuvent, s'ils le souhaitent, participer au championnat de
   France Elite et au championnat de France dans leur catégorie d'âge.
 
-  • Les scores des Championnats de France, des finales nationales, des épreuves de sélections en
-  équipe nationale et des compétitions et championnats internationaux se déroulant après la date du
-  31 août, seront intégrés rétroactivement sur la saison à laquelle le championnat est rattaché.
-  • Pour les archers des DOM-TOM, les classements sélectifs seront arrêtés avant les dates d’arrêt des
-  classements sélectifs nationaux. Les archers des DOM-TOM entrant dans les quotas gagneront leur
-  sélection. Les dates d’arrêt de ces classements seront précisées chaque année lors de la publication
-  du calendrier national.
+  - Les scores des Championnats de France, des finales nationales, des épreuves de sélections en
+    équipe nationale et des compétitions et championnats internationaux se déroulant après la date du
+    31 août, seront intégrés rétroactivement sur la saison à laquelle le championnat est rattaché.
+  - Pour les archers des DOM-TOM, les classements sélectifs seront arrêtés avant les dates d’arrêt des
+    classements sélectifs nationaux. Les archers des DOM-TOM entrant dans les quotas gagneront leur
+    sélection. Les dates d’arrêt de ces classements seront précisées chaque année lors de la publication
+    du calendrier national.
 
 C.5.1.3 REGLEMENT DES CLASSEMENTS NATIONAUX
 LE CLASSEMENT NATIONAL
@@ -1879,46 +1642,41 @@ LE CLASSEMENT NATIONAL
     La prise en compte de scores réalisés à l’étranger doit répondre 7.a. du C.5.1.3 REGLEMENT DES CLASSEMENTS
     NATIONAUX
 
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 37
-
-    Les R èglement s Gé nér aux Edition Févr ier 2022
-
 2.  Calcul
     La place d’un tireur dans le classement s’obtient par une moyenne des scores calculée après la mise à jour
     du fichier scores par les organisateurs de compétitions.
     Seule la partie entière de la moyenne est affichée.
     Le classement s’effectue dans l’ordre décroissant en prenant en compte la partie décimale.
-    Les ex aequo seront départagés à la meilleure performance, puis à la deuxième performance, puis à la
+    Les ex aequ- seront départagés à la meilleure performance, puis à la deuxième performance, puis à la
     3ème et ainsi de suite jusqu’à l’épuisement des scores enregistrés. Pour la sélection aux Championnats de
     France, si l’égalité demeure entre des archers, le plus jeune des archers à égalité sera sélectionné.
 
-• Tir en Campagne :
-Ne sont pris en compte pour le classement que les scores réalisés sur des parcours conformes au C.1.1
-du Règlement Tir en Campagne.
-Lors d’une compétition programmée sur 2 jours, si les distances inconnues n’ont pas été modifiées pour
-le 2ème jour, seuls les scores réalisés le premier jour seront pris en compte pour le classement.
-Le score des deux « 24 cibles » est pris en compte pour le classement (soit 2 valeurs).
+- Tir en Campagne :
+  Ne sont pris en compte pour le classement que les scores réalisés sur des parcours conformes au C.1.1
+  du Règlement Tir en Campagne.
+  Lors d’une compétition programmée sur 2 jours, si les distances inconnues n’ont pas été modifiées pour
+  le 2ème jour, seuls les scores réalisés le premier jour seront pris en compte pour le classement.
+  Le score des deux « 24 cibles » est pris en compte pour le classement (soit 2 valeurs).
 
-• Parcours Nature et Tir sur cibles 3D :
-Les scores réalisés lors du Championnat de France ne seront pas pris en compte pour le classement
-national. 3. Catégories reconnues
-3.1 Le classement National Poussins(U11)
-Catégories d’arc
+- Parcours Nature et Tir sur cibles 3D :
+  Les scores réalisés lors du Championnat de France ne seront pas pris en compte pour le classement
+  national. 3. Catégories reconnues
+  3.1 Le classement National Poussins(U11)
+  Catégories d’arc
 
-                               Salle(Tir à 18m)                      Arc Classique
+                                 Salle(Tir à 18m)                      Arc Classique
 
-                             Tir à l'Arc Extérieur                   Arc Classique
+                               Tir à l'Arc Extérieur                   Arc Classique
 
-                       Catégorie non ouverte aux Championnats de France
-
-
+                         Catégorie non ouverte aux Championnats de France
 
 
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             38
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-3.2 Catégories d’âge ouvertes dans le classement national
-Les catégories d’âge ouvertes dans le classement national sont les suivantes :
+
+                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             38
+
+  3.2 Catégories d’âge ouvertes dans le classement national
+  Les catégories d’âge ouvertes dans le classement national sont les suivantes :
 
 Le classement national sert de base pour déterminer les catégories qui seront ouvertes au championnat
 de France Elite ou au Championnat de France selon les disciplines (cf. chapitre B) 4. Les classements provisoires sont basés sur la moyenne des 3 meilleurs scores réalisés par l’archer.
@@ -1943,9 +1701,6 @@ manquants sont comptés pour 0.
           aux tireurs réalisant des scores à l’étranger de les communiquer à la FFTA par courrier et avec les
           justificatifs suivants :
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 39
-
-    Les R èglement s Gé nér aux Edition Févr ier 2022
     ➢ Pour qu’un score réalisé à l’étranger soit pris en compte pour le classement national, il faut :
      que le concours soit inscrit au calendrier de la WA, ou d’une association membre de la WA
      fournir les résultats de la compétition,
@@ -1961,9 +1716,9 @@ manquants sont comptés pour 0.
             fédérations respectives peuvent être pris en compte pour les classements de la FFTA.
 
             La procédure est la suivante :
-                • La compétition doit avoir été arbitrée par des arbitres actifs de la FFTA
-                • Fournir l’extrait du calendrier national (ou le lien sur le site de la fédération concernée),
-                • Les scores doivent être réalisés selon le règlement FFTA, joindre la feuille de marque
+                - La compétition doit avoir été arbitrée par des arbitres actifs de la FFTA
+                - Fournir l’extrait du calendrier national (ou le lien sur le site de la fédération concernée),
+                - Les scores doivent être réalisés selon le règlement FFTA, joindre la feuille de marque
                    originale signée par l’arbitre portant la mention « score réalisé selon le règlement FFTA ».
 
            Joindre les résultats de la compétition où apparaissent les deux numéros de licences.
@@ -1997,13 +1752,10 @@ Les règles générales du classement individuel (définitif) s’appliquent.
 Le classement national « jeunes » par équipe de club permet de sélectionner les équipes pour le
 championnat de France jeunes par équipe de club.
 Le classement national « jeunes » par équipe comprend trois catégories :
-• « garçons » regroupant les catégories Juniors(U21) et Cadets(U18)
-• « filles » regroupe les catégories Juniors(U21), Cadettes(U18)
-• « Jeune mixte » regroupant la catégorie Benjamin(U13) et Minimes(U15) filles et garçon.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                40
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+- « garçons » regroupant les catégories Juniors(U21) et Cadets(U18)
+- « filles » regroupe les catégories Juniors(U21), Cadettes(U18)
+- « Jeune mixte » regroupant la catégorie Benjamin(U13) et Minimes(U15) filles et garçon.
 
 C.5.2.2 LE CLASSEMENT NATIONAL DOUBLE MIXTE PAR EQUIPE DE CLUB EN TAE DISCIPLINE INTERNATIONALE
 Le classement national Double Mixte par équipe de club s’appuie sur le classement national
@@ -2016,12 +1768,13 @@ différents Championnats de France Double Mixte par Équipe de Club en TAE Disci
 Le Classement National Double Mixte par équipe de club existe dans les disciplines et catégories suivantes
 :
 En Tir à l'Arc Extérieur :
-• « Arc Classique » regroupant les catégories Femmes et Hommes des Classements Nationaux
-Scratch Arc Classique
-• « Arc à Poulies » regroupant les catégories Femmes et Hommes des Classements Nationaux
-Scratch Arc à Poulies
-• « Jeunes » regroupant les catégories Juniors(U21) et Cadet(te)s(U18), Femme et Homme en Arc
-Classique
+
+- « Arc Classique » regroupant les catégories Femmes et Hommes des Classements Nationaux
+  Scratch Arc Classique
+- « Arc à Poulies » regroupant les catégories Femmes et Hommes des Classements Nationaux
+  Scratch Arc à Poulies
+- « Jeunes » regroupant les catégories Juniors(U21) et Cadet(te)s(U18), Femme et Homme en Arc
+  Classique
 
 C.5.2.3 LE CLASSEMENT NATIONAL DOUBLE MIXTE PAR EQUIPE DE CLUB EN TIR EN CAMPAGNE ET TIR 3D
 
@@ -2032,54 +1785,52 @@ même piquet de tir) réalisés à la même date sur une même épreuve.
 Le Classement National s’établira sur la moyenne des 2 meilleurs scores qualificatifs du club.
 
 On reconnait pour la discipline Tir en Campagne, 4 classements Double Mixtes :
-• Mixte Arc classique = regroupant les catégories de J à S3
-• Mixte Arc à Poulies = regroupant les catégories de J à S3
-• Mixte Bare Bow = regroupant les catégories de J à S3
-• Mixte Arc Droit = regroupant les catégories de B à S3
+
+- Mixte Arc classique = regroupant les catégories de J à S3
+- Mixte Arc à Poulies = regroupant les catégories de J à S3
+- Mixte Bare Bow = regroupant les catégories de J à S3
+- Mixte Arc Droit = regroupant les catégories de B à S3
 
 On reconnait pour la discipline tir 3D, 5 classements Double Mixtes :
-• Mixte Arc Nu = regroupant les catégories de C à S3
-• Mixte Arc à Poulies Nu = regroupant les catégories de J à S3
-• Mixte Arc Libre = regroupant les catégories de J à S3
-• Mixte Arc Droit = regroupant les catégories de J à S3
-• Mixte Arc Chasse = regroupe les catégories de J à S3
+
+- Mixte Arc Nu = regroupant les catégories de C à S3
+- Mixte Arc à Poulies Nu = regroupant les catégories de J à S3
+- Mixte Arc Libre = regroupant les catégories de J à S3
+- Mixte Arc Droit = regroupant les catégories de J à S3
+- Mixte Arc Chasse = regroupe les catégories de J à S3
 
 C.6 LES RÈGLES D’ABANDON
 Il faut distinguer l’abandon de l’arrêt du tir. Il y a abandon lorsqu’il n’y a pas reprise du tir. D'une manière
 générale, quelle que soit la discipline et la cause de l'abandon : - l'archer est considéré comme ayant participé à la compétition ; - l'archer est classé avec le score acquis au moment de l'abandon (sauf lors des compétitions avec
 finales) ; - les arrêts du tir et les abandons doivent être signalés sur le rapport d'arbitre (observations).
 
-    • Récompenses
+    - Récompenses
 
 L'archer, qui a abandonné, a droit à toutes les récompenses prévues par l'organisateur, en fonction de sa
 place ou de son score réalisé au moment de l'abandon.
-• Qualification / Sélection pour un championnat
-Si le score réalisé au moment de l'abandon est suffisant pour une qualification ou une sélection, cette
-dernière est valable.
-• Record de France
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 41
-Les R èglement s Gé nér aux Edition Févr ier 2022
-Un record de France (ou une meilleure performance française), amélioré par un archer qui arrête (ou
-abandonne) est valable et peut être soumis à la demande d'homologation, si le score a été réalisé avant
-l'arrêt (ou l’abandon).
+
+- Qualification / Sélection pour un championnat
+  Si le score réalisé au moment de l'abandon est suffisant pour une qualification ou une sélection, cette
+  dernière est valable.
+- Record de France
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 41
+  Un record de France (ou une meilleure performance française), amélioré par un archer qui arrête (ou
+  abandonne) est valable et peut être soumis à la demande d'homologation, si le score a été réalisé avant
+  l'arrêt (ou l’abandon).
 
 Exemple : lors d'une Épreuve 1440 (4 distances), un archer tire le 90m en entier, tire 4 volées du 70m,
 arrête le tir (en prévenant l'arbitre), reprend le tir à la moitié du 50m (avec autorisation de l'arbitre), et
 termine la compétition. Dans ce cas : - si l'archer améliore le record de France du 90m, le record est homologable ; - si l'archer améliore le record de France du 30m, le record ne peut pas être homologué, car il n'a
 pas été tiré dans les mêmes conditions que les autres archers.
 
-     • Double Tir à l'Arc Extérieur (4 distances) :
+     - Double Tir à l'Arc Extérieur (4 distances) :
 
 Dans le cas d’un double Tir à l'Arc Extérieur 4 distances avec classement unique sur les deux tirs
 (compétition, prévue au calendrier de la FFTA), si l'archer abandonne au cours du premier tir : - l'archer est autorisé à reprendre le tir lors du 2ème tir ; - l'archer est classé avec le score cumulé des deux tirs ; - l'archer a droit aux prix prévus en fonction de son score cumulé ; - les records de France améliorés lors du 2ème tir peuvent être homologués ;
 Si l'archer change d'arme pour le 2ème tir (avec accord de l’organisateur), il sera classé uniquement avec le
 score du premier tir.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                42
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-    • Tir en Salle(Tir à 18m) :
+    - Tir en Salle(Tir à 18m) :
 
 La compétition prévue au calendrier de la FFTA est 2x25m + 2x18m, avec un seul classement. Un archer
 tire le 2x25m et abandonne : - l'archer est classé avec son score au 2x25m ; - l'archer a droit aux prix prévus, en fonction de sa place ou de son score ; - son score du 2x25m est pris en compte pour le classement national ; - si l'archer améliore le record de France du 2x25m, le record peut être homologué ;
@@ -2087,17 +1838,17 @@ Un archer tire une partie du 2x25m, arrête le tir et tire le 2x18m en entier : 
 de France du 2x18m, ce record ne peut pas être homologué, car non tiré dans les mêmes conditions que
 les autres archers, mais sera pris en compte pour le classement national.
 
-    • Parcours :
+    - Parcours :
 
 Si un archer n'est plus en capacité de tirer (raison médicale ou bris de matériel), pour pouvoir tirer le jour
 suivant, il doit terminer le parcours avec son peloton. Toutes les flèches non tirées doivent être marquées
 comme "Manquée" (M) sur sa feuille de marque. Si l'archer doit quitter le parcours, il doit en informer un
 arbitre et ne pourra pas reprendre la compétition.
 
-• Tir par équipes :
-Si une équipe se compose, avant le début des tirs, de 3 archers seulement et qu'un des trois archers
-abandonne au cours de la compétition, il ne pourra pas être remplacé, même si d'autres archers du même
-club participent à cette compétition.
+- Tir par équipes :
+  Si une équipe se compose, avant le début des tirs, de 3 archers seulement et qu'un des trois archers
+  abandonne au cours de la compétition, il ne pourra pas être remplacé, même si d'autres archers du même
+  club participent à cette compétition.
 
 C.7 LES RECORDS DE FRANCE ET LES MEILLEURES PERFORMANCES FRANÇAISES
 
@@ -2125,21 +1876,17 @@ tirant sur les distances internationales (90, 70, 50, 30m). Si le record est hom
 cadet(U18) sera le nouveau détenteur du record de France Épreuve 1440 dans les catégories
 Juniors(U21) et Scratch (Toutes catégories).
 
-• Définitions
-On appelle "records de France" les meilleurs scores réalisés par un archer français établis sur une
-compétition officielle. Le tableau des records de France est publié sur le site de la FFTA.
+- Définitions
+  On appelle "records de France" les meilleurs scores réalisés par un archer français établis sur une
+  compétition officielle. Le tableau des records de France est publié sur le site de la FFTA.
 
 On appelle "meilleures performances françaises" les meilleurs scores réalisés par un archer français
 établis sur une compétition officielle, dans les catégories officielles selon le tableau publié en annexe 4.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     43
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-• Conditions d’homologation pour les équipes
-Sur les qualifications, un record de France (ou une meilleure performance française) peut être améliorée
-par le cumul des scores réalisés par les archers d'une même équipe. En cas de compétition avec plusieurs
-départs, les scores pris en compte doivent être réalisés par les archers tirant sur le même départ.
+- Conditions d’homologation pour les équipes
+  Sur les qualifications, un record de France (ou une meilleure performance française) peut être améliorée
+  par le cumul des scores réalisés par les archers d'une même équipe. En cas de compétition avec plusieurs
+  départs, les scores pris en compte doivent être réalisés par les archers tirant sur le même départ.
 
 Un record de France (ou une meilleure performance française) peut être amélioré uniquement lors de
 matchs de phases éliminatoires ou finales (compétitions de la WA, de la WAE, Épreuve STAR) ou lors des
@@ -2161,39 +1908,36 @@ En extérieur :
 *2x72 flèches (Tir à l'Arc Extérieur 2x70 m Arc Classique, Tir à l'Arc Extérieur 2x50 m Arc à Poulies)
 *Match 16 flèches (4 volées de 4 flèches) (Arc à Poulies)
 
-• Procédure d'homologation
-Record ou meilleure performance amélioré en France :
-Le compétiteur doit demander au greffe que lui soit remis l'original de la ou des feuilles de marque qu'il
-remet à l'arbitre en l'informant du nouveau record et en lui présentant sa licence afin que l'arbitre puisse
-relever le n° de la licence et le n° d'agrément du club.
-L'arbitre complète la demande d'homologation (voir à la fin du chapitre en annexe 4), afin de prendre en
-considération tous les éléments nécessaires à l'homologation. Il transmet la demande d'homologation à la
-FFTA (Service des activités sportives) dans les 48 heures. La FFTA statuera sur l'homologation et délivrera
-les diplômes correspondants.
+- Procédure d'homologation
+  Record ou meilleure performance amélioré en France :
+  Le compétiteur doit demander au greffe que lui soit remis l'original de la ou des feuilles de marque qu'il
+  remet à l'arbitre en l'informant du nouveau record et en lui présentant sa licence afin que l'arbitre puisse
+  relever le n° de la licence et le n° d'agrément du club.
+  L'arbitre complète la demande d'homologation (voir à la fin du chapitre en annexe 4), afin de prendre en
+  considération tous les éléments nécessaires à l'homologation. Il transmet la demande d'homologation à la
+  FFTA (Service des activités sportives) dans les 48 heures. La FFTA statuera sur l'homologation et délivrera
+  les diplômes correspondants.
 
 Record ou meilleure performance amélioré à l'étranger :
 Pour homologuer un score à l’étranger, il est nécessaire de fournir :
-• Un justificatif de l’inscription de la compétition au calendrier de la WA ou d’une association
-membre de la WA
-• Les résultats complets de la compétition
-• L’extrait du calendrier national (ou le lien sur le site de la Fédération concernée)
-• Les feuilles de marques contresignées par l’arbitre
 
-• Publication
-La publication intervient après le délai nécessaire à l'homologation. Le service "internet" de la FFTA est, à
-ce titre, une publication officielle. La FFTA pourra utiliser tout autre moyen de publication.
+- Un justificatif de l’inscription de la compétition au calendrier de la WA ou d’une association
+  membre de la WA
+- Les résultats complets de la compétition
+- L’extrait du calendrier national (ou le lien sur le site de la Fédération concernée)
+- Les feuilles de marques contresignées par l’arbitre
 
-• Diplôme
-Le titulaire d'une performance homologuée recevra des services de la FFTA un diplôme attestant de son
-record ou de sa meilleure performance française.
+- Publication
+  La publication intervient après le délai nécessaire à l'homologation. Le service "internet" de la FFTA est, à
+  ce titre, une publication officielle. La FFTA pourra utiliser tout autre moyen de publication.
 
-• Imprimé de demande d'homologation des records
-Voir en annexe 4.
+- Diplôme
+  Le titulaire d'une performance homologuée recevra des services de la FFTA un diplôme attestant de son
+  record ou de sa meilleure performance française.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               44
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-Précisions sur l'imprimé de demande d'homologations :
+- Imprimé de demande d'homologation des records
+  Voir en annexe 4.
+  Précisions sur l'imprimé de demande d'homologations :
 
 Tir en Salle(Tir à 18m) individuel = total d'un 2x25m ou 2x18m
 
@@ -2220,14 +1964,14 @@ Tir par équipes (Salle(Tir à 18m))
 - Match 24 flèches (Arc à Poulies) = score réalisé lors des 1/8, ou ¼ ou ½ finales, ou finales (bronze ou
   or)
 
-  • Les records du monde
-  Les compétitions suivantes sont considérées automatiquement comme tournois pour les records du
-  monde :
-  ▪ Jeux Olympiques ;
-  ▪ Championnats du monde ;
-  ▪ Tournois pour le classement mondial.
-  Pour les autres compétitions se reporter au II.1 Tir à l'Arc Extérieur – Article A.8 et au II.2 – Tir en Salle(Tir
-  à 18m) – Article A.8.
+  - Les records du monde
+    Les compétitions suivantes sont considérées automatiquement comme tournois pour les records du
+    monde :
+    ▪ Jeux Olympiques ;
+    ▪ Championnats du monde ;
+    ▪ Tournois pour le classement mondial.
+    Pour les autres compétitions se reporter au II.1 Tir à l'Arc Extérieur – Article A.8 et au II.2 – Tir en Salle(Tir
+    à 18m) – Article A.8.
 
 C.8 LES REGLES D’EXCLUSION
 Un archer, ayant participé au tracé d'un parcours de Tir en Campagne, de Parcours Nature ou de Tir sur
@@ -2247,15 +1991,12 @@ Lors du passage au greffe l’un des justificatifs suivants peut être demandé,
 l’archer soit en mesure de présenter l’un d’eux :
 
     -   présentation d’une « attestation de licence » papier avec photo.
-    -   présentation d’une « attestation de licence dématérialisée avec photo » sur un support informatique
+    -   présentation d’une « attestation de licence dématérialisée avec phot- » sur un support informatique
         : type Smartphone ou tablette.
     -   communication du n° de licence (ou nom, prénom) avec justificatif officiel d’identité.
-    -   passeport sportif : il comporte la photo + le n° de licence.
+    -   passeport sportif : il comporte la phot- + le n° de licence.
     -   Règle spécifique pour toutes les compétitions nationales : présentation sur demande du Délégué
-        Technique d’un justificatif officiel d’identité attestant la nationalité de l’archer.
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    45
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+        Technique d’un justificatif officiel d’identité attestant la nationalité de l’archer
 
 L'obtention d'une licence ouverte à la compétition sous-entend lors de sa souscription, un contrôle strict de
 l'attestation de non contre-indication à la pratique en compétition par le président de club. De ce fait cette
@@ -2263,9 +2004,10 @@ pièce ne fait pas partie des justificatifs qui peuvent être demandés au greff
 
 C.10 RÉCLAMATIONS - APPELS - LITIGES
 Pour la procédure, se reporter au Chapitre B.5 Jury d’Appel.
-• Pour le Tir à l'Arc Extérieur : II.1 Le Tir à l'Arc Extérieur - B.10 et B.11
-• Pour la Salle(Tir à 18m) : II.2 Le Tir en Salle(Tir à 18m) – B.10 et B.11
-• Pour le Tir en Campagne : II.3 Le Tir en Campagne – B.10 et B.11
+
+- Pour le Tir à l'Arc Extérieur : II.1 Le Tir à l'Arc Extérieur - B.10 et B.11
+- Pour la Salle(Tir à 18m) : II.2 Le Tir en Salle(Tir à 18m) – B.10 et B.11
+- Pour le Tir en Campagne : II.3 Le Tir en Campagne – B.10 et B.11
 
 C.11 LES SANCTIONS (voir Règlement Intérieur de la FFTA, Chapitre 19)
 Les sanctions prévues à l'encontre des tireurs, dans le cadre d'une compétition, sont les suivantes : 1. avertissement simple verbal ; 2. avertissement officiel, en notifiant la sanction prise en cas de récidive ; 3. disqualification et perte du droit à toutes récompenses (badges, qualifications, distinctions de la WA) ; 4. expulsion de la compétition, en cas de perturbation ; 5. transmission de la situation au Comité Régional ; 6. Le Comité Régional ou l'arbitre responsable peut adresser un rapport circonstancié à la FFTA
@@ -2289,11 +2031,12 @@ C.12.1 LA TENUE DES COMPETITEURS
     disciplines.
     . Les arbitres et, éventuellement, le Jury d’Appel en sont garants.
     Cependant,
-    • les maillots sans manches, de même que les maillots de corps, ne sont autorisés à aucun moment
-    ni comme tenue de tir, ni sur le podium (cependant, voir en (1) la précision de la WA ci-dessous
-    au §3).
-    • les concurrents doivent porter des chaussures de sport (style Tennis) : il est interdit de tirer pieds
-    nus. Les chaussures de ville ou les sandales ne sont pas autorisées.
+
+    - les maillots sans manches, de même que les maillots de corps, ne sont autorisés à aucun moment
+      ni comme tenue de tir, ni sur le podium (cependant, voir en (1) la précision de la WA ci-dessous
+      au §3).
+    - les concurrents doivent porter des chaussures de sport (style Tennis) : il est interdit de tirer pieds
+      nus. Les chaussures de ville ou les sandales ne sont pas autorisées.
 
 2.  Championnats régionaux et championnats départementaux
     La FFTA souhaite que lors de leurs championnats les Comités Régionaux et les départements adoptent le
@@ -2303,30 +2046,29 @@ C.12.1 LA TENUE DES COMPETITEURS
     La qualité d’une organisation, vis à vis des autorités politiques, administratives, des médias, du public
     s’accompagne obligatoirement de l’image vestimentaire des compétiteurs, des capitaines d’équipe, des
     organisateurs. La réglementation ci-dessous s’applique pour :
-    • les compétitions nationales (Championnats de France toutes disciplines individuels et par équipes) ;
-    • les concours ETOILE WA ;
-    • les concours WA TARGET.
-    • Les concours ARROW HEAD
 
-                       Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    46
-
-    Les R èglement s Gé nér aux Edition Févr ier 2022
+    - les compétitions nationales (Championnats de France toutes disciplines individuels et par équipes) ;
+    - les concours ETOILE WA ;
+    - les concours WA TARGET.
+    - Les concours ARROW HEAD
 
 Remarques préalables :
-• les maillots sans manches, de même que les maillots de corps, ne sont autorisés à aucun moment
-comme tenue de tir, ni sur le podium (1) ;
-• les shorts sont autorisés dans toutes les disciplines, mais ne doivent pas remonter plus haut que
-l'extrémité des doigts du concurrent, lorsque la main et les doigts sont étendus le long de son côté ;
-• les pantalons de type "Jean's" et assimilés, autres que blancs, ne sont autorisés à aucun moment, ni
-considérés comme tenue d'équipe ou de club, de département ou de région.
+
+- les maillots sans manches, de même que les maillots de corps, ne sont autorisés à aucun moment
+  comme tenue de tir, ni sur le podium (1) ;
+- les shorts sont autorisés dans toutes les disciplines, mais ne doivent pas remonter plus haut que
+  l'extrémité des doigts du concurrent, lorsque la main et les doigts sont étendus le long de son côté ;
+- les pantalons de type "Jean's" et assimilés, autres que blancs, ne sont autorisés à aucun moment, ni
+  considérés comme tenue d'équipe ou de club, de département ou de région.
 
 Sur le pas de tir (pendant toute la durée de la compétition), lors de la remise des prix ou des cérémonies
 d'ouverture ou de clôture, les tenues suivantes sont les seules autorisées :
 Compétitions individuelles
-• Dames : elles peuvent porter des robes ou des jupes, ou des jupes culottes, ou des pantalons, ou des
-shorts et des blouses, corsages, chemises, polos, tee-shirts ou des "tops" (1).
-• Hommes : ils doivent porter des pantalons, ou des shorts et des chemises (à manches longues ou
-courtes), ou polos, ou tee-shirts.
+
+- Dames : elles peuvent porter des robes ou des jupes, ou des jupes culottes, ou des pantalons, ou des
+  shorts et des blouses, corsages, chemises, polos, tee-shirts ou des "tops" (1).
+- Hommes : ils doivent porter des pantalons, ou des shorts et des chemises (à manches longues ou
+  courtes), ou polos, ou tee-shirts.
 
 (1) Précision de la WA : le Bureau du Comité Directeur de la FFTA accepte l'application, lors de toutes les
 compétitions inscrites au calendrier officiel, la précision de la WA, concernant la tenue des dames et plus
@@ -2342,8 +2084,8 @@ la même tenue, dans le respect du texte ci-dessous.
 
 Tenues de club ou d'équipes : pour les dames et les hommes, la tenue de club ou d'équipe est autorisée.
 Par tenue de club ou d'équipe, il faut entendre un équipement vestimentaire complet (pantalon, ou short ,
-chemise, polo ou tee-shirt, survêtement de sport, pull ou gilet pour le temps froid) aux couleurs du club ou
-de l'équipe, sur lequel doit apparaître le nom, ou l'insigne, ou le logo du club ou de l'équipe, ou de la ville; ou
+chemise, pol- ou tee-shirt, survêtement de sport, pull ou gilet pour le temps froid) aux couleurs du club ou
+de l'équipe, sur lequel doit apparaître le nom, ou l'insigne, ou le log- du club ou de l'équipe, ou de la ville; ou
 de la région, ou du département, sans restriction de taille, avec, éventuellement, la marque du ou des
 sponsors selon la réglementation en vigueur.
 Si le concurrent ne possède pas une tenue de club ou d'équipe, la partie inférieure de sa tenue doit être
@@ -2368,10 +2110,6 @@ En cas de mauvais temps (froid, pluie), un vêtement de protection approprié pe
 
 Dossards : les compétiteurs doivent porter le dossard fourni par l'organisateur. Le dossard doit être porté,
 bien en vue, afin d'être visible pendant tout le temps du tir, mais il n'est pas obligatoire qu'il soit placé dans
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    47
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 le dos : le dossard peut être également accroché au carquois ou à la ceinture. Un concurrent ne peut pas
 cacher le nom du ou des sponsors inscrits sur le dossard fourni par l'organisateur.
 
@@ -2386,11 +2124,12 @@ politiques, administratives, les médias et le public à participer à la remise
 compétition, les compétiteurs, invités à monter sur le podium suite à leur performance sportive, se doivent
 d'avoir un comportement et une tenue vestimentaire corrects :
 Quelle que soit la discipline, les compétiteurs, sur le podium, doivent être vêtus :
-• soit de leur tenue de club, de département, de région ou de la tenue de leur équipe nationale ;
-• soit d'une tenue blanche.
-A aucun moment, sur le podium, ils ne peuvent ni présenter un animal ou un quelconque accessoire, ni
-manifester un signe d'humeur à l'encontre des organisateurs, des personnalités présentes, de la FFTA ou
-du public.
+
+- soit de leur tenue de club, de département, de région ou de la tenue de leur équipe nationale ;
+- soit d'une tenue blanche.
+  A aucun moment, sur le podium, ils ne peuvent ni présenter un animal ou un quelconque accessoire, ni
+  manifester un signe d'humeur à l'encontre des organisateurs, des personnalités présentes, de la FFTA ou
+  du public.
 
 Le Délégué Technique Fédéral sera "le maître de cérémonie" de la compétition. Il supervisera les
 cérémonies d'ouverture et de clôture de la compétition et, en particulier, la remise des récompenses :
@@ -2401,14 +2140,15 @@ récalcitrant qui pourra également faire l'objet d'un rapport adressé à la FF
 éventuelles.
 
 C.13 LES INDICATEURS DE VENT (électroniques ou non)
-• Indicateurs électroniques
-L’utilisation d'un indicateur de vent électronique est autorisée dans la discipline du Tir à l'Arc Extérieur.
-Cependant, ce dispositif n'est autorisé, sur le terrain de compétition, que derrière la ligne d'attente (zone
-de repos des archers), et non pas sur la ligne de tir.
-• Morceau de tissu sur l'arc
-Un morceau de tissu léger (ou ficelle), servant d'indicateur de vent est acceptable sur l'arc ou les
-stabilisateurs, en Tir à l'Arc Extérieur, en Salle(Tir à 18m) et en Tir en Campagne, à condition que cela
-n'offre pas une aide supplémentaire à la visée.
+
+- Indicateurs électroniques
+  L’utilisation d'un indicateur de vent électronique est autorisée dans la discipline du Tir à l'Arc Extérieur.
+  Cependant, ce dispositif n'est autorisé, sur le terrain de compétition, que derrière la ligne d'attente (zone
+  de repos des archers), et non pas sur la ligne de tir.
+- Morceau de tissu sur l'arc
+  Un morceau de tissu léger (ou ficelle), servant d'indicateur de vent est acceptable sur l'arc ou les
+  stabilisateurs, en Tir à l'Arc Extérieur, en Salle(Tir à 18m) et en Tir en Campagne, à condition que cela
+  n'offre pas une aide supplémentaire à la visée.
 
 C.14 LE TIR AVEC DEUX ARCS
 Un archer n'est pas autorisé, à l'occasion d'un même concours inscrit au calendrier officiel de la FFTA, à
@@ -2426,26 +2166,19 @@ Si un championnat régional est dédoublé (championnat régional pour les arcs 
 différente du championnat régional pour les arcs à poulies), un archer peut participer aux deux
 championnats régionaux.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  48
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 Championnats de France Elite et Championnat de France :
-• Pour chaque discipline, les archers doivent choisir l'arme dans laquelle ils souhaitent participer. Ce
-choix se fait lors de la pré-inscription.
-• Sur chaque manche du championnat de France D1, les archers doivent faire le choix d'une arme
-pour la durée de la manche. Un archer peut changer d'arme entre les manches (exemple : tirer la
-1ère manche en arc classique et la 2ème manche en arc à poulies)
-Lors du tir par équipes, le mélange des arcs n'est pas autorisé dans une même équipe (un arc classique
-ne peut pas être admis dans une équipe arcs à poulies et vice versa).
+
+- Pour chaque discipline, les archers doivent choisir l'arme dans laquelle ils souhaitent participer. Ce
+  choix se fait lors de la pré-inscription.
+- Sur chaque manche du championnat de France D1, les archers doivent faire le choix d'une arme
+  pour la durée de la manche. Un archer peut changer d'arme entre les manches (exemple : tirer la
+  1ère manche en arc classique et la 2ème manche en arc à poulies)
+  Lors du tir par équipes, le mélange des arcs n'est pas autorisé dans une même équipe (un arc classique
+  ne peut pas être admis dans une équipe arcs à poulies et vice versa).
 
 C.15 LES INTERPRÉTATIONS DE LA WA
 Les « Interprétations de la WA » dont il est fait publication sont applicables en France après avoir été actées
 par le Bureau Directeur de la FFTA.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 49
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 D. LES DISPOSITIONS MÉDICALES
 D.1 LE SUIVI MEDICAL DES ARBITRES
@@ -2468,7 +2201,7 @@ la prévention, la délivrance d’une licence (1ère licence ou renouvellement)
 d’un certificat médical d’aptitude à la pratique du tir à l’arc. Ce certificat peut être délivré par tout docteur
 en médecine.
 
-    • Participation aux compétitions
+    - Participation aux compétitions
 
 La participation aux compétitions organisées ou agréées par la FFTA est subordonnée à la présentation
 d'une licence sportive portant attestation de la délivrance d'un certificat médical mentionnant l'absence de
@@ -2482,15 +2215,16 @@ Pour la pratique en compétition des Poussins(U11) (à partir de 8 ans) se réf�
 
 L'adjonction du certificat médical à la licence a été mise en place pour simplifier le contrôle du greffe et/ou
 des arbitres :
-• la licence fédérale mentionne "certificat médical OUI" : le greffe et/ou les arbitres n'ont plus à
-demander le certificat médical au compétiteur, la responsabilité ayant été transférée au président
-de club qui a du se faire présenter le certificat médical valide pour la saison en cours avant de
-commander la nouvelle licence. Il est conseillé au président de club de conserver un double (ou une
-copie) du certificat médical qui sera d'une grande utilité en cas de problème.
-• la licence fédérale mentionne "certificat médical NON" : le compétiteur ne peut pas participer aux
-compétitions de la FFTA sur la simple présentation de sa licence. Le greffe et/ou les arbitres doivent
-lui demander de présenter également son certificat médical valide pour la saison en cours (indication
-sur le passeport ou sur papier libre à en-tête du médecin examinateur).
+
+- la licence fédérale mentionne "certificat médical OUI" : le greffe et/ou les arbitres n'ont plus à
+  demander le certificat médical au compétiteur, la responsabilité ayant été transférée au président
+  de club qui a du se faire présenter le certificat médical valide pour la saison en cours avant de
+  commander la nouvelle licence. Il est conseillé au président de club de conserver un double (ou une
+  copie) du certificat médical qui sera d'une grande utilité en cas de problème.
+- la licence fédérale mentionne "certificat médical NON" : le compétiteur ne peut pas participer aux
+  compétitions de la FFTA sur la simple présentation de sa licence. Le greffe et/ou les arbitres doivent
+  lui demander de présenter également son certificat médical valide pour la saison en cours (indication
+  sur le passeport ou sur papier libre à en-tête du médecin examinateur).
 
 D.3 LES SURCLASSEMENTS
 Pour concourir dans une catégorie d'âge supérieure, comme précisé au C.3.2., le licencié doit se
@@ -2500,10 +2234,6 @@ Surclassement.
 Le médecin examinateur appréciera la capacité de l’archer conformément aux dispositions indiquées dans
 le Guide du Médecin Fédéral.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   50
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 D.4 LA LUTTE CONTRE LE DOPAGE
 
 Attention, de nombreux textes traitent l’usage des substances et procédés interdits (dont les boissons alcoolisées et
@@ -2512,15 +2242,16 @@ faire une recherche plus détaillée, notre texte s’attachant plus particuliè
 
 En application des dispositions de l'article 16 de la Loi n°89-432 du 28 Juin 1989 et des dispositions des
 Décrets n° 91-837 du 30 Août 1991 et n° 92-381 du 1er Avril 1992 :
-• les organes, les agents, les groupements affiliés et les licenciés de la FFTA sont tenus de prêter leur
-concours à la mise en œuvre des enquêtes, contrôles, perquisitions et saisies organisés en
-application de la loi du 28 Juin 1989, relative à la prévention et à la répression de l'usage des produits
-dopants à l'occasion des compétitions et manifestations sportives.
-• tout licencié, participant aux compétitions et manifestations sportives et aux entraînements y
-préparant, est tenu de se soumettre aux prélèvements et aux examens destinés à déceler la
-présence de substances et/ou l'utilisation de procédés interdits. Le refus de se soumettre à un
-contrôle antidopage (qui peut, éventuellement, comprendre une prise de sang) sera considéré
-comme un résultat positif.
+
+- les organes, les agents, les groupements affiliés et les licenciés de la FFTA sont tenus de prêter leur
+  concours à la mise en œuvre des enquêtes, contrôles, perquisitions et saisies organisés en
+  application de la loi du 28 Juin 1989, relative à la prévention et à la répression de l'usage des produits
+  dopants à l'occasion des compétitions et manifestations sportives.
+- tout licencié, participant aux compétitions et manifestations sportives et aux entraînements y
+  préparant, est tenu de se soumettre aux prélèvements et aux examens destinés à déceler la
+  présence de substances et/ou l'utilisation de procédés interdits. Le refus de se soumettre à un
+  contrôle antidopage (qui peut, éventuellement, comprendre une prise de sang) sera considéré
+  comme un résultat positif.
 
 La réglementation relative à la lutte antidopage au sein de la FFTA figure dans le Règlement Médical Fédéral
 et en Annexe 2 du Règlement Intérieur de la FFTA. Celui-ci dispose, entre autres, des demandes d'enquêtes,
@@ -2547,10 +2278,6 @@ l’alcool), tout comme il est interdit de les offrir, les céder ou les adminis
 Cette disposition s’entend strictement, s’agissant d’utilisation ou de cession de la substance et non pas
 simplement, contrairement aux idées reçues, d’un seuil à ne pas dépasser (sachant que le règlement de
 la WA, fixe le seuil à 0,10g d’alcool par litre de sang).
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                         51
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 Voici le texte à diffuser au sein de la FFTA auprès des organisateurs (affichage buvette) :
 
@@ -2583,14 +2310,15 @@ Les arbitres, qui ont un devoir de sécurité et une obligation de prudence, dis
 sanctions prévues dans règlements généraux, article C.11.
 Ainsi, s'il est constaté de visu une consommation d'alcool, la commission des arbitres de la compétition
 (et/ou le jury d'appel) :
-• a le pouvoir de disqualifier un compétiteur et de lui interdire la poursuite de la compétition ;
-• en cas de perturbation due à l'agitation de l'archer fautif, possibilité d'expulsion du terrain de
-compétition : le compétiteur devra rejoindre la zone des spectateurs ;
-• si le compétiteur refuse d'obtempérer : garder son calme, gérer la situation au mieux, éviter tout
-désordre tout en maintenant clairement et avec fermeté la disqualification. Déférer le cas à la FFTA
-par un rapport circonstancié accompagnant le rapport d'arbitre ;
-• en cas de perturbation importante, de danger : appel des forces de police ou de gendarmerie, afin
-qu'elles constatent les faits et prennent les dispositions nécessaires. Déférer le cas à la FFTA.
+
+- a le pouvoir de disqualifier un compétiteur et de lui interdire la poursuite de la compétition ;
+- en cas de perturbation due à l'agitation de l'archer fautif, possibilité d'expulsion du terrain de
+  compétition : le compétiteur devra rejoindre la zone des spectateurs ;
+- si le compétiteur refuse d'obtempérer : garder son calme, gérer la situation au mieux, éviter tout
+  désordre tout en maintenant clairement et avec fermeté la disqualification. Déférer le cas à la FFTA
+  par un rapport circonstancié accompagnant le rapport d'arbitre ;
+- en cas de perturbation importante, de danger : appel des forces de police ou de gendarmerie, afin
+  qu'elles constatent les faits et prennent les dispositions nécessaires. Déférer le cas à la FFTA.
 
 Procédure : Avertissement officiel (carton jaune) inscrit dans le rapport d'arbitrage
 Sanction = disqualification.
@@ -2600,10 +2328,6 @@ infligées par les arbitres ou toute autre autorité fédérale compétente en c
 règles. Le cas échéant, il pourra utiliser son droit de recours et celui-ci sera exercé conformément à la
 procédure prévue.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                         52
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 E. LA PUBLICITÉ
 Ce règlement concerne toutes les compétitions inscrites au calendrier officiel de la FFTA, à l'exception des
 compétitions internationales qui sont soumises au règlement de la WA.
@@ -2611,24 +2335,25 @@ compétitions internationales qui sont soumises au règlement de la WA.
 E.1 SUR LE TERRAIN
 La FFTA autorise la pose de panneaux publicitaires sur le terrain de compétition, dans la mesure où cela
 ne nuit pas à la sécurité. Toutefois, la pose de publicité se veut limitée et sous certaines conditions :
-• chevalets : la publicité est autorisée entre les pieds des chevalets, posée sur le sol. La hauteur des
-panneaux sera de 30cm maximum, les lettres ou les sigles n'excédant pas la hauteur des n° de cible.
-Dans ce cas, les n° de cibles peuvent se trouver au-dessus de la butte de tir ;
-• l'uniformité de la couleur, de la forme et du contenu est exigée dans la publicité d'un même annonceur.
-Une alternance des publicités, quand il y en a plusieurs, ne peut être tolérée que toutes les quatre
-cibles minimums ;
-• en arrière des cibles : à 2m minimum en arrière de la ligne des cibles, publicité posée sur le sol.
-Mêmes conditions que ci-dessus pour ce qui concerne l'uniformité et l'alternance ;
-• pour le Tir en Salle(Tir à 18m) : publicité autorisée sur le filet de protection, s'il y en a, à une hauteur
-minimum de 80cm au-dessus du point le plus élevé de la cible (y compris le n° de cible) ;
-• sur les drapeaux indicateurs de vent : mêmes conditions que plus haut en ce qui concerne l'uniformité
-et l'alternance ;
-• sur le ou les tableaux de marque : en dehors du périmètre de la zone de marquage ;
-• sur les supports des feux et panneaux signalant la rotation des tireurs ;
-• sur les feuilles de marque ;
-• sur les maillots des organisateurs : à condition que la publicité soit la même pour tous les membres
-de l'organisation ;
-La publicité permanente existant sur un terrain de compétition (stade ou Salle(Tir à 18m)) est autorisée.
+
+- chevalets : la publicité est autorisée entre les pieds des chevalets, posée sur le sol. La hauteur des
+  panneaux sera de 30cm maximum, les lettres ou les sigles n'excédant pas la hauteur des n° de cible.
+  Dans ce cas, les n° de cibles peuvent se trouver au-dessus de la butte de tir ;
+- l'uniformité de la couleur, de la forme et du contenu est exigée dans la publicité d'un même annonceur.
+  Une alternance des publicités, quand il y en a plusieurs, ne peut être tolérée que toutes les quatre
+  cibles minimums ;
+- en arrière des cibles : à 2m minimum en arrière de la ligne des cibles, publicité posée sur le sol.
+  Mêmes conditions que ci-dessus pour ce qui concerne l'uniformité et l'alternance ;
+- pour le Tir en Salle(Tir à 18m) : publicité autorisée sur le filet de protection, s'il y en a, à une hauteur
+  minimum de 80cm au-dessus du point le plus élevé de la cible (y compris le n° de cible) ;
+- sur les drapeaux indicateurs de vent : mêmes conditions que plus haut en ce qui concerne l'uniformité
+  et l'alternance ;
+- sur le ou les tableaux de marque : en dehors du périmètre de la zone de marquage ;
+- sur les supports des feux et panneaux signalant la rotation des tireurs ;
+- sur les feuilles de marque ;
+- sur les maillots des organisateurs : à condition que la publicité soit la même pour tous les membres
+  de l'organisation ;
+  La publicité permanente existant sur un terrain de compétition (stade ou Salle(Tir à 18m)) est autorisée.
 
 E.2 POUR LES COMPETITEURS
 E.2.1 : Les compétiteurs peuvent porter de la publicité en plus des marques de fabrique normales du
@@ -2646,10 +2371,6 @@ sponsors personnels.
 
 La publicité, que peut porter le compétiteur sur son maillot, ne peut en aucun cas se substituer au dossard.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   53
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 F. LES DISTINCTIONS
 
 F.1 POUR LA WA,
@@ -2659,7 +2380,7 @@ F.2 POUR LA FFTA
 Les clubs, les comités régionaux, sont habilités à décerner les badges fédéraux. Ces badges sont en vente
 à la fédération (sous conditions).
 
-• Coq Épreuve 1440
+- Coq Épreuve 1440
 
                             Coqs Arc Classique              Minima à réaliser
                             Rouge sur fond blanc                 950 pts
@@ -2677,12 +2398,8 @@ Les clubs, les comités régionaux, sont habilités à décerner les badges féd
 
 Les scores doivent être réalisés lors d'une Épreuve 1440, sur les distances officielles : - 70, 60, 50 et 30m pour les dames - 90, 70, 50 et 30m pour les hommes
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               54
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-• Badges Tir à l'Arc Extérieur Distances Internationales Benjamins(U13), Minimes(U15),
-Cadets(U18), Seniors 3, Arc Classique
+- Badges Tir à l'Arc Extérieur Distances Internationales Benjamins(U13), Minimes(U15),
+  Cadets(U18), Seniors 3, Arc Classique
 
 Les scores doivent être réalisés lors d’une compétition officielle comptant pour le classement national de
 Tir à l'Arc Extérieur Distances Internationales.
@@ -2710,45 +2427,43 @@ Blanc 510 pts
 
                                                              660 pts
 
-• Badges Tir à l'Arc Extérieur (Distances Internationales)
-Les scores doivent avoir été réalisés lors d’un concours comptant pour le classement national de Tir à
-l'Arc Extérieur Distances Internationales :
-Arc Classique à 70 m (de Juniors(U21) à Seniors 2) ou Arc à Poulies à 50 m (de Cadets(U18) à
-Seniors 3)
+- Badges Tir à l'Arc Extérieur (Distances Internationales)
+  Les scores doivent avoir été réalisés lors d’un concours comptant pour le classement national de Tir à
+  l'Arc Extérieur Distances Internationales :
+  Arc Classique à 70 m (de Juniors(U21) à Seniors 2) ou Arc à Poulies à 50 m (de Cadets(U18) à
+  Seniors 3)
 
-                                        Distance Adulte et Scratch
-                                Arc Classique                   Arc à Poulies
-                                                     Badges
-                                     70m                            50m
-                                                      Vert
-                                   480 pts                         620 pts
-                                                    (promo)
-                                   510 pts           Blanc         635 pts
+                                          Distance Adulte et Scratch
+                                  Arc Classique                   Arc à Poulies
+                                                       Badges
+                                       70m                            50m
+                                                        Vert
+                                     480 pts                         620 pts
+                                                      (promo)
+                                     510 pts           Blanc         635 pts
 
-                                   535 pts            Noir         645 pts
+                                     535 pts            Noir         645 pts
 
-                                   560 pts            Bleu         655 pts
+                                     560 pts            Bleu         655 pts
 
-                                   585 pts           Rouge         665 pts
+                                     585 pts           Rouge         665 pts
 
-                                   605 pts           Jaune         675 pts
+                                     605 pts           Jaune         675 pts
 
-                                   625 pts                         685 pts
+                                     625 pts                         685 pts
 
-                                   645 pts                         695 pts
+                                     645 pts                         695 pts
 
-                                   660 pts                         700 pts
-
-
+                                     660 pts                         700 pts
 
 
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             55
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
-• Badges Tir en Salle(Tir à 18m)
-Ces scores doivent avoir été réalisés lors d'un concours officiel 2x18m ou 2x25m, pour toutes les
-catégories.
+                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             55
+
+- Badges Tir en Salle(Tir à 18m)
+  Ces scores doivent avoir été réalisés lors d'un concours officiel 2x18m ou 2x25m, pour toutes les
+  catégories.
 
 Les 3 derniers niveaux (1,2 et 3 « étoile OR ») doivent être réalisés sur blason de 40cm.
 
@@ -2774,27 +2489,25 @@ Les 3 derniers niveaux (1,2 et 3 « étoile OR ») doivent être réalisés sur 
 
                                     575 pts                      585 pts
 
-• Écussons Tir à l'Arc Extérieur Distances Nationales
-Ces scores doivent avoir été réalisés lors d'une compétition officielle de Tir à l'Arc Extérieur Distances
-Nationales à 50 m sur blason de 122 cm comptant pour le classement national, pour les catégories
-Juniors(U21) à Seniors 3 en Arc classique ou en Arc à Poulies.
+- Écussons Tir à l'Arc Extérieur Distances Nationales
+  Ces scores doivent avoir été réalisés lors d'une compétition officielle de Tir à l'Arc Extérieur Distances
+  Nationales à 50 m sur blason de 122 cm comptant pour le classement national, pour les catégories
+  Juniors(U21) à Seniors 3 en Arc classique ou en Arc à Poulies.
 
-                                              Arc classique          Arc à Poulies
-                       ARCHERS                 Bordure or           Bordure argent
-                          1                     500 pts                550 pts
-                          2                     550 pts                600 pts
-                          3                     600 pts                640 pts
-                          4                     640 pts                670 pts
-                      Archer d’Or               670 pts                690 pts
-
-
+                                                Arc classique          Arc à Poulies
+                         ARCHERS                 Bordure or           Bordure argent
+                            1                     500 pts                550 pts
+                            2                     550 pts                600 pts
+                            3                     600 pts                640 pts
+                            4                     640 pts                670 pts
+                        Archer d’Or               670 pts                690 pts
 
 
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             56
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
-• Écussons Tir en Campagne
+                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             56
+
+- Écussons Tir en Campagne
 
                                                  Arc classique         Arc classique
                                                 Benjamins(U13)-         Cadet(U18)
@@ -2812,12 +2525,13 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
                                                 Cadets(U18)                                 Juniors(U21)
                            Juniors(U21)
                                                 Juniors(U21)         Cadets(U18)              Seniors 1
-     ÉCUREUILS               Seniors 1
-                                                 Seniors 1           Piquet blanc             Seniors 2
-                             Seniors 2
-                                                 Seniors 2                                    Seniors 3
-                             Seniors 3
-                                                 Seniors 3                                   Piquet bleu
+
+  ÉCUREUILS Seniors 1
+  Seniors 1 Piquet blanc Seniors 2
+  Seniors 2
+  Seniors 2 Seniors 3
+  Seniors 3
+  Seniors 3 Piquet bleu
 
 Vert sur fond blanc 200 pts 220 pts 160 pts 180 pts
 Argent sur fond vert 240 pts 260 pts 200 pts 220 pts
@@ -2831,9 +2545,7 @@ au calendrier officiel de la FFTA.
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  57
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-• Écussons Tir Nature (pour les 5 catégories d'arc)
+- Écussons Tir Nature (pour les 5 catégories d'arc)
 
                                                                     Arc Nu
 
@@ -2846,12 +2558,13 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
 
 
                                                                     Arc à Poulies
-     SANGLIERS           Arc Droit    Arc Chasse         Arc Nu                             Arc Libre
-                                                                         Nu
-                                                                                          Cadets(U18)
-                                                                                        Juniors(U21) –
-                          Juniors(U21) – Seniors 1 – Seniors 2 - Seniors 3            Seniors 1- Seniors 2 -
-                                                                                           Seniors 3
+
+  SANGLIERS Arc Droit Arc Chasse Arc Nu Arc Libre
+  Nu
+  Cadets(U18)
+  Juniors(U21) –
+  Juniors(U21) – Seniors 1 – Seniors 2 - Seniors 3 Seniors 1- Seniors 2 -
+  Seniors 3
 
 Vert sur fond blanc 250 pts 350 pts 400 pts 450 pts 600 pts
 Argent sur fond vert 475 pts 575 pts 625 pts 675 pts 825 pts
@@ -2862,16 +2575,16 @@ Or sur fond rouge 1075 pts 1175 pts 1225 pts 1275 pts 1425 pts
 
 Ces scores doivent être réalisés sur un parcours homologué, lors d'une compétition officielle, comportant - soit un parcours de 42 cibles tirées 1 fois - soit sur un parcours de 21 cibles tirées 2 fois, en changeant ou non les postes de tir.
 
-• Badges 3D
-Scores à réaliser sur un parcours de 1 fois 24 cibles.
+- Badges 3D
+  Scores à réaliser sur un parcours de 1 fois 24 cibles.
 
-                                                                      Arc à Poulies
-       BROCARD            Arc Droit    Arc Chasse         Arc Nu                             Arc libre
-                                                                           Nu
-                                                                                          Cadets(U18)
-                                                                                         Juniors(U21) –
-                             Juniors(U21) – Seniors 1- Seniors 2 - Seniors 3           Seniors 1- Seniors 2
-                                                                                           - Seniors 3
+                                                                        Arc à Poulies
+         BROCARD            Arc Droit    Arc Chasse         Arc Nu                             Arc libre
+                                                                             Nu
+                                                                                            Cadets(U18)
+                                                                                           Juniors(U21) –
+                               Juniors(U21) – Seniors 1- Seniors 2 - Seniors 3           Seniors 1- Seniors 2
+                                                                                             - Seniors 3
 
 Vert sur fond blanc 70 85 110 140 185
 Argent sur fond vert 125 140 160 210 260
@@ -2892,9 +2605,7 @@ Or sur fond rouge 335 360 375 435 460
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 58
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
-• Badges Beursault (arcs classiques et arcs à poulies)
+- Badges Beursault (arcs classiques et arcs à poulies)
 
                                             MARMOTS
                                              1 marmot
@@ -2911,47 +2622,39 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
 
                Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         59
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-• Distinctions Nationales – Progression et Compétition
+- Distinctions Nationales – Progression et Compétition
 
          ➢   Le Pass’Arc
-     Objectif :                Évaluation et valorisation de l'apprentissage
-                               Traçabilité de son apprentissage.
 
-     Qui les décerne ?         Les clubs et les structures extra-fédérales.
+  Objectif : Évaluation et valorisation de l'apprentissage
+  Traçabilité de son apprentissage.
 
-     Comment ?                 Lors d’une évaluation spécifique
-     Distance :                La mieux adaptée à l’exercice qui permet la validation de l’acquis
+  Qui les décerne ? Les clubs et les structures extra-fédérales.
 
-
-
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©          60
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+  Comment ? Lors d’une évaluation spécifique
+  Distance : La mieux adaptée à l’exercice qui permet la validation de l’acquis
 
          ➢   Les plumes de progression
 
-     Pour qui ? :      En priorité pour les Poussins(U11) & Benjamins(U13)
-                       Mais également ouvert à tous les débutants.
+  Pour qui ? : En priorité pour les Poussins(U11) & Benjamins(U13)
+  Mais également ouvert à tous les débutants.
 
-     Comment ?         Blason 80 cm avec un arc classique
-                       Distance : 10 mètres.
-                       3 volées de 6 flèches
-                       le score de référence d’une plume doit être réalisé plusieurs fois,
-                       sauf pour la plume blanche.
-                       Un score peut être comptabilisé pour l’obtention de plusieurs plumes.
-                       Exemple : Si un score de 127 points est réalisé à 10 m. lors du passage de la plume
-                       blanche (100 pts), il est aussi pris en compte comme premier score sur la plume
-                       noire (110 pts) et la plume bleue (120 pts). Si ce score de 127 pts est réalisé à la
-                       distance correspondant à l’âge de l’enfant, ce score ne peut être comptabilisé que
-                       pour les plumes blanches et noires.
+  Comment ? Blason 80 cm avec un arc classique
+  Distance : 10 mètres.
+  3 volées de 6 flèches
+  le score de référence d’une plume doit être réalisé plusieurs fois,
+  sauf pour la plume blanche.
+  Un score peut être comptabilisé pour l’obtention de plusieurs plumes.
+  Exemple : Si un score de 127 points est réalisé à 10 m. lors du passage de la plume
+  blanche (100 pts), il est aussi pris en compte comme premier score sur la plume
+  noire (110 pts) et la plume bleue (120 pts). Si ce score de 127 pts est réalisé à la
+  distance correspondant à l’âge de l’enfant, ce score ne peut être comptabilisé que
+  pour les plumes blanches et noires.
 
-     Nota      * Les enfants de moins de 10 ans peuvent valider les scores des plumes blanches et noires
-     à la distance de leur âge. Par exemple : un enfant de 7 ans peut passer sa plume blanche à 7m, un
-     enfant de 8 ans à 8 m, etc…. A partir de la plume bleue toutes les plumes passent obligatoirement à
-     10 m.
-
+  Nota \* Les enfants de moins de 10 ans peuvent valider les scores des plumes blanches et noires
+  à la distance de leur âge. Par exemple : un enfant de 7 ans peut passer sa plume blanche à 7m, un
+  enfant de 8 ans à 8 m, etc…. A partir de la plume bleue toutes les plumes passent obligatoirement à
+  10 m.
 
                                                   Nb de
                                                            Score à
@@ -2988,7 +2691,6 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
 
                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               61
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 ➢ Flèches de progression
 
       Comment ?               Sur les blasons utilisés officiellement en compétition
@@ -3039,10 +2741,6 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
 Tous les écussons et badges sont en vente auprès du responsable désigné dans chaque Comité Régional.
 Les flèches de progression et les plumes sont en vente directe au service Diffusion des Articles de la FFTA.
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              62
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 G. LES MODIFICATIONS DES RÈGLEMENTS
 
 G.1 DATES D’APPLICATION
@@ -3052,8 +2750,6 @@ le Bureau ou le Comité Directeur de la FFTA, seront applicables après le derni
 (individuel ou par équipes) de la saison en cours de la discipline concernée.
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             63
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 H. LES ANNEXES
 
@@ -3087,67 +2783,51 @@ Accessoires de terrain
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         64
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 ANNEXE 1 : Réservé
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         65
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 ANNEXE 2
 
 RAPPORT D'ARBITRE : TIR A L'ARC EXTÉRIEUR - SALLE(TIR À 18M)
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         66
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 RAPPORT D'ARBITRE : TIR A L'ARC EXTÉRIEUR - SALLE(TIR À 18M) (suite)
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         67
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 RAPPORT D'ARBITRE : TIR EN CAMPAGNE, PARCOURS NATURE et TIR SUR CIBLES 3D
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         68
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 RAPPORT D'ARBITRE : TIR EN CAMPAGNE, PARCOURS NATURE et TIR SUR CIBLES 3D
 (Suite)
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         69
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 RAPPORT D'ARBITRE : RUN-ARCHERY
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         70
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 RAPPORT D'ARBITRE : RUN-ARCHERY (Suite)
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         71
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
 ANNEXE 3
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         72
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         73
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 ANNEXE 4
 Remplir soigneusement cette demande en entourant les mentions utiles et la renvoyer dans les 48 heures à la FFTA (service des
 activités sportives) avec les feuilles de marque signées par l'archer, le marqueur et l'arbitre. Établir une demande pour chaque
 record ou meilleure performance française.
 
-• DEMANDE D’HOMOLOGATION DE RECORD DE FRANCE OU DE MEILLEURE PERFORMANCE
-FRANÇAISE
-Date de la compétition Lieu Comité Régional
+- DEMANDE D’HOMOLOGATION DE RECORD DE FRANCE OU DE MEILLEURE PERFORMANCE
+  FRANÇAISE
+  Date de la compétition Lieu Comité Régional
 
 Record de France Meilleure performance française Individuel Équipe
 Nom et Prénom de l’archer / Équipe
@@ -3193,10 +2873,6 @@ Adresse
 Téléphone
 Signature
 
-                       Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                               74
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
        LES RECORDS DE FRANCE ET LES MEILLEURES PERFORMANCES FRANÇAISES
 
 CATÉGORIES RECONNUES
@@ -3205,10 +2881,6 @@ Application du principe :
 Record de France pour les catégories reconnues à l'international,
 Meilleures Performances Françaises pour les autres catégories,
 Record de France par équipes réalisé uniquement par les équipes nationales
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         75
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
 
 DISTANCES ET BLASONS
 
@@ -3233,10 +2905,6 @@ blasons de 40 cm pour les Adultes
 3
 Pour les Poussins(U11)
 
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               76
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 ANNEXE 5
 
                              Réclamation auprès du Jury d'Appel
@@ -3257,8 +2925,6 @@ Signature du déclarant :
 
                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©           77
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
                          RÉPONSE DU JURY D'APPEL
 
 Date et heure :
@@ -3272,25 +2938,17 @@ Président :
 
 Membres :
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         78
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 ANNEXE 6
 
-• DISPOSITION D’UN LOCAL POUR UN CONTRÔLE ANTI-DOPAGE
+- DISPOSITION D’UN LOCAL POUR UN CONTRÔLE ANTI-DOPAGE
 
 1 – Salle d’attente : - Réfrigérateur avec boissons non alcoolisées - Bureau - Table - Chaises
 2 – Cabinet de consultation : - Bureau - Chaises - Poubelle - Réfrigérateur (stockage des échantillons) - Téléphone ou autre équipement de communication - Ciseaux - Matériel pour écrire - Serviettes en papier - Gants jetables
-3 - Toilettes - W.C. - Lavabo - Serviettes en papier - Papier hygiénique - Portemanteaux
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         79
-
-Les R èglement s Gé nér aux Edition Févr ier 2022
+3 - Toilettes - W.C. - Lavab- - Serviettes en papier - Papier hygiénique - Portemanteaux
 
 ANNEXE 7
 
-• NOMENCLATURE MATÉRIEL DE TIR
+- NOMENCLATURE MATÉRIEL DE TIR
 
                             L'ARC RECURVE – (CLASSIQUE)
 
@@ -3299,8 +2957,6 @@ ANNEXE 7
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         80
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
                             L'ARC A POULIES (COMPOUND)
 
 
@@ -3308,10 +2964,9 @@ Les R èglement s Gé nér aux Edition Févr ier 2022
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         81
 
-Les R èglement s Gé nér aux Edition Févr ier 2022
-
 ANNEXE 8
-• ACCESSOIRES DE TERRAIN
+
+- ACCESSOIRES DE TERRAIN
 
               Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         82
 
@@ -3382,8 +3037,6 @@ Les feuilles de marque
 Annexe 4 :
 Les blasons
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               84
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
 A. GENERALITES
@@ -3449,11 +3102,12 @@ compétiteur de perdre la valeur de la flèche marquant le plus haut score de ce
 
 A.3.11 LES CHAMPIONNATS
 A.3.11.1 : Les championnats de tir à l'arc extérieur consistent en :
-• Pour la division arc classique, une épreuve de qualification à 70 m ou à la distance adaptée à la
-catégorie (2x36 flèches) suivie d’une épreuve en duels (épreuve olympique).
-• Pour la division arc à poulies, une épreuve de qualification à 50 m (2x36 flèches) suivie d’une
-épreuve en duels arc à poulies.
-Le programme dépendra du nombre de compétiteurs, par divisions et catégories, et de l’espace disponible.
+
+- Pour la division arc classique, une épreuve de qualification à 70 m ou à la distance adaptée à la
+  catégorie (2x36 flèches) suivie d’une épreuve en duels (épreuve olympique).
+- Pour la division arc à poulies, une épreuve de qualification à 50 m (2x36 flèches) suivie d’une
+  épreuve en duels arc à poulies.
+  Le programme dépendra du nombre de compétiteurs, par divisions et catégories, et de l’espace disponible.
 
 A.3.11.1.1 : Si le nombre d'archers inscrits est inférieur à celui qui est requis pour chaque épreuve
 éliminatoire, les exemptions sont autorisées.
@@ -3473,24 +3127,25 @@ A.4.1 :
 Cf. Article C.12.1 des Règlements Généraux
 
 A.4.2 : Pendant la compétition :
-• Les femmes doivent porter des robes, des jupes, des jupes-culottes, des shorts (ceux-ci ne peuvent
-pas être plus courts que la position du bout des doigts lorsque l’athlète a les bras et les doigts tendus
-le long du corps) ou des pantalons non serrés et des chemisiers ou des hauts (qui devront couvrir le
-devant et le dos du corps), correctement ajustés sur chaque épaule et couvrant le ventre en pleine
-allonge.
-• Les hommes doivent porter des pantalons (qui descendent jusqu’en dessous des chevilles) ou des
-shorts (ceux-ci ne peuvent pas être plus courts que la position du bout des doigts lorsque l’athlète a
-les bras et les doigts tendus le long du corps) et des chemises à manche longues ou courtes couvrant
-le ventre en pleine allonge.
-• Aucun jean ou pantalons trop grands, trop larges (Baggy) ne sont autorisés.
-• Pendant la compétition de matchs par équipes, les chemises/chemisiers, les pantalons/shorts,
-jupes, doivent être de la même couleur et du même style.
-• Si les conditions météorologiques le demandent, des habits de protection tels que pullovers,
-survêtement, hauts de sport en lycra, habits contre la pluie, etc, peuvent être portés avec l’aval du
-Délégué Technique ou, en son absence, du Président de la Commission des Juges.
-• Les casquettes/chapeaux ne sont pas obligatoires, mais si les athlètes en portent, ils doivent être
-du même design et style pour l’ensemble de l’équipe. Ils peuvent avoir des patchs au nom d’un
-sponsor en conformité avec les règles d’éligibilité.
+
+- Les femmes doivent porter des robes, des jupes, des jupes-culottes, des shorts (ceux-ci ne peuvent
+  pas être plus courts que la position du bout des doigts lorsque l’athlète a les bras et les doigts tendus
+  le long du corps) ou des pantalons non serrés et des chemisiers ou des hauts (qui devront couvrir le
+  devant et le dos du corps), correctement ajustés sur chaque épaule et couvrant le ventre en pleine
+  allonge.
+- Les hommes doivent porter des pantalons (qui descendent jusqu’en dessous des chevilles) ou des
+  shorts (ceux-ci ne peuvent pas être plus courts que la position du bout des doigts lorsque l’athlète a
+  les bras et les doigts tendus le long du corps) et des chemises à manche longues ou courtes couvrant
+  le ventre en pleine allonge.
+- Aucun jean ou pantalons trop grands, trop larges (Baggy) ne sont autorisés.
+- Pendant la compétition de matchs par équipes, les chemises/chemisiers, les pantalons/shorts,
+  jupes, doivent être de la même couleur et du même style.
+- Si les conditions météorologiques le demandent, des habits de protection tels que pullovers,
+  survêtement, hauts de sport en lycra, habits contre la pluie, etc, peuvent être portés avec l’aval du
+  Délégué Technique ou, en son absence, du Président de la Commission des Juges.
+- Les casquettes/chapeaux ne sont pas obligatoires, mais si les athlètes en portent, ils doivent être
+  du même design et style pour l’ensemble de l’équipe. Ils peuvent avoir des patchs au nom d’un
+  sponsor en conformité avec les règles d’éligibilité.
 
 A.4.3 : Pendant les épreuves de tir à l'arc extérieur, les archers et les entraîneurs doivent porter des
 chaussures de sport. Les chaussures de sport peuvent être de style différent mais doivent couvrir le pied
@@ -3500,8 +3155,6 @@ A.4.4 : Cf. C. 12.1 § Dossard
 
 A.4.5 : Il est permis aux compétiteurs de porter des vêtements sur lesquels apparaît le nom et/ou l'insigne
 officiel, le drapeau ou l'emblème du pays qu'ils représentent, sans restriction de taille.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 86
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -3529,9 +3182,10 @@ A.6.1 : Les archers utilisant des arcs de types différents sont classés dans d
 concourent dans des épreuves séparées. La FFTA reconnaît les divisions suivantes :
 
 A.6.2 : Pour le Tir à l'Arc Extérieur :
-• division Arc Classique (recurve) avec l'équipement défini dans l'article B.3.1 ;
-• division Arc Nu (Barebow) avec l'équipement défini dans l'article B.3.2 et dans l’article II.3.B.3.
-• division Arc à Poulies (compound) avec l'équipement défini dans l'article B.3.3.
+
+- division Arc Classique (recurve) avec l'équipement défini dans l'article B.3.1 ;
+- division Arc Nu (Barebow) avec l'équipement défini dans l'article B.3.2 et dans l’article II.3.B.3.
+- division Arc à Poulies (compound) avec l'équipement défini dans l'article B.3.3.
 
 A.7 LES EPREUVES DE TIR A L'ARC EXTERIEUR
 A.7.1 : On peut tirer les épreuves de tir à l'Arc Extérieur dans les divisions "arcs classique" et "arcs à
@@ -3543,8 +3197,6 @@ Il y a 2 catégories d'épreuves :
 - les Championnats de France Elite et Championnats de France, de régions (duels obligatoires) et de
   Départements (duels souhaités), avec les distances et les catégories d'âge du tableau ci-dessous. Les duels
   ne se font que si le nombre d'archers est égal ou supérieur à 4.
-
-                     Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                87
 
   Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
   Tir à l'Arc Extérieur
@@ -3587,11 +3239,12 @@ Il y a 2 catégories d'épreuves :
 
 A.7.2 : L'épreuve 1440 de tir à l'arc extérieur consiste à tirer 36 flèches à chacune des distances suivantes
 et dans cet ordre :
-• 70, 60, 50 et 30m pour les Seniors 1 et 2 femmes, les Juniors(U21) femmes, les Cadets(U18) hommes
-et les Seniors 3 hommes ;
-• 90, 70, 50 et 30m pour les Seniors 1 et 2 hommes, les Juniors(U21) hommes ;
-• 60, 50, 40 et 30m pour les cadettes(U18) et les Seniors 3 dames.
-ou dans un ordre inverse (de la plus courte à la plus longue)
+
+- 70, 60, 50 et 30m pour les Seniors 1 et 2 femmes, les Juniors(U21) femmes, les Cadets(U18) hommes
+  et les Seniors 3 hommes ;
+- 90, 70, 50 et 30m pour les Seniors 1 et 2 hommes, les Juniors(U21) hommes ;
+- 60, 50, 40 et 30m pour les cadettes(U18) et les Seniors 3 dames.
+  ou dans un ordre inverse (de la plus courte à la plus longue)
 
 Le blason de 122cm sera utilisé aux distances de 90, 70 et 60m (et 50m pour les cadettes(U18) et les
 Seniors 3 dames). Le blason de 80cm sera utilisé aux distances de 50 (autre que pour les cadettes(U18)
@@ -3605,8 +3258,6 @@ aucun classement national. Il n’y a donc pas de possibilités de sélection po
 (championnats de France)
 
 A.7.3 : Réservé
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                             88
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 A.7.4 : L'épreuve de qualification du tir à l'arc Extérieur (discipline internationale) pour les arcs classiques
@@ -3665,8 +3316,6 @@ points et non pas en sets).
 Note : Lors des phases éliminatoires des compétitions avec phases finales des compétitions sélectives
 pour le Championnat de France et lors du Championnat de France : on garde au maximum les 32 meilleures
 dames et les 56 meilleurs hommes (les exemptions sont possibles).
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   89
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
  Dans l'épreuve des Finales, les 8 meilleurs archers issus de l‘épreuve éliminatoire tirent des duels
@@ -3727,8 +3376,6 @@ A.8.5.1 : Pour l'octroi de distinctions de la World Archery et pour l'enregistre
 la World Archery peut reconnaître un certain nombre de tournois organisés par les Associations
 Membres, comme spécifié au paragraphe A.8.6.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   90
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
 A.8.5.2 : Les distinctions sont octroyées lorsque l'archer établit, pour la première fois, un score donnant
@@ -3768,28 +3415,25 @@ Femmes 1000 1100 1200 1300 1350 1400
 
 A.8.5.4.2 : Dans la discipline du Tir à l'Arc Extérieur, les distinctions WA TARGET, épinglettes sur un arrière
 fond rond en couleur, pour les scores indiqués dans le tableau ci-dessous et pour les épreuves suivantes :
-• épreuve à 70m (72 flèches) ; arcs classiques seulement
-• épreuve arcs à poulies à 50m (72 flèches); arcs à poulies seulement
-Tableau relatif au tir extérieur
 
-                        WA TARGET Hommes et Dames Arcs classiques et arcs à poulies
-            Cible        Sur Blanc       Sur Noir      Sur Bleu      Sur Rouge        Sur Or       Sur Pourpre
-             Arc
-          classique           500          550           600            650            675            700
-           2x70m
-           Arcs à
-           Poulies            500          550           600            650            675            700
-           2x50m
+- épreuve à 70m (72 flèches) ; arcs classiques seulement
+- épreuve arcs à poulies à 50m (72 flèches); arcs à poulies seulement
+  Tableau relatif au tir extérieur
 
-
-
-
-                       Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  91
+                          WA TARGET Hommes et Dames Arcs classiques et arcs à poulies
+              Cible        Sur Blanc       Sur Noir      Sur Bleu      Sur Rouge        Sur Or       Sur Pourpre
+               Arc
+            classique           500          550           600            650            675            700
+             2x70m
+             Arcs à
+             Poulies            500          550           600            650            675            700
+             2x50m
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 A.8.5.4.3 : Pour la division arc classique les Target Argent pour les catégories Cadets(U18) (voir A.5.3) et
 Seniors 3
-• Épreuve à 60m (72 flèches) ;
+
+- Épreuve à 60m (72 flèches) ;
 
                                        TARGET ARGENT Arc classique
         Target       Sur Blanc     Sur Noir      Sur Bleu      Sur Rouge       Sur Or      Sur Pourpre
@@ -3829,8 +3473,6 @@ probénécide et les diurétiques.
 A.9.5 : Le refus de se soumettre à un contrôle de dopage autorisé hors compétition donne lieu aux mêmes
 conséquences disciplinaires qu'un résultat positif à l'analyse des stéroïdes anabolisants.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             92
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 A.10 LES COMPETITEURS HANDICAPES
 Voir Cf. I Les Règlements Généraux – Article C.2.
@@ -3840,24 +3482,23 @@ A.11 LIEU DU TIR ALTERNE
 A.11.1 : RESERVE
 
 A.11.2 : POUR LES COMPETITIONS Où LA TELEVISION EST PRESENTE
-• les parasols ou autre(s) structure(s) fournissant de l'ombre ne seront pas autorisés sur le terrain de
-compétition ;
-• les archers et les entraîneurs ne disposeront pas de chaises sur le terrain de compétition ;
-• les archers ne passent que 15 à 22 minutes sur le terrain pour le tir individuel, 22 minutes pour le
-tir par équipes ;
-• les sacs et les caisses d'arc ne sont pas autorisés sur le terrain de tir, le petit matériel pouvant être
-porté dans les poches ou par l'entraîneur dans un sac de ceinture ;
-• Des bouteilles d'eau froide seront disponibles sur le terrain de tir et dans la zone d'attente des
-archers dans le stade ;
-• pas d'appareils de photo et de caméras personnelles autorisés sur le terrain de tir ;
-• pas de téléphone cellulaire autorisé sur le terrain de tir ;
-• un seul coach (entraîneur) n'est autorisé par archer ou équipe sur le terrain de tir.
+
+- les parasols ou autre(s) structure(s) fournissant de l'ombre ne seront pas autorisés sur le terrain de
+  compétition ;
+- les archers et les entraîneurs ne disposeront pas de chaises sur le terrain de compétition ;
+- les archers ne passent que 15 à 22 minutes sur le terrain pour le tir individuel, 22 minutes pour le
+  tir par équipes ;
+- les sacs et les caisses d'arc ne sont pas autorisés sur le terrain de tir, le petit matériel pouvant être
+  porté dans les poches ou par l'entraîneur dans un sac de ceinture ;
+- Des bouteilles d'eau froide seront disponibles sur le terrain de tir et dans la zone d'attente des
+  archers dans le stade ;
+- pas d'appareils de phot- et de caméras personnelles autorisés sur le terrain de tir ;
+- pas de téléphone cellulaire autorisé sur le terrain de tir ;
+- un seul coach (entraîneur) n'est autorisé par archer ou équipe sur le terrain de tir.
 
 A.11.3 : Pour les Championnats de France, les télescopes sont autorisés, mais leur hauteur doit être
 ajustée de telle façon à ce que le haut du télescope ne dépasse pas les épaules de l'archer : si le télescope
 est plus haut, il masque le visage de l'archer pour les images télévisées.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               93
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -3917,8 +3558,6 @@ B.1.12 : Des barrières doivent être placées pour retenir les spectateurs. Ell
 10m, de part et d'autre de la ligne de tir. Ceci assurerait une marge de 13m, de part et d'autre de la ligne
 des cibles, lorsque celles-ci sont déplacées à 30m.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    94
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 Des barrières seront placées à au moins 10 m, en arrière de la ligne d'attente et aussi loin que possible
 derrière la ligne des cibles à 90 m, de manière à obliger le public à passer au moins à 50 m derrière les
@@ -3946,11 +3585,12 @@ place, un emplacement sera également aménagé pour le Juge entre les deux équ
 B.2 LES EQUIPEMENTS DES SITES DE TIR
 B.2.1 LES BLASONS
 Il y a 3 types de blasons pour le Tir à l'Arc Extérieur :
-• 122 cm de diamètre ;
-• 80 cm de diamètre (1 - X) ;
-• 80 cm blasons réduits aux zones de scores de 5 à 10 (6 zones – 5 - X)
-Seuls ces blasons, fabriqués sous licence de la World Archery, peuvent être utilisés lors de toutes les
-compétitions de la FFTA.
+
+- 122 cm de diamètre ;
+- 80 cm de diamètre (1 - X) ;
+- 80 cm blasons réduits aux zones de scores de 5 à 10 (6 zones – 5 - X)
+  Seuls ces blasons, fabriqués sous licence de la World Archery, peuvent être utilisés lors de toutes les
+  compétitions de la FFTA.
 
 B.2.1.1 DESCRIPTION
 Les blasons de 122 et de 80 cm de diamètre sont divisés en cinq zones concentriques de couleur, partant
@@ -3958,8 +3598,9 @@ du centre comme suit : or (jaune), rouge, bleu clair, noir et blanc. Il n'y a pa
 bleu clair et le noir, ni entre le noir et le blanc. Chacune de ces zones colorées est à son tour divisée en
 deux parties égales par de fines lignes, de manière à former dix zones de score. Ces zones sont mesurées
 à partir du centre :
-• 6,1 cm pour le blason de 122 cm ;
-• 4 cm pour le blason de 80 cm.
+
+- 6,1 cm pour le blason de 122 cm ;
+- 4 cm pour le blason de 80 cm.
 
 Ces lignes de division, et toutes les lignes de division qui pourraient être utilisées entre les couleurs, doivent
 se trouver entièrement à l'intérieur de la zone de score la plus élevée.
@@ -3970,11 +3611,10 @@ blasons de 122 et 80 cm. Le centre de la cible est appelé "pinhole" et doit êt
 X sur les feuilles de marque) de 6,1 cm de diamètre sera tracé sur les blasons de 122 cm et un "10
 intérieur" de 4 cm de diamètre sera tracé sur les blasons de 80 cm de diamètre. Le "10 intérieur" (X) sera
 utilisé pour départager les égalités de score pour le classement.
-• Des blasons de 80 cm à 6 anneaux peuvent être utilisés aux distances de 50, 40 et 30 m. Les anneaux
-doivent avoir la même dimension que sur les blasons World Archery de 80 cm, mais les zones
-marquantes de 1 à 4 ont été supprimées. Le score le plus bas est le 5 bleu clair.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    95
+- Des blasons de 80 cm à 6 anneaux peuvent être utilisés aux distances de 50, 40 et 30 m. Les anneaux
+  doivent avoir la même dimension que sur les blasons World Archery de 80 cm, mais les zones
+  marquantes de 1 à 4 ont été supprimées. Le score le plus bas est le 5 bleu clair.
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -4031,8 +3671,6 @@ blasons). Cependant, au cas où un organisateur ne possèderait que des buttes d
 ciblerie est accepté. De ce fait, le positionnement des 3 blasons (rythme A-B-C) ou des 4 blasons (rythme
 AB/CD) doit respecter les dispositions indiquées en annexe 4
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              96
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
 B.2.1.4.3 : Disposition des blasons pour les duels en arcs à poulies :
@@ -4070,27 +3708,27 @@ cible, en dégageant bien le blason.
 B.2.3 LES MOYENS DE CONTROLE DE TEMPS
 B.2.3.1 SONORES ET VISUELS
 Le directeur des tirs contrôle le tir :
-• le début et la fin de chaque période de tir avec un sifflet ou tout autre appareil émettant un signal
-sonore ;
-• chaque temps limite avec des horloges digitales, des feux, des drapeaux, des panneaux et/ou tout
-autre moyen simple visuel en complément des signaux sonores ;
+
+- le début et la fin de chaque période de tir avec un sifflet ou tout autre appareil émettant un signal
+  sonore ;
+- chaque temps limite avec des horloges digitales, des feux, des drapeaux, des panneaux et/ou tout
+  autre moyen simple visuel en complément des signaux sonores ;
 
 B.2.3.2 : Dans le cas où il y aurait une légère discordance entre le signal sonore et le signal visuel, le signal
 sonore prévaut.
 
 B.2.3.3 : Les équipements suivants peuvent être utilisés :
-• Les feux
-Ils seront verticaux, rouge, jaune et vert, dans cet ordre avec le rouge au-dessus. Ils doivent être
-synchronisés et à aucun moment, il ne pourra y avoir deux couleurs allumées en même temps. Lors des
-compétitions nationales de la FFTA, les feux doivent être reliés au système sonore de manière à ce que, au
-premier son émis par l'équipement sonore, les feux deviennent rouges et que le chronomètre digital
-marque 0.
 
-• Les chronomètres digitaux
-Quand le temps de tir est contrôlé par des chronomètres digitaux, les chiffres doivent avoir au moins 20
-cm de haut et doivent pouvoir être lus clairement à 100 m de distance.
+- Les feux
+  Ils seront verticaux, rouge, jaune et vert, dans cet ordre avec le rouge au-dessus. Ils doivent être
+  synchronisés et à aucun moment, il ne pourra y avoir deux couleurs allumées en même temps. Lors des
+  compétitions nationales de la FFTA, les feux doivent être reliés au système sonore de manière à ce que, au
+  premier son émis par l'équipement sonore, les feux deviennent rouges et que le chronomètre digital
+  marque 0.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   97
+- Les chronomètres digitaux
+  Quand le temps de tir est contrôlé par des chronomètres digitaux, les chiffres doivent avoir au moins 20
+  cm de haut et doivent pouvoir être lus clairement à 100 m de distance.
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 Ils doivent pouvoir être arrêtés et remis à 0 à tout moment. Le chronomètre doit fonctionner selon le
@@ -4100,23 +3738,23 @@ Quand des chronomètres digitaux sont utilisés, les feux ne sont pas obligatoir
 Quand les deux systèmes sont utilisés, ils doivent être synchronisés. S'il y a une divergence entre les deux,
 les chronomètres digitaux ont la priorité.
 
-• Les indicateurs d'ordre de tir lors des matchs
-Lors du tir alterné lors des matchs, pour chaque archer, il y aura des lumières vertes / rouges séparées,
-des chronomètres séparés ou d'autres signaux visuels utiles pour indiquer quel archer doit tirer.
+- Les indicateurs d'ordre de tir lors des matchs
+  Lors du tir alterné lors des matchs, pour chaque archer, il y aura des lumières vertes / rouges séparées,
+  des chronomètres séparés ou d'autres signaux visuels utiles pour indiquer quel archer doit tirer.
 
-• L’équipement d'urgence
-Quand le temps de tir est contrôlé électriquement, des panneaux, drapeaux ou un autre moyen manuel
-simple doivent être disponibles, sur le terrain, en cas de défaillance de l'équipement électrique. Des feux
-et/ou des chronomètres digitaux, ainsi que du matériel de secours, sont absolument indispensables lors
-des compétitions nationales de la FFTA
-Quand le contrôle du temps de tir se fait manuellement avec des panneaux, ces panneaux ne doivent pas
-avoir moins de 120 x 80cm. Ils doivent être construits solidement pour résister au vent et doivent pouvoir
-être tournés facilement pour en montrer l'autre côté. Une des faces de ces panneaux doit être verte. L'autre
-face doit être entièrement jaune.
-Note : pendant le tir, la face entièrement verte sera montrée aux archers et quand il restera 30 secondes
-de tir, la face jaune sera montrée aux archers
-Les deux panneaux doivent être placés des deux côtés du terrain, de manière à ce que tous les athlètes
-puissent voir en même temps la même face du panneau.
+- L’équipement d'urgence
+  Quand le temps de tir est contrôlé électriquement, des panneaux, drapeaux ou un autre moyen manuel
+  simple doivent être disponibles, sur le terrain, en cas de défaillance de l'équipement électrique. Des feux
+  et/ou des chronomètres digitaux, ainsi que du matériel de secours, sont absolument indispensables lors
+  des compétitions nationales de la FFTA
+  Quand le contrôle du temps de tir se fait manuellement avec des panneaux, ces panneaux ne doivent pas
+  avoir moins de 120 x 80cm. Ils doivent être construits solidement pour résister au vent et doivent pouvoir
+  être tournés facilement pour en montrer l'autre côté. Une des faces de ces panneaux doit être verte. L'autre
+  face doit être entièrement jaune.
+  Note : pendant le tir, la face entièrement verte sera montrée aux archers et quand il restera 30 secondes
+  de tir, la face jaune sera montrée aux archers
+  Les deux panneaux doivent être placés des deux côtés du terrain, de manière à ce que tous les athlètes
+  puissent voir en même temps la même face du panneau.
 
 B.2.4 ÉQUIPEMENTS DIVERS
 Les équipements suivants sont obligatoires pendant les compétitions nationales de la FFTA. Ils sont
@@ -4149,8 +3787,6 @@ B.2.4.8 : On installera des abris près des cibles lors des épreuves finales. I
 les marqueurs et les agents des archers.
 
 B.2.4.9 : Réservé
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  98
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.2.4.10 : Des fanions, en tissu léger et de couleur facilement visible (ex : jaune), servant d'indicateurs de
@@ -4259,15 +3895,14 @@ B.3.1.5.2 : La longueur totale du viseur, dans la ligne de visée (tunnel, tube,
 
 B.3.1.5.3 : Un viseur fixé à l'arc pour aider à la visée doit pouvoir se régler latéralement et verticalement. Il
 est sujet aux clauses suivantes :
-• une rallonge est autorisée ;
-• une plaquette, ou une bande, sur laquelle sont autorisées les distances peut être fixée sur l'arc
-comme repère de distances, mais ne peut, en aucun cas, servir d'aide supplémentaire à la visée ;
-• le point de visée peut être une fibre optique. La longueur totale de la fibre optique peut excéder 2cm
-à condition que son attache ou son extrémité ne soit pas dans la ligne de visée du compétiteur en
-pleine allonge. Elle ne peut procurer qu'un seul point lumineux en pleine allonge. La mesure de la fibre
-optique est indépendante du tunnel.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  100
+- une rallonge est autorisée ;
+- une plaquette, ou une bande, sur laquelle sont autorisées les distances peut être fixée sur l'arc
+  comme repère de distances, mais ne peut, en aucun cas, servir d'aide supplémentaire à la visée ;
+- le point de visée peut être une fibre optique. La longueur totale de la fibre optique peut excéder 2cm
+  à condition que son attache ou son extrémité ne soit pas dans la ligne de visée du compétiteur en
+  pleine allonge. Elle ne peut procurer qu'un seul point lumineux en pleine allonge. La mesure de la fibre
+  optique est indépendante du tunnel.
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -4293,13 +3928,14 @@ Si la fibre optique du viseur est droite, elle ne peut pas avoir une longueur su
 Si la fibre optique est attachée à deux parties du viseur (en demi-cercle), ce système est légal.
 B.3.1.6 : Des stabilisateurs et des compensateurs sont autorisés.
 B.3.1.6.1 : pourvu qu'ils :
-• ne servent pas de guide de corde ;
-• ne touchent pas autre chose que l'arc ;
-• ne soient pas un obstacle pour les autres archers sur la ligne de tir.
-Note : les stabilisateurs pendulaires sont autorisés.
-B.3.1.7 : Des flèches de n'importe quel type à condition qu'elles répondent aux principes et à la définition
-du mot flèche utilisé lors du tir sur cibles. Les flèches ne doivent pas abîmer exagérément les blasons ou
-les cibles.
+
+- ne servent pas de guide de corde ;
+- ne touchent pas autre chose que l'arc ;
+- ne soient pas un obstacle pour les autres archers sur la ligne de tir.
+  Note : les stabilisateurs pendulaires sont autorisés.
+  B.3.1.7 : Des flèches de n'importe quel type à condition qu'elles répondent aux principes et à la définition
+  du mot flèche utilisé lors du tir sur cibles. Les flèches ne doivent pas abîmer exagérément les blasons ou
+  les cibles.
 
 B.3.1.7.1 : Une flèche se compose d'un tube, d'une pointe, d'une encoche, d'un empennage et,
 éventuellement, d'une décoration de couleurs différentes. Le diamètre maximum du tube de la flèche
@@ -4319,8 +3955,6 @@ contraction ou l’agrandissement des différents métaux dû à des variations 
 B.3.1.8 : Une protection pour les doigts : que ce soit un protège doigt, un doigtier, un gant ou une palette.
 Elle ne doit servir qu'à tendre, tenir et lâcher la corde. En aucune manière, on ne peut y incorporer un objet
 pour tendre, tenir ou lâcher la corde.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                         101
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -4365,8 +3999,6 @@ tir entre les volées, pour autant qu'il ne soit pas un obstacle pour un autre a
 électriques, non électroniques) qui peuvent être attachés à l'équipement utilisé sur la ligne de tir (par ex : rubans
 lumineux), des indicateurs de vent électroniques placés derrière la ligne d’attente.
 Note : les limbs savers peuvent être placés sur la face interne des branches du haut et du bas.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    102
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -4473,8 +4105,6 @@ B.4.2.2 : Toute flèche tirée avant ou après le signal de contrôle de temps o
 considérée comme faisant partie de cette volée. Elle entraîne la perte de la valeur de la flèche ayant le plus
 haut score de cette volée : elle sera marquée comme flèche manquée (M).
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               104
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.4.2.3 : Une flèche tirée sur le terrain de compétition, après que le directeur des tirs ait officiellement
 clôturé la séance d'entraînement sur ce terrain, après le retrait des flèches d'entraînement des cibles, ou
@@ -4529,34 +4159,36 @@ Les pieds doivent être placés de part et d'autre de la ligne de tir ou les deu
 
 B.4.5 : Une flèche ne peut être tirée à nouveau sous aucun prétexte.
 B.4.5.1 : Cependant, une flèche n'est pas considérée comme tirée :
-• si la flèche est tombée ou que le tir est raté et que le tube de la flèche se trouve à l'intérieur de la
-zone délimitée par la ligne de tir et la ligne des 3m, pour autant que la flèche n'ait pas rebondi (voir
-1, note importante, ci-dessous) ;
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 105
- Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
-• si le blason ou la butte tombe (bien qu'ayant été fixé à la satisfaction des arbitres). Les arbitres
-prendront les mesures qui s'imposent et donneront le temps nécessaire pour tirer les flèches
-concernées. Si le blason glisse simplement, les arbitres décideront des mesures à prendre.
+
+- si la flèche est tombée ou que le tir est raté et que le tube de la flèche se trouve à l'intérieur de la
+  zone délimitée par la ligne de tir et la ligne des 3m, pour autant que la flèche n'ait pas rebondi (voir
+  1, note importante, ci-dessous) ;
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 105
+   Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
+- si le blason ou la butte tombe (bien qu'ayant été fixé à la satisfaction des arbitres). Les arbitres
+  prendront les mesures qui s'imposent et donneront le temps nécessaire pour tirer les flèches
+  concernées. Si le blason glisse simplement, les arbitres décideront des mesures à prendre.
 
 (1) Note importante concernant B.4.5.1
-• la zone des 3m, délimitée par la ligne des 3m et la ligne de tir, doit être considérée comme un espace
-3 dimensions (et non une surface deux dimensions). Ainsi, une flèche, plantée dans le sol à l'extérieur
-de la ligne des 3m mais avec sa partie arrière derrière la ligne des 3m, sera considérée comme non
-tirée, même si elle ne repose pas à plat sur le sol ;
-• la largeur de la ligne des 3m fait partie de la zone des 3m (avantage à l'archer) ;
-• en cas de flèche manquée près de la ligne durant une épreuve en duel (match), le compétiteur doit
-décider lui-même si la flèche est valable ou non car le chronométrage ne peut pas être interrompu
-et il ne peut pas demander de temps supplémentaire pour défaut d'équipement. Si le compétiteur
-décide de tirer une flèche en plus et que la flèche au sol est considérée comme tirée (après contrôle
-précis de l'arbitre), la flèche ayant la plus haute valeur de cette volée sera perdue ;
-• lors d'une épreuve sans duel : le compétiteur a le choix de continuer de tirer ou d'utiliser la procédure
-d'équipement défectueux. Dans la première hypothèse, si, après contrôle de près de l'arbitre, la flèche
-au sol est considérée comme tirée, la flèche ayant la plus haute valeur de la volée sera perdue. Dans
-le second cas (procédure d'équipement défectueux), le compétiteur devrait ensuite préparer une
-autre flèche si la flèche au sol est considérée comme tirée (après un contrôle de près de l'arbitre) ;
-• l'arbitre doit, lors de son contrôle de près d'une flèche manquée, prendre en considération le fait que
-le compétiteur doit être capable d'estimer la validité de son tir depuis la ligne de tir et, en cas de
-doute, que l'avantage sera donné au compétiteur.
+
+- la zone des 3m, délimitée par la ligne des 3m et la ligne de tir, doit être considérée comme un espace
+  3 dimensions (et non une surface deux dimensions). Ainsi, une flèche, plantée dans le sol à l'extérieur
+  de la ligne des 3m mais avec sa partie arrière derrière la ligne des 3m, sera considérée comme non
+  tirée, même si elle ne repose pas à plat sur le sol ;
+- la largeur de la ligne des 3m fait partie de la zone des 3m (avantage à l'archer) ;
+- en cas de flèche manquée près de la ligne durant une épreuve en duel (match), le compétiteur doit
+  décider lui-même si la flèche est valable ou non car le chronométrage ne peut pas être interrompu
+  et il ne peut pas demander de temps supplémentaire pour défaut d'équipement. Si le compétiteur
+  décide de tirer une flèche en plus et que la flèche au sol est considérée comme tirée (après contrôle
+  précis de l'arbitre), la flèche ayant la plus haute valeur de cette volée sera perdue ;
+- lors d'une épreuve sans duel : le compétiteur a le choix de continuer de tirer ou d'utiliser la procédure
+  d'équipement défectueux. Dans la première hypothèse, si, après contrôle de près de l'arbitre, la flèche
+  au sol est considérée comme tirée, la flèche ayant la plus haute valeur de la volée sera perdue. Dans
+  le second cas (procédure d'équipement défectueux), le compétiteur devrait ensuite préparer une
+  autre flèche si la flèche au sol est considérée comme tirée (après un contrôle de près de l'arbitre) ;
+- l'arbitre doit, lors de son contrôle de près d'une flèche manquée, prendre en considération le fait que
+  le compétiteur doit être capable d'estimer la validité de son tir depuis la ligne de tir et, en cas de
+  doute, que l'avantage sera donné au compétiteur.
 
 B.4.6 : Pendant que l'archer est sur la ligne de tir, il peut recevoir des conseils techniques, non électroniques,
 de la part des officiels de son équipe, pour autant que cela ne dérange pas les autres compétiteurs.
@@ -4587,12 +4219,11 @@ S’il n’y a pas eu d’accord, ils doivent tirer selon les positions allouée
 
 B.5.1.4 : Lorsque le tir se déroule sur des blasons multi faces (6 anneaux), chaque compétiteur doit tirer
 sur son propre blason :
-• avec 3 archers par cible : l'archer A doit tirer sur le blason du bas à gauche, l'archer B sur le blason
-du centre en haut, l'archer C sur le blason du bas à droite ;
-• avec 4 archers par cible : l'archer A tire sur le blason du haut à gauche, l'archer B sur le blason du
-haut à droite, l'archer C sur le blason du bas à gauche, l'archer D sur le blason du bas à droite.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  106
+- avec 3 archers par cible : l'archer A doit tirer sur le blason du bas à gauche, l'archer B sur le blason
+  du centre en haut, l'archer C sur le blason du bas à droite ;
+- avec 4 archers par cible : l'archer A tire sur le blason du haut à gauche, l'archer B sur le blason du
+  haut à droite, l'archer C sur le blason du bas à gauche, l'archer D sur le blason du bas à droite.
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.5.1.5 : L'ordre de tir peut être modifié temporairement afin d'effectuer une modification essentielle à
@@ -4610,67 +4241,69 @@ B.5.2.1 : Lors des épreuves de qualification, 2 ou 3 archers tireront en même 
 tireront des volées de 6 flèches.
 
 B.5.2.2 : Lors des épreuves éliminatoires et finales individuelles ou des duels Arcs à Poulies :
-• Durant les duels des épreuves éliminatoires et finales, l'archer placé sur la ligne supérieure pour
-chaque paire (du tableau) tirera de la position de gauche pour ce duel. L’attribution des buttes de tir
-à chaque étape de la compétition relève du choix de l'organisateur ;
-• lors des phases éliminatoires précédant les 1/8 de finales, 2 archers tireront sur la même cible.
-Lorsque cela est possible à partir des 1/8 de finales éliminatoires, chaque archer tirera sur sa
-propre cible. Ils enregistreront les scores et récolteront les flèches eux-mêmes ;
-• lors des épreuves finales (match individuel tir alterné), chaque archer tire sur sa propre cible et ne
-participe ni à la récolte des flèches, ni au score. Chaque compétiteur désigne son représentant
-(agent) qui observe l'établissement des scores, marque les impacts et effectue le retrait des flèches
-de la cible. Ces flèches seront rendues à l'archer après chaque volée à partir de la deuxième volée
-(par les coureurs) ;
-• lors des matchs en tir alterné, l’archer (l’équipe), ayant la meilleure place à l’épreuve de classement
-(qualification), aura à décider de son ordre de tir (tirer le premier ou le second) pour la première
-volée. L’archer (l’équipe) ayant le nombre de points de set cumulé le plus bas, ou le score cumulé le
-plus bas pour les arcs à poulies, tirera le premier lors de la volée suivante. Si les archers sont à
-égalité, celui qui aura tiré le premier lors de la première volée tirera le premier à la volée suivante.
-• Durant les matchs, il n’y aura qu’un seul coach par archer ou par équipe sur le terrain de compétition.
-Le coach doit se placer dans son emplacement particulier.
+
+- Durant les duels des épreuves éliminatoires et finales, l'archer placé sur la ligne supérieure pour
+  chaque paire (du tableau) tirera de la position de gauche pour ce duel. L’attribution des buttes de tir
+  à chaque étape de la compétition relève du choix de l'organisateur ;
+- lors des phases éliminatoires précédant les 1/8 de finales, 2 archers tireront sur la même cible.
+  Lorsque cela est possible à partir des 1/8 de finales éliminatoires, chaque archer tirera sur sa
+  propre cible. Ils enregistreront les scores et récolteront les flèches eux-mêmes ;
+- lors des épreuves finales (match individuel tir alterné), chaque archer tire sur sa propre cible et ne
+  participe ni à la récolte des flèches, ni au score. Chaque compétiteur désigne son représentant
+  (agent) qui observe l'établissement des scores, marque les impacts et effectue le retrait des flèches
+  de la cible. Ces flèches seront rendues à l'archer après chaque volée à partir de la deuxième volée
+  (par les coureurs) ;
+- lors des matchs en tir alterné, l’archer (l’équipe), ayant la meilleure place à l’épreuve de classement
+  (qualification), aura à décider de son ordre de tir (tirer le premier ou le second) pour la première
+  volée. L’archer (l’équipe) ayant le nombre de points de set cumulé le plus bas, ou le score cumulé le
+  plus bas pour les arcs à poulies, tirera le premier lors de la volée suivante. Si les archers sont à
+  égalité, celui qui aura tiré le premier lors de la première volée tirera le premier à la volée suivante.
+- Durant les matchs, il n’y aura qu’un seul coach par archer ou par équipe sur le terrain de compétition.
+  Le coach doit se placer dans son emplacement particulier.
 
 B.5.2.3 : Dans les épreuves éliminatoires et finales par équipes, quand les 2 équipes tirent en même temps
 :
-• la position gauche/droite de l'équipe est déterminée par le tableau des matchs utilisé. Durant la
-première série de matchs, l'équipe placée sur la ligne supérieure pour chaque paire (du tableau)
-tirera depuis le côté gauche pour ce match. L'attribution des cibles relève du choix de l'organisateur ;
-• les deux équipes commenceront chaque volée de leur match avec les 3 archers en arrière de la ligne
-de 1m. Dès que le directeur des tirs démarre le match et le décompte de temps, le premier archer
-peut franchir la ligne de 1m ;
-• les archers d’une équipe tireront 2 flèches chacun, dans l’ordre qu’ils auront choisi.
-• 1 seul archer occupera la ligne de tir, les autres archers resteront derrière la ligne de 1m. Il ne devra
-pas y avoir plus d’un archer à la fois devant la ligne de 1m.
-• les compétiteurs en fauteuil roulant peuvent rester sur la ligne de tir durant toute la durée du duel.
-Ils indiqueront qu'ils ont fini de tirer en levant la main au-dessus de leur tête ;
-• en se déplaçant pour tirer, les compétiteurs ne peuvent pas sortir les flèches du carquois avant d'être
-sur la ligne de tir ;
-• les violations de ces règles seront sanctionnées comme cela est spécifié au paragraphe B.8 ;
-• Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne des
-1m.
+
+- la position gauche/droite de l'équipe est déterminée par le tableau des matchs utilisé. Durant la
+  première série de matchs, l'équipe placée sur la ligne supérieure pour chaque paire (du tableau)
+  tirera depuis le côté gauche pour ce match. L'attribution des cibles relève du choix de l'organisateur ;
+- les deux équipes commenceront chaque volée de leur match avec les 3 archers en arrière de la ligne
+  de 1m. Dès que le directeur des tirs démarre le match et le décompte de temps, le premier archer
+  peut franchir la ligne de 1m ;
+- les archers d’une équipe tireront 2 flèches chacun, dans l’ordre qu’ils auront choisi.
+- 1 seul archer occupera la ligne de tir, les autres archers resteront derrière la ligne de 1m. Il ne devra
+  pas y avoir plus d’un archer à la fois devant la ligne de 1m.
+- les compétiteurs en fauteuil roulant peuvent rester sur la ligne de tir durant toute la durée du duel.
+  Ils indiqueront qu'ils ont fini de tirer en levant la main au-dessus de leur tête ;
+- en se déplaçant pour tirer, les compétiteurs ne peuvent pas sortir les flèches du carquois avant d'être
+  sur la ligne de tir ;
+- les violations de ces règles seront sanctionnées comme cela est spécifié au paragraphe B.8 ;
+- Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne des
+  1m.
 
 B.5.2.4 : Dans l'épreuve par équipes, épreuves finales avec tir alterné :
-• les deux équipes débuteront chaque volée de leur match avec leurs 3 archers derrière la ligne de
-1m ;
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  107
+- les deux équipes débuteront chaque volée de leur match avec leurs 3 archers derrière la ligne de
+  1m ;
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
-• l'équipe ayant obtenu le meilleur classement lors de l’épreuve de qualification décidera de l'ordre de
-tir de la première volée. A la volée suivante, l'équipe ayant le nombre de points de set cumulé le plus
-bas, ou le score cumulé le plus bas pour les arcs à poulies, commencera le tir. Si les équipes sont à
-égalité, l'équipe ayant commencé le match tirera la première ;
-• quand la première équipe (chaque membre de l’équipe tire 1 flèche) a tiré 3 flèches (2 flèches pour
-les équipes mixtes) et que l'archer est revenu en arrière de la ligne de 1m, le chronomètre de cette
-équipe est arrêté en affichant le temps qui reste ;
-• quand le score de la dernière flèche est affiché sur le tableau de marque près de la cible (applicable
-lors des compétitions retransmises sur écran), le chronomètre de la deuxième équipe est mis en
-marche et le premier archer de cette équipe peut franchir la ligne de 1m et commencer le tir ;
-• cela est répété jusqu'à ce que chaque équipe ait tiré 6 flèches (4 flèches pour les équipes mixtes) ou
-que le temps imparti soit écoulé.
-• les équipes doivent alterner leurs membres après chaque tir de manière à ce que chaque membre
-de l’équipe ait tiré 1 flèche dans chaque phase de rotation.
-• Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne des
-1m.
+
+- l'équipe ayant obtenu le meilleur classement lors de l’épreuve de qualification décidera de l'ordre de
+  tir de la première volée. A la volée suivante, l'équipe ayant le nombre de points de set cumulé le plus
+  bas, ou le score cumulé le plus bas pour les arcs à poulies, commencera le tir. Si les équipes sont à
+  égalité, l'équipe ayant commencé le match tirera la première ;
+- quand la première équipe (chaque membre de l’équipe tire 1 flèche) a tiré 3 flèches (2 flèches pour
+  les équipes mixtes) et que l'archer est revenu en arrière de la ligne de 1m, le chronomètre de cette
+  équipe est arrêté en affichant le temps qui reste ;
+- quand le score de la dernière flèche est affiché sur le tableau de marque près de la cible (applicable
+  lors des compétitions retransmises sur écran), le chronomètre de la deuxième équipe est mis en
+  marche et le premier archer de cette équipe peut franchir la ligne de 1m et commencer le tir ;
+- cela est répété jusqu'à ce que chaque équipe ait tiré 6 flèches (4 flèches pour les équipes mixtes) ou
+  que le temps imparti soit écoulé.
+- les équipes doivent alterner leurs membres après chaque tir de manière à ce que chaque membre
+  de l’équipe ait tiré 1 flèche dans chaque phase de rotation.
+- Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne des
+  1m.
 
 B.5.3 : Lors des autres tournois :
 
@@ -4678,17 +4311,18 @@ B.5.3.1 : Lors des épreuves de qualification, les archers tirent des volées de
 
 B.5.3.2 : Épreuves éliminatoires et finales Arcs Classiques et Arcs à Poulies : voir article B.5.2 qui s’applique
 avec les exceptions suivantes :
-• lors des 1/8 de finales éliminatoires, l'organisateur peut attribuer une cible à 1 ou 2 compétiteurs.
-Ils enregistreront les scores et récolteront les flèches eux-mêmes ;
-• lors des 1/4 de finales, il y aura 1 compétiteur par cible. Selon le désir des organisateurs, les matchs
-pourront être tirés simultanément. Dans ce cas, les compétiteurs enregistreront les scores et récolteront
-les flèches eux-mêmes. S'il n'y a pas suffisamment de décompteurs de temps pour chronométrer chaque
-match individuellement, le directeur de tir contrôlera tous les matchs ensemble ;
-• dans toutes les autres épreuves finales individuelles (duel individuel, tir alterné), chaque archer tirera
-sur sa propre cible et ne participera, ni à l'enregistrement des scores, ni à la récolte des flèches.
-Chaque compétiteur désigne son représentant (agent) qui observera l'établissement des scores,
-marquera les impacts des flèches et retirera les flèches de la cible. Ces flèches seront rendues à
-l'archer à la fin de chaque volée dès la deuxième volée.
+
+- lors des 1/8 de finales éliminatoires, l'organisateur peut attribuer une cible à 1 ou 2 compétiteurs.
+  Ils enregistreront les scores et récolteront les flèches eux-mêmes ;
+- lors des 1/4 de finales, il y aura 1 compétiteur par cible. Selon le désir des organisateurs, les matchs
+  pourront être tirés simultanément. Dans ce cas, les compétiteurs enregistreront les scores et récolteront
+  les flèches eux-mêmes. S'il n'y a pas suffisamment de décompteurs de temps pour chronométrer chaque
+  match individuellement, le directeur de tir contrôlera tous les matchs ensemble ;
+- dans toutes les autres épreuves finales individuelles (duel individuel, tir alterné), chaque archer tirera
+  sur sa propre cible et ne participera, ni à l'enregistrement des scores, ni à la récolte des flèches.
+  Chaque compétiteur désigne son représentant (agent) qui observera l'établissement des scores,
+  marquera les impacts des flèches et retirera les flèches de la cible. Ces flèches seront rendues à
+  l'archer à la fin de chaque volée dès la deuxième volée.
 
 B.5.3.3 : Épreuve par équipes
 Une équipe est constituée des 3 meilleurs archers (ou 2 meilleurs pour une équipe mixte) issus de la phase
@@ -4708,8 +4342,6 @@ B.5.4.2 : 40 secondes est le temps alloué au compétiteur - pour résoudre une 
 
 B.5.4.3 : 1 minute est le temps alloué à une équipe pour tirer 3 flèches (1 par archer) pour résoudre une
 égalité lors du tir par équipes.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 108
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.5.4.4 : 80 secondes est le temps dévolu à une équipe mixte pour tirer 4 flèches (2 par athlètes)
@@ -4737,18 +4369,19 @@ compétiteurs signifie qu'il ne reste plus que 30 secondes de tir avant la fin d
 est montrée à tout autre instant de la séquence de tir.
 
 B.5.4.8.4 : Quand le tir est contrôlé par des feux (sauf lors des épreuves finales), l'ordre est le suivant :
-• ROUGE : Le directeur des tirs donnera 2 signaux sonores afin que les archers désignés (A, B, C ou
-AB, CD comme prévu) viennent occuper la ligne de tir ensemble (sauf lors des épreuves olympiques
-par équipes).
-• VERT : 10 secondes plus tard (10 secondes également lors des matchs), quand la couleur devient
-verte, le directeur des tirs donne 1 signal sonore afin d'autoriser le début des tirs.
-• JAUNE : Ce signal signifie qu'il ne reste plus que 30 secondes avant la fin de la séquence de tir.
-• ROUGE : Ce signal signifie que la séquence de tir est terminée (voir l’article B.5.4.1) et 2 signaux
-sonores doivent retentir, indiquant la fin du tir, même si toutes les flèches de la volée n'ont pas été
-tirées. Les compétiteurs, qui sont encore sur la ligne de tir, doivent regagner leur position derrière
-la ligne d'attente. Les compétiteurs suivants peuvent occuper la ligne de tir et attendre que le feu
-passe au vert pour débuter leur séquence. La procédure sera répétée jusqu'à ce que tous les
-compétiteurs aient tiré.
+
+- ROUGE : Le directeur des tirs donnera 2 signaux sonores afin que les archers désignés (A, B, C ou
+  AB, CD comme prévu) viennent occuper la ligne de tir ensemble (sauf lors des épreuves olympiques
+  par équipes).
+- VERT : 10 secondes plus tard (10 secondes également lors des matchs), quand la couleur devient
+  verte, le directeur des tirs donne 1 signal sonore afin d'autoriser le début des tirs.
+- JAUNE : Ce signal signifie qu'il ne reste plus que 30 secondes avant la fin de la séquence de tir.
+- ROUGE : Ce signal signifie que la séquence de tir est terminée (voir l’article B.5.4.1) et 2 signaux
+  sonores doivent retentir, indiquant la fin du tir, même si toutes les flèches de la volée n'ont pas été
+  tirées. Les compétiteurs, qui sont encore sur la ligne de tir, doivent regagner leur position derrière
+  la ligne d'attente. Les compétiteurs suivants peuvent occuper la ligne de tir et attendre que le feu
+  passe au vert pour débuter leur séquence. La procédure sera répétée jusqu'à ce que tous les
+  compétiteurs aient tiré.
 
 Quand on doit tirer 6 flèches en deux volées de 3, la procédure est répétée avant d'aller marquer les points
 aux cibles.
@@ -4769,8 +4402,6 @@ utilisés, aucun compétiteur ne peut occuper la ligne de tir avant que le signa
 B.5.5.2 : Lors d’un match en tir alterné, les archers concourant se rendront sur la ligne de tir au signal
 d’alerte des 10 secondes (2 signaux sonores). A la fin des 10 secondes, un signal sonore indiquera le début
 de la période de tir de 20 secondes pour le premier athlète dans le match. Dès que la première flèche est
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                109
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 tirée et que le score est affiché, l’horloge à « compte à rebours » pour l’athlète adverse est enclenchée
@@ -4889,19 +4520,19 @@ enregistrés et les flèches retirées de la cible.
 B.6.2.5 : La valeur des flèches, enfouies dans la cible et non visibles de l'extérieur du blason, sera uniquement
 donnée par un arbitre.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  111
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.6.2.6 : La valeur d’une flèche
 B.6.2.6.1 : Une flèche
-• touchant la cible et rebondissant, sera donnée en fonction de son impact en cible, pour autant que tous
-les impacts aient été correctement cochés et qu'un impact, non coché, puisse être identifié.
+
+- touchant la cible et rebondissant, sera donnée en fonction de son impact en cible, pour autant que tous
+  les impacts aient été correctement cochés et qu'un impact, non coché, puisse être identifié.
 
 En cas de rebond (refus) :
-• lorsque des archers tirent chacun sur une cible, l'archer concerné, après avoir tiré sa volée de 3 ou 6
-flèches, doit rester sur la ligne de tir et appeler l’arbitre ;
-• lorsque plusieurs archers tirent en même temps sur la même cible, tous les archers de la cible doivent
-arrêter le tir, rester sur la ligne de tir et appeler l’arbitre.
+
+- lorsque des archers tirent chacun sur une cible, l'archer concerné, après avoir tiré sa volée de 3 ou 6
+  flèches, doit rester sur la ligne de tir et appeler l’arbitre ;
+- lorsque plusieurs archers tirent en même temps sur la même cible, tous les archers de la cible doivent
+  arrêter le tir, rester sur la ligne de tir et appeler l’arbitre.
 
 Quand tous les archers de la ligne de tir ont terminé la volée en cours, ou quand la séquence de tir est finie, le
 directeur des tirs suspendra le tir. L'archer concerné par le rebond s'avancera vers les cibles, accompagné d'un
@@ -4951,8 +4582,6 @@ B.6.3.1 : Si cela se produit, le tir ne doit pas être interrompu. L'archer peut
 l'enregistrement des points, en s'assurant que "les flèches oubliées" sont bien comptées sur la feuille de score
 de l'archer, avant qu'aucune flèche ne soit retirée de la cible.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     112
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.6.3.2 : Si un archer oublie ses flèches, par exemple sur le sol près de la cible, il peut en utiliser d'autres, à
 condition qu'il avertisse un arbitre avant de tirer.
@@ -4970,27 +4599,29 @@ sont remises. Cependant s’ils remarquent des erreurs au moment où celles-ci l
 demanderont aux athlètes concernés de les corriger et le résultat obtenu après correction sera retenu.
 Toutes les corrections devront être effectuées avant l’étape suivante de la compétition.
 En cas de différence entre les sommes totales :
-• Entre deux feuilles de marque papier, la somme totale la plus basse sera utilisée pour le résultat final ;
-si le score sur une seule feuille de marque (et en cas d’un double marquage si le score est le même sur
-chaque feuille de marque) est inférieur au score réel, le score le plus bas sur la feuille de marque sera
-utilisé et si
-• Entre une feuille de marque en papier et une électronique, la somme totale de la version papier sera
-utilisée pour le résultat final à moins que celle-ci ne soit supérieure au score réel (dans quel cas, le score
-réel le plus bas sera utilisé).
-B.6.4.2 : Pour les épreuves éliminatoires et finales, les feuilles de marque seront signées par les deux athlètes
-du duel, montrant ainsi que tous deux, ou leurs agents, sont d’accord avec la valeur de chaque flèche, les totaux,
-le nombre de 10, le nombre de X et le résultat du duel. Toute information manquante sur la feuille de score sera
-considérée comme non existante (0) pour les classements.
+
+- Entre deux feuilles de marque papier, la somme totale la plus basse sera utilisée pour le résultat final ;
+  si le score sur une seule feuille de marque (et en cas d’un double marquage si le score est le même sur
+  chaque feuille de marque) est inférieur au score réel, le score le plus bas sur la feuille de marque sera
+  utilisé et si
+- Entre une feuille de marque en papier et une électronique, la somme totale de la version papier sera
+  utilisée pour le résultat final à moins que celle-ci ne soit supérieure au score réel (dans quel cas, le score
+  réel le plus bas sera utilisé).
+  B.6.4.2 : Pour les épreuves éliminatoires et finales, les feuilles de marque seront signées par les deux athlètes
+  du duel, montrant ainsi que tous deux, ou leurs agents, sont d’accord avec la valeur de chaque flèche, les totaux,
+  le nombre de 10, le nombre de X et le résultat du duel. Toute information manquante sur la feuille de score sera
+  considérée comme non existante (0) pour les classements.
 
 B.6.5 : Dans l'éventualité d'une égalité dans les scores totaux, le départage se fera de la manière suivante :
 
 B.6.5.1 : Dans toutes les épreuves, sauf pour les égalités décrites à l’article B.6.5.2
-• Individuels et équipes
-✓ plus grand nombre de 10 (10 et X) ;
-✓ plus grand nombre de X (10 intérieur) ;
-✓ si l'égalité subsiste, les compétiteurs sont déclarés ex aequo. Mais, pour des raisons de classement
-(par exemple le positionnement dans le tableau des matchs de l'épreuve éliminatoire), un tirage au
-sort décidera de la place.
+
+- Individuels et équipes
+  ✓ plus grand nombre de 10 (10 et X) ;
+  ✓ plus grand nombre de X (10 intérieur) ;
+  ✓ si l'égalité subsiste, les compétiteurs sont déclarés ex aequo. Mais, pour des raisons de classement
+  (par exemple le positionnement dans le tableau des matchs de l'épreuve éliminatoire), un tirage au
+  sort décidera de la place.
 
 B.6.5.2 : Le départage des égalités, pour entrer dans les phases éliminatoires, pour la 8 place dans le cas de
 ème
@@ -5003,31 +4634,31 @@ B.6.5.2.1 : Le départage des égalités pour entrer dans les épreuves élimina
 dernière distance tirée, dès que les résultats de l’épreuve de qualification ont été vérifiés.
 
 B.6.5.2.2 :
-• Individuels
-✓ Un seul tir de barrage d'une flèche, pour le score
-✓ Si l'égalité subsiste, la flèche la plus près du centre donne la victoire.
-✓ Si l'égalité subsiste encore, on répète le barrage avec la flèche la plus près du centre jusqu'à
-résolution de l'égalité.
-✓ Si les deux archers manquent la zone marquante de la cible, tous deux tireront une flèche
-supplémentaire ;
-✓ Lors des tirs alternés, l'archer qui a tiré en premier au début du match commencera lors du tir
-de barrage.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     113
+- Individuels
+  ✓ Un seul tir de barrage d'une flèche, pour le score
+  ✓ Si l'égalité subsiste, la flèche la plus près du centre donne la victoire.
+  ✓ Si l'égalité subsiste encore, on répète le barrage avec la flèche la plus près du centre jusqu'à
+  résolution de l'égalité.
+  ✓ Si les deux archers manquent la zone marquante de la cible, tous deux tireront une flèche
+  supplémentaire ;
+  ✓ Lors des tirs alternés, l'archer qui a tiré en premier au début du match commencera lors du tir
+  de barrage.
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
 B.6.5.2.3 :
-• Équipes (duels)
-✓ un seul tir de barrage d'une volée de 3 flèches (1 par archer, 2 pour les équipes mixtes) le plus haut
-total de points gagne ;
-✓ si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante ;
-✓ si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) est la plus près du centre, sera déclarée
-gagnante ;
-✓ lors des tirs alternés, l’équipe qui a tiré en premier au début du match commencera lors du tir de
-barrage ;
-✓ lors des tirs alternés, l’alternance entre les équipes se fera après que chacun des membres d’une
-équipe ait tiré 1 flèche ;
+
+- Équipes (duels)
+  ✓ un seul tir de barrage d'une volée de 3 flèches (1 par archer, 2 pour les équipes mixtes) le plus haut
+  total de points gagne ;
+  ✓ si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante ;
+  ✓ si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) est la plus près du centre, sera déclarée
+  gagnante ;
+  ✓ lors des tirs alternés, l’équipe qui a tiré en premier au début du match commencera lors du tir de
+  barrage ;
+  ✓ lors des tirs alternés, l’alternance entre les équipes se fera après que chacun des membres d’une
+  équipe ait tiré 1 flèche ;
 
 B.6.5.2.4 : Réservé
 B.6.5.2.5 : Tant que les informations officielles au sujet des tirs de barrage n'ont pas été annoncées, les
@@ -5128,8 +4759,6 @@ quel dispositif de sécurité (zone de dépassement, filet de protection, parois
 compétiteur persiste à vouloir utiliser cette technique, il sera immédiatement invité, par le président des
 arbitres et / ou le directeur des tirs, à arrêter le tir et à quitter le terrain de compétition.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                       115
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.8 LES CONSEQUENCES DU NON-RESPECT DES REGLES
 B.8.1 ELIGIBILITE – DISQUALIFICATION
@@ -5190,8 +4819,6 @@ considérée comme faisant partie de la volée et entraînera la perte de la val
 haut score de cette volée qui sera marquée comme une flèche manquée (M). Cette infraction sera signalée
 par un arbitre levant un carton rouge.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                116
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.8.2.4 : Une flèche, tirée sur le terrain de compétition après que le directeur des tirs ait officiellement
 clôturé la séance d'entraînement sur ce terrain et que les flèches aient été retirées des cibles, ou pendant
@@ -5249,8 +4876,6 @@ un esprit d'honnêteté pour tous les compétiteurs.
 
 B.9.1.1 : Il doit y avoir au moins 1 arbitre pour 10 cibles lors du tir sur cibles, sauf les compétitions
 nationales Cf. tableau B.5.3 des Règlements Généraux
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 117
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.9.2 : LES TACHES DES ARBITRES
@@ -5310,8 +4935,6 @@ constatés.
 B.10.5 : Les réclamations concernant le déroulement du tir ou le comportement d'un compétiteur doivent
 être déposées avant la prochaine phase de la compétition.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  118
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 B.10.6 : Les réclamations concernant les résultats publiés chaque jour doivent être déposées auprès des
 arbitres sans délai, en tout cas à temps pour que les corrections éventuelles soient possibles avant la
@@ -5328,8 +4951,6 @@ Généraux – Article B.5, avant le début de la prochaine phase de la compéti
 sont l'objet d'un litige, ne peuvent pas être remis avant que le jury d'appel n'ait pris une décision.
 L'appel écrit doit se faire dans les 15 minutes avant la fin de l'épreuve.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               119
-
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
 B.12 LES ANNEXES
@@ -5338,8 +4959,9 @@ B.12 LES ANNEXES
 
 ANNEXE 1 :
 Tableau des matchs/Grille de répartition
-• finales individuelles
-• finales par équipe
+
+- finales individuelles
+- finales par équipe
 
 ANNEXE 2 :
 Les dispositions d’un terrain de Tir à l'Arc Extérieur
@@ -5361,8 +4983,6 @@ ANNEXE 4 : POSITIONS DES BLASONS
 2 Blasons de 80cm réduits à 6 zones (5 – X)
 3 Blasons de 80cm réduits à 6 zones (5 – X) sur butte de tir ronde de 129cm
 4 Blasons de 80cm réduits à 6 zones (5 – X) sur butte de tir ronde de 129cm
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©        120
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -5405,8 +5025,6 @@ ANNEXE 2
 
 Un couloir de 2m de largeur, réservé à la TV et aux photographes, peut être tracé derrière la ligne d'attente.
 Dans ce cas, la ligne la plus près de la zone du matériel deviendra la nouvelle ligne d'attente.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               123
 
 Le Tir à l'Arc Extérieur Le Règlement Edition Février 2022
 
@@ -5618,8 +5236,6 @@ et la sécurité. Par exemple : éviter que la zone marquante soit en face d’u
 flèches traversent les blasons. Dans ce cas l’écartement pourra être réduit à une valeur comprise entre 1
 et 2 cm.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              135
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C. REGLEMENTS SPECIFIQUES DES EPREUVES FEDERALES
@@ -5657,20 +5273,20 @@ C.1 LES CHAMPIONNATS DE FRANCE INDIVIDUELS
 C.1.1 LE CHAMPIONNAT DE FRANCE ELITE TIR A L'ARC EXTERIEUR (TOUTES CATEGORIES) INDIVIDUEL POUR
 LES ARCS CLASSIQUES ET ARCS A POULIES
 
-• Qualifications
-Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
+- Qualifications
+  Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
 
-• Date
-En fonction du calendrier international, généralement entre juillet et septembre.
+- Date
+  En fonction du calendrier international, généralement entre juillet et septembre.
 
-• Epreuves
-Ce championnat décerne 4 titres :
+- Epreuves
+  Ce championnat décerne 4 titres :
 
-              CHAMPION DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC CLASSIQUE
-             CHAMPIONNE DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC CLASSIQUE
+                CHAMPION DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC CLASSIQUE
+               CHAMPIONNE DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC CLASSIQUE
 
-               CHAMPION DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC A POULIES
-              CHAMPIONNE DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC A POULIES
+                 CHAMPION DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC A POULIES
+                CHAMPIONNE DE FRANCE ELITE TIR A L'ARC EXTERIEUR ARC A POULIES
 
 Les catégories de licence : Cadets(U18), Juniors(U21), seniors 1, seniors 2, seniors 3 sont regroupés dans
 une seule et même catégorie de participation et disputent le même titre (classement "Toutes Catégories").
@@ -5680,16 +5296,17 @@ dans la mesure où :
 ✓ Ils ont réalisé des scores à 70 m (pour apparaître au classement "Toutes Catégories")
 
 Ces scores réalisés à 70 m seront pris en compte :
-• Pour le classement « Toutes Catégories »
-• Pour les scores sélectifs à 60 m de leur catégorie
 
-• Distances : 70 m pour les Arcs Classiques et 50 m pour les Arcs à Poulies
+- Pour le classement « Toutes Catégories »
+- Pour les scores sélectifs à 60 m de leur catégorie
 
-• Participation et sélection des archers :
+- Distances : 70 m pour les Arcs Classiques et 50 m pour les Arcs à Poulies
+
+- Participation et sélection des archers :
 
       Se rapporter au tableau officiel des quotas des sélectionnés et au calendrier fédéral officiel.
 
-• Le déroulement du championnat
+- Le déroulement du championnat
 
 Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
 
@@ -5699,20 +5316,20 @@ Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales 
 
 C.1.2 LE CHAMPIONNAT DE FRANCE DOUBLE MIXTE POUR LES ARCS CLASSIQUES ET LES ARCS A POULIES
 
-• Date
-Au cours du championnat de France Elite de Tir à l'Arc Extérieur.
+- Date
+  Au cours du championnat de France Elite de Tir à l'Arc Extérieur.
 
-• Qualifications
-Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.2.2
+- Qualifications
+  Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.2.2
 
-• Epreuves
-Ce championnat décerne les titres de :
-CHAMPION DE FRANCE DOUBLE MIXTE ARC CLASSIQUE
-CHAMPION DE FRANCE DOUBLE MIXTE ARC A POULIES
+- Epreuves
+  Ce championnat décerne les titres de :
+  CHAMPION DE FRANCE DOUBLE MIXTE ARC CLASSIQUE
+  CHAMPION DE FRANCE DOUBLE MIXTE ARC A POULIES
 
-• Distances : 70 m pour les Arcs Classiques et 50 m pour les Arcs à Poulies.
+- Distances : 70 m pour les Arcs Classiques et 50 m pour les Arcs à Poulies.
 
-• Participation et sélection des archers : 16 Doubles Mixte de club se composant ainsi :
+- Participation et sélection des archers : 16 Doubles Mixte de club se composant ainsi :
 
        1. Un Double Mixte est composé d’un homme et d’une femme.
        2. Pour composer un Double Mixte, il faut être licencié dans le même club (règle des transferts
@@ -5736,20 +5353,20 @@ CHAMPION DE FRANCE DOUBLE MIXTE ARC A POULIES
           Double Mixte s’étant qualifiée. Elle peut être changée jusqu’à une heure avant le début des finales
           (Règle Internationale) et doit répondre aux points 1, 2 et 3 de cet article.
 
-• Le déroulement du championnat
-Ce championnat de France a pour cadre la phase de qualification individuelle du Championnat de
-France Elite : épreuves de qualification (2x70m pour les Arcs Classiques ou 2x50m pour les Arcs à Poulies)
-suivi d'une phase de duels selon le règlement en vigueur.
-Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
+- Le déroulement du championnat
+  Ce championnat de France a pour cadre la phase de qualification individuelle du Championnat de
+  France Elite : épreuves de qualification (2x70m pour les Arcs Classiques ou 2x50m pour les Arcs à Poulies)
+  suivi d'une phase de duels selon le règlement en vigueur.
+  Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
 
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               138
+                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               138
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.1.3 LE CHAMPIONNAT DE FRANCE JEUNES
 Ce championnat regroupe un championnat individuel et un championnat de France par Équipes.
 
-• Organisation du championnat
+- Organisation du championnat
 
                                         Jour 1                     Jour 2             Jour 3
                                                                    Finales        Qualifications et
@@ -5760,45 +5377,43 @@ Ce championnat regroupe un championnat individuel et un championnat de France pa
 
 Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
 
-• Catégories et nombre de participants
-En tir Individuel, sur la base du classement national par catégorie, selon des quotas définis annuellement
-par le Comité Directeur de la FFTA :
+- Catégories et nombre de participants
+  En tir Individuel, sur la base du classement national par catégorie, selon des quotas définis annuellement
+  par le Comité Directeur de la FFTA :
 
 En tir par Équipes, 4 archers par équipes de club sélectionnées : 64 garçons Cadets(U18)/Juniors(U21),
 64 filles Cadettes(U18)/Juniors(U21) et 64 Benjamins(U13)/Minimes(U15) garçons et filles.
 
-• Distances
-Benjamins(U13) (garçons et filles) 30m
-Minimes(U15) (garçons et filles) 40m
-Cadets(U18) (garçons et filles) 60m
-Juniors(U21) (garçons et filles) 70m
+- Distances
+  Benjamins(U13) (garçons et filles) 30m
+  Minimes(U15) (garçons et filles) 40m
+  Cadets(U18) (garçons et filles) 60m
+  Juniors(U21) (garçons et filles) 70m
 
-• Position des compétiteurs lors des phases de qualification
-Les compétiteurs d'un même club seront positionnés à 1 par cible sur des cibles contiguës : 1A, 2A, 3A,
-1B, 2B, 3B, etc…
+- Position des compétiteurs lors des phases de qualification
+  Les compétiteurs d'un même club seront positionnés à 1 par cible sur des cibles contiguës : 1A, 2A, 3A,
+  1B, 2B, 3B, etc…
 
 C.1.4 LE CHAMPIONNAT DE FRANCE DOUBLE MIXTE JEUNE
 
-• Date :
-Au cours du Championnat de France Jeune Individuel
+- Date :
+  Au cours du Championnat de France Jeune Individuel
 
-• Epreuves :
-Ce Championnat décerne le titre de : CHAMPION DE FRANCE DOUBLE MIXTE JEUNES
+- Epreuves :
+  Ce Championnat décerne le titre de : CHAMPION DE FRANCE DOUBLE MIXTE JEUNES
 
-• Distances : 60m.
+- Distances : 60m.
 
-• Participation et sélection des archers : 16 Doubles Mixtes Jeune de club se décomposant ainsi : 1. Un Double Mixte Jeune est composé d’un Jeune Homme (Cadet(U18) ou Junior(U21)) et
-d’une Jeune Femme (Cadette(U18) ou Junior(U21)). 2. Pour composer un Double Mixte Jeune, il faut être licencié dans le même club (règle des
-transferts appliquée) 3. L'équipe de club double mixte est composée - En premier avec les archers choisis parmi ceux participant au championnat de France
-individuel. - Puis complétée éventuellement par un ou deux archers inscrit(s) par le club. 4. Les deux archers qualifiés pour représenter leur club au championnat de France Double
-Mixte participent à la phase de qualification du championnat de France Individuel.
-S'ils font partie des archers qualifiés individuellement au championnat de France, ils pourront
-prendre part, en cas de qualification, aux phases finales individuelles du championnat de
-France.
-Dans le cas contraire, ils ne participeront qu'à la phase de qualifications et ne seront pas
-classés individuellement au championnat de France.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             139
+- Participation et sélection des archers : 16 Doubles Mixtes Jeune de club se décomposant ainsi : 1. Un Double Mixte Jeune est composé d’un Jeune Homme (Cadet(U18) ou Junior(U21)) et
+  d’une Jeune Femme (Cadette(U18) ou Junior(U21)). 2. Pour composer un Double Mixte Jeune, il faut être licencié dans le même club (règle des
+  transferts appliquée) 3. L'équipe de club double mixte est composée - En premier avec les archers choisis parmi ceux participant au championnat de France
+  individuel. - Puis complétée éventuellement par un ou deux archers inscrit(s) par le club. 4. Les deux archers qualifiés pour représenter leur club au championnat de France Double
+  Mixte participent à la phase de qualification du championnat de France Individuel.
+  S'ils font partie des archers qualifiés individuellement au championnat de France, ils pourront
+  prendre part, en cas de qualification, aux phases finales individuelles du championnat de
+  France.
+  Dans le cas contraire, ils ne participeront qu'à la phase de qualifications et ne seront pas
+  classés individuellement au championnat de France.
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -5813,13 +5428,13 @@ Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales 
              du Double Mixte s’étant qualifiée. Elle peut être changée jusqu’à une heure avant le début
              des finales (Règle Internationale) et doit répondre aux points 1, 2 et 3 de cet article.
 
-• Le déroulement du championnat
-Ce championnat de France a pour cadre la phase de qualification individuelle du Championnat de France
-Jeune : épreuves de qualification (2x70m ou 2x60m selon la catégorie) suivi d'une phase de duels selon le
-règlement en vigueur.
-Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
+- Le déroulement du championnat
+  Ce championnat de France a pour cadre la phase de qualification individuelle du Championnat de France
+  Jeune : épreuves de qualification (2x70m ou 2x60m selon la catégorie) suivi d'une phase de duels selon le
+  règlement en vigueur.
+  Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
 
-                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             140
+                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             140
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -5829,24 +5444,24 @@ C.1.5.1 LES COMPETITIONS SELECTIVES POUR LE CHAMPIONNAT DE FRANCE DE TIR A L'ARC
 
 Ces compétitions concernent les arcs classiques et les arcs à poulies dans les Seniors.
 
-• Période de sélection et nombre de sélections à réaliser
-Se rapporter au tableau officiel des quotas des sélectionnés et au calendrier fédéral officiel.
-Lors des championnats départementaux et régionaux, les classements doivent être établis en respectant
-toutes les catégories d'âge figurant dans le tableau officiel des catégories (cf. Article C.3.1 des Règlements
-Généraux).
-C.1.5.2 LE CHAMPIONNAT DE FRANCE SENIORS
-La date est fixée par le comité Directeur de la FFTA, habituellement fin août ou début septembre.
+- Période de sélection et nombre de sélections à réaliser
+  Se rapporter au tableau officiel des quotas des sélectionnés et au calendrier fédéral officiel.
+  Lors des championnats départementaux et régionaux, les classements doivent être établis en respectant
+  toutes les catégories d'âge figurant dans le tableau officiel des catégories (cf. Article C.3.1 des Règlements
+  Généraux).
+  C.1.5.2 LE CHAMPIONNAT DE FRANCE SENIORS
+  La date est fixée par le comité Directeur de la FFTA, habituellement fin août ou début septembre.
 
-• Épreuves :
-Ce Championnat de France décerne le titre de : CHAMPION DE FRANCE dans chacune des catégories
-ouvertes sur ce Championnat
+- Épreuves :
+  Ce Championnat de France décerne le titre de : CHAMPION DE FRANCE dans chacune des catégories
+  ouvertes sur ce Championnat
 
-• Déroulement :
-Le Championnat de France de Tir à l'Arc Extérieur se déroule de la manière suivante :
-Pour le TAE Distances Internationale et Olympique
-sur un tir de qualifications de 2x36 flèches suivi de phases finales en duels ;
-Pour le TAE Distances Nationales
-sur un tir de 2x36 flèches sans duels.
+- Déroulement :
+  Le Championnat de France de Tir à l'Arc Extérieur se déroule de la manière suivante :
+  Pour le TAE Distances Internationale et Olympique
+  sur un tir de qualifications de 2x36 flèches suivi de phases finales en duels ;
+  Pour le TAE Distances Nationales
+  sur un tir de 2x36 flèches sans duels.
 
 Ce championnat se déroule sur 4 départs et une phase finale (vendredi après-midi, samedi matin, samedi après-midi,
 dimanche matin, dimanche après-midi pour les phases finales).
@@ -5860,24 +5475,23 @@ l'affectation des catégories sur les départs.
 
 C.2 RESERVE
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 141
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.3 LA FILIERE SPORTIVE PAR ÉQUIPES DE CLUBS
 
 La Filière par Équipes de Clubs est composée de :
-• Pour les Arcs Classique :
-Du Championnat de France D1 Arc Classique
-De la Division 2 (D2)
-De la ou des Divisions Régionales (DR)
 
-• Pour les Arcs à Poulies :
-Du Championnat de France D1 Arc à Poulies
-De la ou des Divisions Régionales
+- Pour les Arcs Classique :
+  Du Championnat de France D1 Arc Classique
+  De la Division 2 (D2)
+  De la ou des Divisions Régionales (DR)
 
-• Pour les Jeunes :
-Un Championnat de France par Équipes de Clubs
+- Pour les Arcs à Poulies :
+  Du Championnat de France D1 Arc à Poulies
+  De la ou des Divisions Régionales
+
+- Pour les Jeunes :
+  Un Championnat de France par Équipes de Clubs
 
 C.3.1 CHAMPIONNAT DE FRANCE D1 ARC CLASSIQUE,
 
@@ -5910,40 +5524,39 @@ selon le règlement international de l’épreuve olympique.
 Les rencontres par équipe de club se déroulent en 5 matchs. (Voir déroulement du Championnat)
 La phase finale se déroule lors du championnat de France Elite. (Voir déroulement du Championnat)
 
-• Arbitrage
-L’arbitrage de l’ensemble de la compétition est assuré conformément au cahier des charges par les
-arbitres désignés en relation avec le PCRA du Comité Régional du lieu de la compétition.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               142
+- Arbitrage
+  L’arbitrage de l’ensemble de la compétition est assuré conformément au cahier des charges par les
+  arbitres désignés en relation avec le PCRA du Comité Régional du lieu de la compétition.
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-• Déroulement du championnat
+- Déroulement du championnat
 
-            o Saison Régulière :
+            - Saison Régulière :
 
 La Saison Régulière se réalise par la rencontre de toutes les équipes entre elles une fois dans la saison,
 soit 15 rencontres. Une manche est composée de 5 rencontres pour une équipe.
 
 L’ordre des rencontres se réalise de la façon suivante :
 
-Le numéro d’équipe est attribué en début de saison par tirage au sort entre les équipes engagées dans le
+Le numér- d’équipe est attribué en début de saison par tirage au sort entre les équipes engagées dans le
 championnat de France de D1.
 
 Lors de chaque manche de la Saison Régulière, une phase de qualification sur un 2x36 flèches à 70 m est
 réalisée. Le classement des équipes permet d’attribuer une bonification en fonction de la place obtenue
 lors de cette phase, selon le principe suivant :
-o 3 points attribués à la 1ère équipe
-o 2 points attribués aux équipes classées de la 2ème à la 4ème place
-o 1 point attribué aux équipes classées de la 5ème à la 8ème place
-o 0 point attribué aux équipes classées de la 9ème à la 16ème place
+
+- 3 points attribués à la 1ère équipe
+- 2 points attribués aux équipes classées de la 2ème à la 4ème place
+- 1 point attribué aux équipes classées de la 5ème à la 8ème place
+- 0 point attribué aux équipes classées de la 9ème à la 16ème place
 
 Lors des rencontres entre équipes :
 Ces rencontres se déroulent en 5 matchs, un match par équipe puis 4 matchs individuels.
 A l'issue de la phase de qualifications de chaque manche, chacun des 4 archers composant les équipes se
-voit attribuer un numéro de 1 à 4. Le numéro 1 est le meilleur archer de l'équipe sur la phase de
-qualifications, le numéro 2 est le 2ème, le numéro 3 est le 3ème et le numéro 4 est le 4ème.
-Chaque archer de l'équipe conserve son numéro sur toute la durée de la manche concernée, soit pour les
+voit attribuer un numér- de 1 à 4. Le numér- 1 est le meilleur archer de l'équipe sur la phase de
+qualifications, le numér- 2 est le 2ème, le numér- 3 est le 3ème et le numér- 4 est le 4ème.
+Chaque archer de l'équipe conserve son numér- sur toute la durée de la manche concernée, soit pour les
 5 rencontres de la manche.
 
 Une rencontre entre 2 équipes se déroule en 2 temps distincts sur 2 cibles contigües :
@@ -5958,7 +5571,7 @@ La victoire de ce match rapporte 2 points à l'équipe gagnante et 0 point à l'
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 2ème temps :
-Matchs individuels entre les archers de chaque équipe ayant le même numéro (1 er vs 1er, 2ème vs 2ème, 3ème vs
+Matchs individuels entre les archers de chaque équipe ayant le même numér- (1 er vs 1er, 2ème vs 2ème, 3ème vs
 3ème et 4ème vs 4ème). Les archers qui se rencontrent tirent sur la même cible. Les 4 matchs individuels se
 déroulent dans le même temps, sur deux cibles contigües, en rythme AB/CD.
 Match 1 vs 1 sur la 1ère cible en AB
@@ -5984,7 +5597,7 @@ match 4ème vs 4ème le score de la rencontre sera donc sur 5 points au lieu de 
 
          L'équipe qui gagne la rencontre est celle qui a obtenu le plus de points à l'issue des matchs. La
 
-victoire d'une rencontre donne trois (3) points au classement à l'équipe gagnante et zéro (0) à l'équipe
+victoire d'une rencontre donne trois (3) points au classement à l'équipe gagnante et zér- (0) à l'équipe
 perdante.
 En cas d'égalité à 3 - 3, les équipes obtiennent chacune 1 point au classement.
 
@@ -5994,33 +5607,29 @@ en cas d'égalité. Les points de matchs gagnés par l'équipe deviennent des Po
 perdus par l'équipe deviennent des Points perdus (Pp). Le différentiel (Diff.) entre les Pg et les Pp donne un
 résultat servant au départage des équipes à égalité, soit Pg – Pp = Diff.
 Le classement d'une équipe se fait donc en prenant en compte les éléments suivants :
-o Nombre de points de bonus obtenus sur les qualifications des différentes manches
-additionnées aux nombre de points de victoires (ou de matchs nuls) de rencontres
-o Différentiel de scores des rencontres (Diff.) obtenus par la soustraction des Points perdus
-(Pp) aux Points gagnés : Pg – Pp = Diff
+
+- Nombre de points de bonus obtenus sur les qualifications des différentes manches
+  additionnées aux nombre de points de victoires (ou de matchs nuls) de rencontres
+- Différentiel de scores des rencontres (Diff.) obtenus par la soustraction des Points perdus
+  (Pp) aux Points gagnés : Pg – Pp = Diff
 
 En cas d'égalité
 
-1.      De scores à la fin d'un match : on procède à un tir de barrage selon le règlement international.
+1.                                            De scores à la fin d'un match : on procède à un tir de barrage selon le règlement international.
          A l’issue du barrage lors d'un match individuel, le vainqueur du match marque un point de set
          supplémentaire (le score final du match est 6-5).
          A l’issue du barrage lors d'un match par équipe, l’équipe vainqueur du match marque un point de
          set supplémentaire (le score final du match est 5-4).
-2.      De points après les x rencontres de la saison, le départage se fait ainsi jusqu’à la suppression de
+2.                                            De points après les x rencontres de la saison, le départage se fait ainsi jusqu’à la suppression de
            l’égalité :
-           o         Le meilleur différentiel (Diff.) entre les équipes à égalité
-           o         Le total du nombre de Points gagnés (Pg) par l'équipe
-           o         Le meilleur total des scores de qualification des x manches
-           o         Le vainqueur du match ayant opposé les deux équipes encore à égalité
-
-
-
-
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               144
+           -         Le meilleur différentiel (Diff.) entre les équipes à égalité
+           -         Le total du nombre de Points gagnés (Pg) par l'équipe
+           -         Le meilleur total des scores de qualification des x manches
+           -         Le vainqueur du match ayant opposé les deux équipes encore à égalité
 
     Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-                o Phase Finale :
+                - Phase Finale :
 
     Les 4 premières équipes au classement final de la Saison Régulière (Classement après les 15 rencontres
     de la Saison Régulière) sont qualifiées pour participer à la phase finale du championnat de France de D1.
@@ -6050,8 +5659,6 @@ Lors de la phase finale et uniquement lors de cette phase, chaque match se déro
 dans l'équipe selon le règlement international. Les 3 archers qui commencent le match, tirent tout le match
 sans possibilité de changement entre les volées. La composition de l'équipe de 3 archers peut changer
 entre la ½ finale et le match de finale (Finale Bronze ou Finale Or).
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 145
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -6095,31 +5702,29 @@ Des duels individuels (phase éliminatoire et finale) peuvent aussi être organi
 Les 4 premières équipes de chaque groupe (16 équipes) sont qualifiées pour la Finale du Championnat de
 France de D2.
 
-• Procédure d'inscription des équipes à la Finale du Championnat de France de D2
-La composition de l'équipe, transmise à la FFTA lors de l'inscription, peut être modifiée avant le jour du
-championnat (dépôt de la composition de l'équipe au greffe). Les archers composant l'équipe doivent
-apparaître au classement national "Tir à l'Arc Extérieur" Scratch Classique à la date limite d’inscription des
-équipes à ce championnat ou au 31 août de la saison sportive si le championnat se déroule ultérieurement à
-cette date.
+- Procédure d'inscription des équipes à la Finale du Championnat de France de D2
+  La composition de l'équipe, transmise à la FFTA lors de l'inscription, peut être modifiée avant le jour du
+  championnat (dépôt de la composition de l'équipe au greffe). Les archers composant l'équipe doivent
+  apparaître au classement national "Tir à l'Arc Extérieur" Scratch Classique à la date limite d’inscription des
+  équipes à ce championnat ou au 31 août de la saison sportive si le championnat se déroule ultérieurement à
+  cette date.
 
 Si le club a transmis à la FFTA une composition d'équipe ne comprenant que 3 archers, il ne sera pas
 possible d'aligner 4 archers le jour du championnat.
 En cas de litige, le délégué technique fédéral valide les procédures d'inscriptions au greffe, le jour du championnat.
 Il peut faire appel au Président de la Commission des Arbitres et au jury d'appel.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     146
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-• Déroulement de la saison de D2 (3 manches)
-Les 3 manches de D2 permettent la rencontre de toutes les équipes entre elles deux fois dans la saison,
-soit 14 matchs par équipe répartis en 5 matchs par manche sur les deux premières manches et 4 matchs
-sur la dernière manche.
-L’ordre des matchs se réalise de la façon suivante :
+- Déroulement de la saison de D2 (3 manches)
+  Les 3 manches de D2 permettent la rencontre de toutes les équipes entre elles deux fois dans la saison,
+  soit 14 matchs par équipe répartis en 5 matchs par manche sur les deux premières manches et 4 matchs
+  sur la dernière manche.
+  L’ordre des matchs se réalise de la façon suivante :
 
-Dans chaque groupe, homme et femme, le numéro 1 du tableau est attribué à l’équipe ayant obtenu le
-meilleur classement au Classement National par équipe de club de l’année précédente, le numéro 2 à la
-deuxième équipe au classement et ainsi de suite jusqu’au numéro 8.
+Dans chaque groupe, homme et femme, le numér- 1 du tableau est attribué à l’équipe ayant obtenu le
+meilleur classement au Classement National par équipe de club de l’année précédente, le numér- 2 à la
+deuxième équipe au classement et ainsi de suite jusqu’au numér- 8.
 
 Lors de chaque manche, une phase de qualification sur un 2x36 flèches à 70 m est réalisée. Le classement
 des équipes permet d’attribuer une bonification en fonction de la place obtenue lors de cette phase, selon
@@ -6139,12 +5744,13 @@ En cas d'égalité - De score à la fin d'un match : on procède à un tir de ba
 A l’issue du barrage, l’équipe vainqueur du match marque un point de set supplémentaire (le score
 final du match est (5-4)). - De points après les 14 matchs des 3 manches de D2, le départage se fait ainsi jusqu’à la
 suppression de l’égalité :
-• Le total du nombre de points de sets acquis par l'équipe
-• Le meilleur total des scores de qualification des 3 manches
-• Le vainqueur du match ayant opposé les deux équipes encore à égalité. Les équipes
-se rencontrant deux fois dans la saison, si chacune des équipes, encore à égalité,
-a gagné un match, le cumul des scores réalisés sur ces deux matchs servira à
-départager les équipes. Si l'égalité persiste, un tirage au sort sera effectué.
+
+- Le total du nombre de points de sets acquis par l'équipe
+- Le meilleur total des scores de qualification des 3 manches
+- Le vainqueur du match ayant opposé les deux équipes encore à égalité. Les équipes
+  se rencontrant deux fois dans la saison, si chacune des équipes, encore à égalité,
+  a gagné un match, le cumul des scores réalisés sur ces deux matchs servira à
+  départager les équipes. Si l'égalité persiste, un tirage au sort sera effectué.
 
 Les équipes classées de la 1ère à la 4ème place de leur groupe sont qualifiées pour participer à la Finale
 du Championnat de France de D2. Les équipes classées 5ème et 6ème se maintiennent en D2.
@@ -6176,8 +5782,6 @@ A l'issue du 2ème match, on applique le même principe de montante / descendant
 dernier match qui détermine le classement final des équipes sur la Finale du Championnat de France de
 D2 (de la 1ère à la 16ème place), selon le tableau suivant :
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              148
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 Tableau de suivi de la finale du Championnat de France de D2 :
@@ -6199,12 +5803,13 @@ ne peuvent pas participer à la DR.
 
 Pour participer à la filière par équipe, les Comités Régionaux doivent constituer une ou plusieurs Divisions
 Régionales qui peuvent se décliner en :
-• DR « Excellence »
-• DR
-• DD (Division Départementale) : au choix des Comités Régionaux, dans une logique sportive ayant
-pour objectif l’accès au niveau supérieur.
-Pour les régions n’ayant qu’une seule division régionale celle-ci est assimilée à une DR Excellence et est
-assujettie au règlement DRE.
+
+- DR « Excellence »
+- DR
+- DD (Division Départementale) : au choix des Comités Régionaux, dans une logique sportive ayant
+  pour objectif l’accès au niveau supérieur.
+  Pour les régions n’ayant qu’une seule division régionale celle-ci est assimilée à une DR Excellence et est
+  assujettie au règlement DRE.
 
 C.3.3.1. La DR « Excellence »
 Les catégories :
@@ -6250,17 +5855,15 @@ Montée en D2
 Les 8 premières équipes au classement final de la Finale Nationale des DR accèdent en D2 la saison
 suivante.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  150
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.3.3.3. La Finale Nationale de DR (Identique pour les hommes et les femmes).
 
-• Période
-Entre Juillet et Septembre, après les manches de D2 et les compétitions de DR.
-La finale DR "arc classique" est couplée avec celle des "arcs à poulies" : même week-end, même site.
+- Période
+  Entre Juillet et Septembre, après les manches de D2 et les compétitions de DR.
+  La finale DR "arc classique" est couplée avec celle des "arcs à poulies" : même week-end, même site.
 
-    • Sélection
+      - Sélection
 
 La sélection à la Finale Nationale des DR peut s'effectuer de plusieurs façons :
 Les équipes vainqueurs de la DR « Excellence » hommes ou de la DR (s’il n’existe pas de DR Excellence dans
@@ -6292,7 +5895,7 @@ s'il termine dans les 8 premiers du classement final de la Finale Nationale des 
 classement. En cas de refus de monter en D2, l’équipe du club sera interdite de participation à la finale de
 DR pendant les deux années suivantes.
 
-    • Procédure d'inscription des équipes
+    - Procédure d'inscription des équipes
 
 La composition de l'équipe, transmise à la FFTA lors de l'inscription, peut être modifiée avant le jour du
 championnat (dépôt de la composition de l'équipe au greffe). Les archers composant l'équipe doivent
@@ -6303,17 +5906,17 @@ possible d'aligner 4 archers le jour du championnat.
 En cas de litige, le délégué technique fédéral valide les procédures d'inscriptions au greffe le jour du championnat.
 Il peut faire appel au Président de la Commission des Arbitres et au jury d'appel.
 
-• Déroulement
-A l'issue de la phase de qualification 2x36 flèches à 70 m, les équipes sont classées de la 1ère à la 24ème
-place.
-Les 8 premières équipes des qualifications sont directement qualifiées en 8 ème de finale.
-Les équipes classées de la 9ème à la 24ème place se rencontrent pour un premier match à élimination directe.
-Les équipes gagnantes de ce premier match sont qualifiées en 8ème de finale et rencontrent les 8 premières
-équipes des qualifications déjà qualifiées directement en 8ème de finale.
-Les équipes perdantes de ce premier match sont basculées dans un tableau de repêchage pour jouer la
-17ème place de la Finale Nationale des DR.
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 151
- Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
+- Déroulement
+  A l'issue de la phase de qualification 2x36 flèches à 70 m, les équipes sont classées de la 1ère à la 24ème
+  place.
+  Les 8 premières équipes des qualifications sont directement qualifiées en 8 ème de finale.
+  Les équipes classées de la 9ème à la 24ème place se rencontrent pour un premier match à élimination directe.
+  Les équipes gagnantes de ce premier match sont qualifiées en 8ème de finale et rencontrent les 8 premières
+  équipes des qualifications déjà qualifiées directement en 8ème de finale.
+  Les équipes perdantes de ce premier match sont basculées dans un tableau de repêchage pour jouer la
+  17ème place de la Finale Nationale des DR.
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 151
+   Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 A partir des 8ème de finale, on applique le principe de la montante / descendante.
 Les équipes gagnantes des 8ème de finale sont qualifiées en ¼ de finale.
@@ -6329,8 +5932,6 @@ matchs et chaque équipe commence ses matchs à sa place des qualifications dans
 match à vide, les équipes participantes sont considérées comme gagnantes du match et sont qualifiées
 directement pour le tour suivant.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             152
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.3.4. LE CHAMPIONNAT DE FRANCE JEUNES PAR ÉQUIPES DE CLUBS (FINALES PAR ÉQUIPES – ARC CLASSIQUE)
@@ -6338,7 +5939,7 @@ Ce championnat regroupe les disciplines suivantes : Tir à l'arc Extérieur (2x3
 2x70m), et il intègre le Championnat de France par Equipe de Clubs.
 Toutes ces particularités sont traitées dans ce chapitre.
 
-    • Catégories, nombre d'équipes, blasons et distances de tir
+    - Catégories, nombre d'équipes, blasons et distances de tir
 
 Jeunes (Benjamin(e)s(U13) et Minimes(U15)) 16 équipes Blasons de 80cm 30m
 Garçons (Cadets(U18) et Juniors(U21)) 16 équipes Blasons de 122cm 60m
@@ -6352,7 +5953,7 @@ Filles : classement national cadettes(U18) et Juniors(U21)
 
 Pas de sur-classement ponctuel possible.
 
-    • Procédure d'inscription pour les équipes
+    - Procédure d'inscription pour les équipes
 
 La composition de l'équipe, transmise à la FFTA lors de l'inscription, peut être modifiée avant le jour du
 championnat (dépôt de la composition de l'équipe au greffe) à condition que le ou les archers remplacés
@@ -6365,12 +5966,12 @@ En cas de litige, le délégué technique fédéral valide les procédures d'ins
 championnat.
 Il peut faire appel au Président de la Commission des Arbitres et au jury d'appel.
 
-• Déroulement de cette phase
-Les tirs de qualification des équipes se réalisent le jour 3, lors d'une phase de qualification spécifique sur
-une série de 36 flèches à 30 m pour les Benjamins(U13)/Minimes(U15) et à 60 m pour les
-Cadets(U18)/Juniors(U21).
+- Déroulement de cette phase
+  Les tirs de qualification des équipes se réalisent le jour 3, lors d'une phase de qualification spécifique sur
+  une série de 36 flèches à 30 m pour les Benjamins(U13)/Minimes(U15) et à 60 m pour les
+  Cadets(U18)/Juniors(U21).
 
-• Classement des équipes
+- Classement des équipes
 
 A l'issue de la phase de qualification, les équipes sont classées de la 1ère à la 16ème place.
 On constitue un tableau à élimination directe à partir des 8 ème de finale puis on applique le principe de la
@@ -6380,8 +5981,6 @@ Les équipes perdantes se retrouvent dans un tableau de repêchage pour la 9 èm
 A l'issue du 2ème match, on applique le même principe de montante / descendante jusqu'à arriver au 4 ème et
 dernier match qui détermine le classement final des équipes sur le championnat de France Jeunes par
 équipe de club (de la 1ère à la 16ème place), selon le tableau suivant :
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               153
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -6447,20 +6046,18 @@ selon le règlement international.
 Les rencontres par équipe de club se déroulent en 5 matchs. (Voir déroulement du Championnat)
 La phase finale se déroule lors du championnat de France Elite. (Voir déroulement du Championnat)
 
-• Arbitrage
-L’arbitrage de l’ensemble de la compétition est assuré conformément au cahier des charges par les
-arbitres désignés en relation avec le PCRA du Comité Régional du lieu de la compétition.
+- Arbitrage
+  L’arbitrage de l’ensemble de la compétition est assuré conformément au cahier des charges par les
+  arbitres désignés en relation avec le PCRA du Comité Régional du lieu de la compétition.
 
-• Déroulement du championnat
-o Saison Régulière :
-La Saison Régulière se réalise par la rencontre de toutes les équipes entre elles au moins une fois dans la
-saison. Pour les hommes, les équipes se rencontrent une fois dans la saison, soit 15 rencontres par équipe
-répartis en 5 rencontres par manche ;
-Pour les femmes, les équipes se rencontrent deux fois dans la saison, soit 14 rencontres par équipe
-répartis en 5 rencontres par manche sur les deux premières manches et 4 rencontres sur la dernière
-manche.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              155
+- Déroulement du championnat
+  - Saison Régulière :
+    La Saison Régulière se réalise par la rencontre de toutes les équipes entre elles au moins une fois dans la
+    saison. Pour les hommes, les équipes se rencontrent une fois dans la saison, soit 15 rencontres par équipe
+    répartis en 5 rencontres par manche ;
+    Pour les femmes, les équipes se rencontrent deux fois dans la saison, soit 14 rencontres par équipe
+    répartis en 5 rencontres par manche sur les deux premières manches et 4 rencontres sur la dernière
+    manche.
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -6469,22 +6066,24 @@ Pour les hommes :
 
 Pour les femmes :
 
-Le numéro d’équipe est attribué en début de saison par tirage au sort entre les équipes engagées dans le
+Le numér- d’équipe est attribué en début de saison par tirage au sort entre les équipes engagées dans le
 championnat de France de D1 :
 Lors de chaque manche de la Saison Régulière, une phase de qualification sur un 2x36 flèches à 50 m est
 réalisée. Le classement des équipes permet d’attribuer une bonification en fonction de la place obtenue
 lors de cette phase, selon le principe suivant :
 Pour les hommes : 16 équipes
-o 3 points attribués à la 1ère équipe
-o 2 points attribués aux équipes classées de la 2ème à la 4ème place
-o 1 point attribué aux équipes classées de la 5ème à la 8ème place
-o 0 point attribué aux équipes classées de la 9ème à la 16ème place
+
+- 3 points attribués à la 1ère équipe
+- 2 points attribués aux équipes classées de la 2ème à la 4ème place
+- 1 point attribué aux équipes classées de la 5ème à la 8ème place
+- 0 point attribué aux équipes classées de la 9ème à la 16ème place
 
 Pour les femmes : 8 équipes
-o 3 points attribués à la 1ère équipe
-o 2 points attribués à l'équipe classées de la 2ème place
-o 1 point attribué aux équipes classées de la 3ème à la 4ème place
-o 0 point attribué aux équipes classées de la 5ème à la 8ème place
+
+- 3 points attribués à la 1ère équipe
+- 2 points attribués à l'équipe classées de la 2ème place
+- 1 point attribué aux équipes classées de la 3ème à la 4ème place
+- 0 point attribué aux équipes classées de la 5ème à la 8ème place
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©          156
 
@@ -6493,9 +6092,9 @@ Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales 
 Lors des rencontres entre équipes :
 Ces rencontres se déroulent en 5 matchs, un match par équipe puis 4 matchs individuels.
 A l'issue de la phase de qualifications de chaque manche, chacun des 4 archers composant les équipes se
-voit attribuer un numéro de 1 à 4. Le numéro 1 est le meilleur archer de l'équipe sur la phase de
-qualifications, le numéro 2 est le 2ème, le numéro 3 est le 3ème et le numéro 4 est le 4ème.
-Chaque archer de l'équipe conserve son numéro sur toute la durée de la manche concernée, soit pour les
+voit attribuer un numér- de 1 à 4. Le numér- 1 est le meilleur archer de l'équipe sur la phase de
+qualifications, le numér- 2 est le 2ème, le numér- 3 est le 3ème et le numér- 4 est le 4ème.
+Chaque archer de l'équipe conserve son numér- sur toute la durée de la manche concernée, soit pour les
 5 rencontres de la manche. (4 rencontres de la manche pour la 3ème manche en D1 Femme)
 
 Une rencontre entre 2 équipes se déroule en 2 temps distincts sur 2 cibles contigües :
@@ -6508,7 +6107,7 @@ hauteur réglementaire en CD (centre des blasons à minimum 90 cm au-dessus du s
 La victoire de ce match rapporte 2 points à l'équipe gagnante et 0 point à l'équipe perdante.
 
 2ème temps :
-Matchs individuels entre les archers de chaque équipe ayant le même numéro (1er vs 1er, 2ème vs 2ème, 3ème vs
+Matchs individuels entre les archers de chaque équipe ayant le même numér- (1er vs 1er, 2ème vs 2ème, 3ème vs
 3ème et 4ème vs 4ème). Les archers qui se rencontrent tirent sur la même cible. Les 4 matchs individuels se
 déroulent dans le même temps, sur deux cibles contigües, en rythme AB/CD.
 Match 1 vs 1 sur la 1ère cible en AB (1 blason par archer situé en haut de la cible)
@@ -6534,7 +6133,7 @@ match 4ème vs 4ème le score de la rencontre sera donc sur 5 points au lieu de 
 
          L'équipe qui gagne la rencontre est celle qui a obtenu le plus de points à l'issue des matchs. La
 
-victoire d'une rencontre donne trois (3) points au classement à l'équipe gagnante et zéro (0) à l'équipe
+victoire d'une rencontre donne trois (3) points au classement à l'équipe gagnante et zér- (0) à l'équipe
 perdante.
 En cas d'égalité à 3 - 3, les équipes obtiennent chacune 1 point au classement.
 
@@ -6545,24 +6144,25 @@ perdus par l'équipe deviennent des Points perdus (Pp). Le différentiel (Diff.)
 résultat servant au départage des équipes à égalité, soit Pg – Pp = Diff.
 
 Le classement d'une équipe se fait donc en prenant en compte les éléments suivants :
-o Nombre de points de bonus obtenus sur les qualifications des différentes manches
-additionnées aux nombre de points de victoires (ou de matchs nuls) de rencontres
-o Différentiel de scores des rencontres (Diff.) obtenus par la soustraction des Points perdus
-(Pp) aux Points gagnés : Pg – Pp = Diff
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              157
+- Nombre de points de bonus obtenus sur les qualifications des différentes manches
+  additionnées aux nombre de points de victoires (ou de matchs nuls) de rencontres
+- Différentiel de scores des rencontres (Diff.) obtenus par la soustraction des Points perdus
+  (Pp) aux Points gagnés : Pg – Pp = Diff
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 En cas d'égalité
-• De scores à la fin d'un match : on procède à un tir de barrage selon le règlement international.
-• De points après les x matchs de la saison, le départage se fait ainsi jusqu’à la suppression de l’égalité :
-o Le meilleur différentiel (Diff.) entre les équipes à égalité
-o Le total du nombre de Points gagnés (Pg) par l'équipe
-o Le meilleur total des scores de qualification des x manches
-o Le vainqueur du match ayant opposé les deux équipes encore à égalité
 
-             o Phase Finale :
+- De scores à la fin d'un match : on procède à un tir de barrage selon le règlement international.
+- De points après les x matchs de la saison, le départage se fait ainsi jusqu’à la suppression de l’égalité :
+
+  - Le meilleur différentiel (Diff.) entre les équipes à égalité
+  - Le total du nombre de Points gagnés (Pg) par l'équipe
+  - Le meilleur total des scores de qualification des x manches
+  - Le vainqueur du match ayant opposé les deux équipes encore à égalité
+
+               - Phase Finale :
 
 Les 4 premières équipes au classement final de la Saison Régulière (Classement après les 15 rencontres
 de la Saison Régulière pour les hommes et les 14 rencontres pour les femmes) sont qualifiées pour
@@ -6601,14 +6201,13 @@ participer à la DR.
 
 Pour participer à la filière par équipe, les Comités Régionaux doivent constituer une ou plusieurs Divisions
 Régionales qui peuvent se décliner en :
-• DR « Excellence »
-• DR
-• DD (Division Départementale) : au choix de la région, dans une logique sportive ayant pour objectif
-l’accès au niveau supérieur.
-Pour les régions n’ayant qu’une seule division régionale celle-ci est assimilée à une DR Excellence et est
-assujettie au règlement DRE.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 158
+- DR « Excellence »
+- DR
+- DD (Division Départementale) : au choix de la région, dans une logique sportive ayant pour objectif
+  l’accès au niveau supérieur.
+  Pour les régions n’ayant qu’une seule division régionale celle-ci est assimilée à une DR Excellence et est
+  assujettie au règlement DRE.
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -6662,17 +6261,15 @@ D1 Arc à Poulies la saison suivante.
 Pour les femmes, les 2 premières équipes au classement final de la finale nationale des DR accèdent en
 D1 Arc à Poulies la saison suivante.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               159
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.3.6.3. La Finale Nationale de DR (Identique pour les hommes et les femmes)
 
-• Période
-Entre Juillet et Septembre, après les manches de D2 et les compétitions de DR.
-La finale DR "arc à poulies" est couplée avec celle des arcs classiques : même week-end, même site.
+- Période
+  Entre Juillet et Septembre, après les manches de D2 et les compétitions de DR.
+  La finale DR "arc à poulies" est couplée avec celle des arcs classiques : même week-end, même site.
 
-    • Sélection
+      - Sélection
 
 La sélection à la Finale Nationale des DR peut s'effectuer de plusieurs façons :
 Les équipes vainqueurs de la DR « Excellence » hommes ou de la DR
@@ -6695,7 +6292,7 @@ l’année suivante, s’il gagne sa place au classement final ou s’il est rep
 D1 Arc à Poulies, l’équipe du club sera interdite de participation à la finale de DR pendant les deux années
 suivantes.
 
-    • Procédure d'inscription des équipes
+    - Procédure d'inscription des équipes
 
 La composition de l'équipe, transmise à la FFTA lors de l'inscription, peut être modifiée avant le jour de la
 Finale (dépôt de la composition de l'équipe au greffe). Les archers composant l'équipe doivent apparaître
@@ -6708,7 +6305,7 @@ Finale.
 
 Il peut faire appel au Président de la Commission des Arbitres et au jury d'appel.
 
-     • Déroulement
+     - Déroulement
 
 A l'issue de la phase de qualification 2x36 flèches à 50 m, les équipes sont classées de la 1ère à la 24ème
 place.
@@ -6725,8 +6322,6 @@ A l'issue du 2ème match, on applique le même principe de montante / descendant
 dernier match qui détermine le classement final des équipes sur la Finale Nationale des DR (de la 1ère à la
 24ème place), selon le tableau suivant :
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               160
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 Tableau de suivi de la finale Nationale des DR Poulies :
@@ -6736,29 +6331,27 @@ matchs et chaque équipe commence ses matchs à sa place des qualifications dans
 match à vide, les équipes participantes sont considérées comme gagnantes du match et sont qualifiées
 directement pour le tour suivant.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©       161
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 C.3.7 LES REGLES COMMUNES AUX COMPETITIONS PAR ÉQUIPES
 
-• Le Capitaine d’Equipe est le responsable de son équipe concernant en particulier :
-✓ la conformité de la composition de son équipe (transferts – étrangers – surclassements) ;
-✓ la conformité quant à la tenue vestimentaire et à l’équipement des archers ;
-✓ il est l’unique interlocuteur avec le greffe et les arbitres. A ce titre, il présente l’ensemble des
-documents administratifs (licence fédérale) au greffe qui lui remet les dossards et les dossiers
-personnels.
+- Le Capitaine d’Equipe est le responsable de son équipe concernant en particulier :
+  ✓ la conformité de la composition de son équipe (transferts – étrangers – surclassements) ;
+  ✓ la conformité quant à la tenue vestimentaire et à l’équipement des archers ;
+  ✓ il est l’unique interlocuteur avec le greffe et les arbitres. A ce titre, il présente l’ensemble des
+  documents administratifs (licence fédérale) au greffe qui lui remet les dossards et les dossiers
+  personnels.
 
-• Tenue des archers :
-Tous les participants à une compétition de la filière par équipe (D1, D2, DR Excellence) doivent porter
-la tenue de leur club (ou tenue blanche), y compris les archers participant en individuel si la
-compétition est ouverte.
+- Tenue des archers :
+  Tous les participants à une compétition de la filière par équipe (D1, D2, DR Excellence) doivent porter
+  la tenue de leur club (ou tenue blanche), y compris les archers participant en individuel si la
+  compétition est ouverte.
 
-                Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              162
+                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              162
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-      • Absence d’une Equipe
+      - Absence d’une Equipe
 
 Les clubs de D1, D2, DR « Excellence » et DR doivent pouvoir présenter une équipe lors de toutes les
 épreuves de D1, D2, DR « Excellence » et DR. Ils doivent pouvoir disposer de remplaçants en nombre
@@ -6829,11 +6422,6 @@ précédente. \*
                                                                                                          Poulies de la saison
                                                                                                             précédente*.
 
-
-
-
-                       Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                              163
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
 Après la date limite d'inscription, si un club refuse son affectation dans une division
@@ -6853,42 +6441,41 @@ Championnat de France de D2 ou Finale Nationale de DR), une équipe devra avoir 
 toutes les manches de la saison.
 Est considéré comme un abandon de D1 ou D2, l'absence à toutes les manches ou la participation
 à une seule manche. Cet abandon implique la descente en Division Régionale la saison suivante.
-• La position des archers sur les cibles (phase qualification)
-A l'occasion de la phase de qualification l'ordre de priorité suivant doit être respecté :
-Les 3 ou 4 archers d'une même équipe seront placés sur des cibles contiguës et successives (un
-seul archer de la même équipe sur la même cible). Ils devront tirer sur le même rythme avec la
-même place sur le pas de tir
-Exemples : 4 archers du club de VILLE sont positionnés ainsi : 4A, 5A, 6A, 7A
-3 archers du club de VILLE BIS seront positionnés ainsi : 9B, 10B, 11B.
-Ne pas placer deux archers d'un même club sur la même cible.
-Ponctuellement, dans le cadre de la préparation des championnats internationaux et à la demande
-des entraîneurs nationaux, les athlètes sélectionnés en équipe nationale (noms fournis par la DTN)
-seront placés sur des cibles proches les unes des autres, en respectant toutefois les deux
-premières priorités.
-• L’entraînement avant la phase de qualification
-20 minutes minimum – 45 mn maximum.
-Nombre de flèches non limité dans le temps de tir d'une volée (4 minutes).
-L’organisateur n’est pas obligé de changer les blasons après la session d’entraînement : ainsi la
-compétition peut commencer dès que l’entraînement est terminé.
-Si des blasons usagers ont été utilisés pour l’entraînement, des blasons neufs devront être posés
-sur les buttes de tir au début du tir ainsi qu’à partir du premier match lors de la phase éliminatoire.
-• Epreuve des matchs
-Cf. II.1 Le Tir à l'Arc Extérieur - Articles A.7.4 et A.7.5
 
-• Les incidents de tir
-Cf. II.1 Le Tir à l'Arc Extérieur – Article B.4.2.7
+- La position des archers sur les cibles (phase qualification)
+  A l'occasion de la phase de qualification l'ordre de priorité suivant doit être respecté :
+  Les 3 ou 4 archers d'une même équipe seront placés sur des cibles contiguës et successives (un
+  seul archer de la même équipe sur la même cible). Ils devront tirer sur le même rythme avec la
+  même place sur le pas de tir
+  Exemples : 4 archers du club de VILLE sont positionnés ainsi : 4A, 5A, 6A, 7A
+  3 archers du club de VILLE BIS seront positionnés ainsi : 9B, 10B, 11B.
+  Ne pas placer deux archers d'un même club sur la même cible.
+  Ponctuellement, dans le cadre de la préparation des championnats internationaux et à la demande
+  des entraîneurs nationaux, les athlètes sélectionnés en équipe nationale (noms fournis par la DTN)
+  seront placés sur des cibles proches les unes des autres, en respectant toutefois les deux
+  premières priorités.
+- L’entraînement avant la phase de qualification
+  20 minutes minimum – 45 mn maximum.
+  Nombre de flèches non limité dans le temps de tir d'une volée (4 minutes).
+  L’organisateur n’est pas obligé de changer les blasons après la session d’entraînement : ainsi la
+  compétition peut commencer dès que l’entraînement est terminé.
+  Si des blasons usagers ont été utilisés pour l’entraînement, des blasons neufs devront être posés
+  sur les buttes de tir au début du tir ainsi qu’à partir du premier match lors de la phase éliminatoire.
+- Epreuve des matchs
+  Cf. II.1 Le Tir à l'Arc Extérieur - Articles A.7.4 et A.7.5
 
-      • Les égalités
-      Cf. II.1 Le Tir à l'Arc Extérieur – Article B.6.5
+- Les incidents de tir
+  Cf. II.1 Le Tir à l'Arc Extérieur – Article B.4.2.7
 
-• Les pénalités
-Cf. II.1 Le tir à l'Arc Extérieur – Article B.8
+        - Les égalités
+        Cf. II.1 Le Tir à l'Arc Extérieur – Article B.6.5
 
-• L’aménagement de la ligne de tir
-Pour le tir par équipes, les organisateurs doivent aménager la ligne de tir d'une manière particulière.
-Cf. II.1 Le Tir à l'Arc Extérieur - Article B.12 – Annexe 2,
+- Les pénalités
+  Cf. II.1 Le tir à l'Arc Extérieur – Article B.8
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                164
+- L’aménagement de la ligne de tir
+  Pour le tir par équipes, les organisateurs doivent aménager la ligne de tir d'une manière particulière.
+  Cf. II.1 Le Tir à l'Arc Extérieur - Article B.12 – Annexe 2,
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -6899,7 +6486,7 @@ C.4.1 LE TNJ
 Les TNJ sont des compétitions officielles, se déroulant sous la forme d’un TAE Discipline Internationale avec
 des duels individuels et des duels en double mixte.
 
-    • Qualifications
+    - Qualifications
 
 Elles sont ouvertes aux licenciés jeunes de la FFTA, filles et garçons, en arc classique, dans les catégories
 Minime(U15), Cadet(U18) et Junior(U21). Les jeunes archers de la catégorie Benjamin(U13) sont
@@ -6908,16 +6495,16 @@ en compétition officielle de Tir à l'Arc Extérieur Discipline Internationale.
 Les jeunes archers arc à poulies peuvent participer à ces compétitions avec un nombre limité de places
 disponibles.
 
-• Date
-En fonction du calendrier international, généralement entre avril et juin.
+- Date
+  En fonction du calendrier international, généralement entre avril et juin.
 
-    • Épreuves :
+      - Épreuves :
 
 Les TNJ ont pour objectif la préparation de nos meilleurs jeunes archers nationaux pour les échéances
 nationales et internationales. En conséquence, une réglementation spécifique est mise en place dans
 l'organisation de ces compétitions.
 
-• Règles spécifiques aux TNJ :
+- Règles spécifiques aux TNJ :
 
 A l'issue d'une phase de qualifications sur un TAE Discipline Internationale à la distance adaptée à chaque
 catégorie, des finales individuelles seront organisées selon les principes suivants :
@@ -6935,12 +6522,13 @@ Les vainqueurs des 1/12ème de finale sont qualifiés en 1/8ème de finale. Les 
 finale ont terminé leur compétition et sont classés 17ème de la compétition.
 A partir des 1/8ème de finale, les archers éliminés tirent des tours de repêchage pour gagner leur place
 finale au classement du TNJ, selon le principe de montante/descendante détaillé ci-après :
-• Les 8 archers éliminés en 1/8ème de finale se rencontrent dans un tableau de repêchage pour la
-9ème place de la compétition.
-• Les 4 archers éliminés en ¼ de finale se rencontrent dans un tableau de repêchage pour la 5 ème
-place de la compétition.
-• Les 2 archers éliminés en ½ finale se rencontrent sur un match pour la 3ème place de la
-compétition.
+
+- Les 8 archers éliminés en 1/8ème de finale se rencontrent dans un tableau de repêchage pour la
+  9ème place de la compétition.
+- Les 4 archers éliminés en ¼ de finale se rencontrent dans un tableau de repêchage pour la 5 ème
+  place de la compétition.
+- Les 2 archers éliminés en ½ finale se rencontrent sur un match pour la 3ème place de la
+  compétition.
 
 S’il y a de 14 à 27 archers dans la catégorie :
 On retient 14 archers. Les 2 premiers archers des qualifications sont directement qualifiés pour
@@ -6950,13 +6538,11 @@ Les archers éliminés en 1/6ème de finale ont terminé leur compétition.
 A partir des 1/4 de finale, les archers éliminés tirent des tours de repêchage pour gagner leurs places au
 classement du TNJ, toujours selon le principe de montante/descendante détaillé ci-après :
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                165
-
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-    •   Les 4 archers éliminés en ¼ de finale se rencontrent dans un tableau de repêchage pour la 5 ème
+    -   Les 4 archers éliminés en ¼ de finale se rencontrent dans un tableau de repêchage pour la 5 ème
         place de la compétition.
-    •   Les 2 archers éliminés en ½ finale se rencontrent sur un match pour la 3ème place de la
+    -   Les 2 archers éliminés en ½ finale se rencontrent sur un match pour la 3ème place de la
         compétition.
 
 S’il y a de 8 à 13 archers dans la catégorie :
@@ -6973,8 +6559,8 @@ Pas de matchs organisés. Le classement final de la compétition correspond au c
 qualifications.
 
 Pour toutes les catégories arcs à poulies, et afin de permettre l'organisation de match pour le plus grand
-nombre, les catégories CFCO et JFCO seront regroupées et commenceront les matchs en ¼ de finale. De
-même, pour les CHCO et JHCO.
+nombre, les catégories CFC- et JFC- seront regroupées et commenceront les matchs en ¼ de finale. De
+même, pour les CHC- et JHCO.
 
 S’il y a de 8 archers et plus dans la catégorie regroupée :
 On retient 8 archers et on organise des ¼ de finales à élimination directe.
@@ -7005,11 +6591,9 @@ catégories arc à poulies se font sur un terrain de finale spécifique, un matc
 contexte se rapproche le plus possible des conditions rencontrées sur un terrain de finale de compétition
 internationale.
 
-• Le déroulement du TNJ
+- Le déroulement du TNJ
 
 Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             166
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -7041,8 +6625,8 @@ Cette compétition concerne les armes et catégories de classement suivantes aux
                (1) ouverture au niveau Régional
                (2) catégories regroupant de Cadets(U18) à Seniors 3
 
-• Équipements des archers
-Se référer aux articles II.3.B.3
+- Équipements des archers
+  Se référer aux articles II.3.B.3
 
 Nota supplémentaire pour les arcs droits : Les seules flèches autorisées doivent être en bois ou bambou
 avec empennage en plume naturelle.
@@ -7055,16 +6639,16 @@ appelé "marmot" limité par un cordon de diamètre intérieur 12,5 cm. La zone 
 marmot est appelée "chapelet". Le centre du marmot, appelé "noir", est constitué d'un disque noir avec au
 centre un rond blanc de 10 mm de diamètre.
 
-• Carte de Bouquet (Grand Prix)
-La zone de points ne comporte comme seules marques que l'axe horizontal et l'axe vertical servant à
-positionner le marmot.
-Le noir du marmot de Bouquet a un diamètre de 56mm.
+- Carte de Bouquet (Grand Prix)
+  La zone de points ne comporte comme seules marques que l'axe horizontal et l'axe vertical servant à
+  positionner le marmot.
+  Le noir du marmot de Bouquet a un diamètre de 56mm.
 
-• Carte de Championnat (ou de Prix Général)
-La zone de points est divisée en trois zones concentriques marquées 1, 2 et 3 de l'extérieur vers l'intérieur.
-La zone marquée 3 correspond au chapelet (intérieur du cordon du marmot) et comporte en son centre
-un noir de diamètre 40mm. Le marmot de Prix Général reproduit la zone 3 de la carte mais ne doit pas
-être utilisé en championnat.
+- Carte de Championnat (ou de Prix Général)
+  La zone de points est divisée en trois zones concentriques marquées 1, 2 et 3 de l'extérieur vers l'intérieur.
+  La zone marquée 3 correspond au chapelet (intérieur du cordon du marmot) et comporte en son centre
+  un noir de diamètre 40mm. Le marmot de Prix Général reproduit la zone 3 de la carte mais ne doit pas
+  être utilisé en championnat.
 
 C.5.2 LE TIR
 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 167
@@ -7096,14 +6680,15 @@ de son arc, sans bouger les pieds du pas de tir, pour autant que la flèche n’
 obstacle quelconque)
 
 C.5.3 LE DECOMPTE DES POINTS ET LA MARQUE
-• Bouquet Provincial
-Le classement est établi suivant le nombre d'honneurs (est appelé "Honneur" tout coup dans la zone de
-points, la flèche ne touchant pas le cordon extérieur). Pour chaque honneur, le nombre de points (1, 2 ou 3) est également porté pour le départage des ex aequo ou la qualification au Championnat de France.
-Une flèche compte :
-✓ 3 points si elle est dans le noir ou touche le noir.
-✓ 2 points si elle est dans le chapelet ne touchant ni le noir ni le cordon du marmot.
-✓ 1 point si elle est dans la zone de points inférieure au chapelet sans toucher le cordon extérieur
-de la carte.
+
+- Bouquet Provincial
+  Le classement est établi suivant le nombre d'honneurs (est appelé "Honneur" tout coup dans la zone de
+  points, la flèche ne touchant pas le cordon extérieur). Pour chaque honneur, le nombre de points (1, 2 ou 3) est également porté pour le départage des ex aequ- ou la qualification au Championnat de France.
+  Une flèche compte :
+  ✓ 3 points si elle est dans le noir ou touche le noir.
+  ✓ 2 points si elle est dans le chapelet ne touchant ni le noir ni le cordon du marmot.
+  ✓ 1 point si elle est dans la zone de points inférieure au chapelet sans toucher le cordon extérieur
+  de la carte.
 
 La marque a lieu quand tous les tireurs du peloton ont tiré leur flèche. Toutefois, une marque provisoire
 peut avoir lieu à chaque flèche, les coups étant annoncés à l'aide d'un signal, généralement sonore, par un
@@ -7113,21 +6698,19 @@ indiquant le nom de la Compagnie ou du Club, la date du tir, les noms des tireur
 nombre d'honneurs simples (1), de chapelets (2), de noirs (3) ainsi que le total des honneurs et des points
 et, éventuellement, la distance des coups au noir, d'après les indications du palmer.
 
-• Championnat (de Ronde, de Département, de Région, de France)
-Le classement est établi suivant le nombre d'honneurs, puis le nombre de points.
-Toute flèche dans la zone de points compte pour un honneur.
-Pour chaque flèche, le nombre de points (0, 1, 2, 3 ou 4) est porté sur la feuille de marque :
-✓ 4 points si la flèche est dans le noir ou touche le noir ;
-✓ 3 points si la flèche est dans la zone 3 (chapelet) ne touchant ni le noir ni le cordon du marmot ;
-✓ 2 points si la flèche est dans la zone 2 sans toucher le cordon extérieur de cette zone ;
-✓ 1 point si la flèche est dans la zone 1 sans toucher le cordon extérieur de la carte.
-Une flèche touchant le cordon extérieur d'une zone de points est comptée dans la zone inférieure.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  168
+- Championnat (de Ronde, de Département, de Région, de France)
+  Le classement est établi suivant le nombre d'honneurs, puis le nombre de points.
+  Toute flèche dans la zone de points compte pour un honneur.
+  Pour chaque flèche, le nombre de points (0, 1, 2, 3 ou 4) est porté sur la feuille de marque :
+  ✓ 4 points si la flèche est dans le noir ou touche le noir ;
+  ✓ 3 points si la flèche est dans la zone 3 (chapelet) ne touchant ni le noir ni le cordon du marmot ;
+  ✓ 2 points si la flèche est dans la zone 2 sans toucher le cordon extérieur de cette zone ;
+  ✓ 1 point si la flèche est dans la zone 1 sans toucher le cordon extérieur de la carte.
+  Une flèche touchant le cordon extérieur d'une zone de points est comptée dans la zone inférieure.
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
-Départage des ex aequo : en cas d'égalité au nombre d'honneurs et au nombre de points, le départage se
+Départage des ex aequ- : en cas d'égalité au nombre d'honneurs et au nombre de points, le départage se
 fait :
 ✓ au plus grand nombre de 4 ;
 ✓ en cas de nouvelle égalité, au plus grand nombre de 3 ;
@@ -7138,12 +6721,12 @@ la valeur de la flèche à chaque tireur. En cas de litige, il est fait appel à
 sont validées, le marqueur repart vers la butte opposée. Les impacts doivent alors être cochés et les flèches
 peuvent être retirées de la cible.
 
-• Règles communes Bouquets / Championnats
-Si une flèche rebondit de la carte ou en tombe, elle compte selon la valeur de son impact, à condition que
-ce dernier puisse être retrouvé (impact non coché) ou que le greffier (ou le garde panton) en ait été témoin.
-Si une flèche atteint la carte après avoir ricoché ou glissé sur le sol ou sur un obstacle quelconque autre
-qu'une flèche en cible, elle ne marque aucun honneur, ni aucun point.
-Les tireurs doivent s'assurer, après la fin du tir, que tous leurs coups ont été correctement marqués.
+- Règles communes Bouquets / Championnats
+  Si une flèche rebondit de la carte ou en tombe, elle compte selon la valeur de son impact, à condition que
+  ce dernier puisse être retrouvé (impact non coché) ou que le greffier (ou le garde panton) en ait été témoin.
+  Si une flèche atteint la carte après avoir ricoché ou glissé sur le sol ou sur un obstacle quelconque autre
+  qu'une flèche en cible, elle ne marque aucun honneur, ni aucun point.
+  Les tireurs doivent s'assurer, après la fin du tir, que tous leurs coups ont été correctement marqués.
 
 C.5.4 COMPETITIONS QUALIFICATIVES POUR LE CHAMPIONNAT DE FRANCE BEURSAULT
 Les compétitions qualificatives pour le Championnat de France Beursault sont :
@@ -7183,8 +6766,6 @@ Les « Marmots » (Cf. Article F.2 des Règlements Généraux) sont des distinct
 peuvent se voir attribuées que lors de compétitions qualificatives pour le Championnat de France Beursault,
 telles que définies au § C.5.4. En conséquence, les « Marmots » ne peuvent pas être gagnés lors d’un
 Prix Général.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  169
 
 Le Tir à l'Arc Extérieur - Règlements Spécifiques des épreuves Fédérales Février 2022
 
@@ -7287,9 +6868,7 @@ En cas d'égalité dans les épreuves de tir au drapeau, on procède comme suit 
 C.6.8 LE CONTROLE DES TIRS ET LA SECURITE
 Voir Chapitre II - Tir à l'Arc Extérieur - Règlement – Article B.7.
 
-• C.7 Supprimé
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  172
+- C.7 Supprimé
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
@@ -7331,8 +6910,6 @@ Annexe 2 :
 Les Feuilles de Marque
 Annexe 3 :
 Position des blasons
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             173
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
@@ -7388,8 +6965,6 @@ A.3.8 : Tous les changements concernant la distance des cibles doivent se faire 
 directeur des tirs. Il peut demander à des archers qui s'entraînent de l'aider à déplacer les cibles, si
 nécessaire.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                174
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 A.3.9 : Les compétitions de tir à l'arc peuvent se tirer de nuit, si les organisateurs sont en mesure de fournir
 un éclairage adéquat et que l'entraînement peut se dérouler dans les mêmes conditions.
@@ -7400,24 +6975,25 @@ A.4.1 :
 Cf. Article C.12.1 des Règlements Généraux
 
 A.4.2 : Pendant la compétition :
-• Les femmes doivent porter des robes, des jupes, des jupes-culottes, des shorts (ceux-ci ne peuvent
-pas être plus courts que la position du bout des doigts lorsque l’athlète a les bras et les doigts tendus
-le long du corps) ou des pantalons non serrés et des chemisiers ou des hauts (qui devront couvrir le
-devant et le dos du corps), correctement ajustés sur chaque épaule et couvrant le ventre en pleine
-allonge.
-• Les hommes doivent porter des pantalons (qui descendent jusqu’en dessous des chevilles) ou des
-shorts (ceux-ci ne peuvent pas être plus courts que la position du bout des doigts lorsque l’athlète a
-les bras et les doigts tendus le long du corps) et des chemises à manche longues ou courtes couvrant
-le ventre en pleine allonge.
-• Aucun jean autre que blanc ou pantalons trop grands, trop larges (Baggy) ne sont autorisés.
-• Pendant la compétition de matchs par équipes, les chemises/chemisiers, les pantalons/shorts,
-jupes, doivent être de la même couleur et du même style.
-• Si les conditions de température à l'intérieur de la salle le demandent, des habits de protection tels
-que pullovers, survêtement, hauts de sport en lycra, etc, peuvent être portés avec l’aval du Délégué
-Technique ou, en son absence, du Président de la Commission des Juges.
-• Les casquettes/chapeaux ne sont pas obligatoires, mais si les athlètes en portent, ils doivent être
-du même design et style pour l’ensemble de l’équipe. Ils peuvent avoir des patchs au nom d’un
-sponsor en conformité avec les règles d’éligibilité.
+
+- Les femmes doivent porter des robes, des jupes, des jupes-culottes, des shorts (ceux-ci ne peuvent
+  pas être plus courts que la position du bout des doigts lorsque l’athlète a les bras et les doigts tendus
+  le long du corps) ou des pantalons non serrés et des chemisiers ou des hauts (qui devront couvrir le
+  devant et le dos du corps), correctement ajustés sur chaque épaule et couvrant le ventre en pleine
+  allonge.
+- Les hommes doivent porter des pantalons (qui descendent jusqu’en dessous des chevilles) ou des
+  shorts (ceux-ci ne peuvent pas être plus courts que la position du bout des doigts lorsque l’athlète a
+  les bras et les doigts tendus le long du corps) et des chemises à manche longues ou courtes couvrant
+  le ventre en pleine allonge.
+- Aucun jean autre que blanc ou pantalons trop grands, trop larges (Baggy) ne sont autorisés.
+- Pendant la compétition de matchs par équipes, les chemises/chemisiers, les pantalons/shorts,
+  jupes, doivent être de la même couleur et du même style.
+- Si les conditions de température à l'intérieur de la salle le demandent, des habits de protection tels
+  que pullovers, survêtement, hauts de sport en lycra, etc, peuvent être portés avec l’aval du Délégué
+  Technique ou, en son absence, du Président de la Commission des Juges.
+- Les casquettes/chapeaux ne sont pas obligatoires, mais si les athlètes en portent, ils doivent être
+  du même design et style pour l’ensemble de l’équipe. Ils peuvent avoir des patchs au nom d’un
+  sponsor en conformité avec les règles d’éligibilité.
 
 A.4.3 : Pendant les épreuves de tir en Salle(Tir à 18m), les archers et les entraîneurs doivent porter des
 chaussures de sport. Ces chaussures de sport peuvent être de style différent mais doivent couvrir le pied
@@ -7430,8 +7006,6 @@ officiel, le drapeau ou l'emblème du pays qu'ils représentent, sans restrictio
 
 A.4.6 : Aucune publicité ne peut apparaître sur les vêtements des compétiteurs et des officiels, si ce n'est
 ce qui est prévu dans les règles d'éligibilité. Cf E.2 des Règlements Généraux
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                175
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
@@ -7536,12 +7110,13 @@ Lors des championnats, obligation d’utiliser des blasons triples verticaux.
 Les organisateurs restent maîtres du choix du type de blasons à utiliser. Cependant, pour les arcs
 classiques et les arcs nus, ils peuvent :
 ✓ soit imposer le type de blason pour la compétition (blason unique, triples verticaux ou Las Vegas) ;
-✓ soit laisser au tireur le choix, lors de son inscription préalable*, dès lors que cette possibilité est
+✓ soit laisser au tireur le choix, lors de son inscription préalable\*, dès lors que cette possibilité est
 clairement exprimée sur le mandat. Dans ce cas, les archers restent classés dans leur catégorie,
 indépendamment du type de blason utilisé.
-* On entend par inscription préalable, le retour de la feuille d’inscription fournie avec le mandat. Dans
-le cas d’une inscription sur le lieu de la compétition, le choix du blason reste totalement à la discrétion
-de l’organisateur.
+
+- On entend par inscription préalable, le retour de la feuille d’inscription fournie avec le mandat. Dans
+  le cas d’une inscription sur le lieu de la compétition, le choix du blason reste totalement à la discrétion
+  de l’organisateur.
 
 Comment appliquer cette règle :
 
@@ -7551,8 +7126,6 @@ Comment appliquer cette règle :
 3.  Cette règle concerne tous les compétiteurs tirant avec des arcs classiques ou des arcs nus de
     benjamin(U13) à seniors 3
 4.  il est nécessaire que l’organisateur exprime expressément cette possibilité dans son mandat
-
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 177
 
     Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
@@ -7575,48 +7148,50 @@ successivement et dans l’ordre indiqué ci-dessus.
 A.7.5 : L'épreuve de match en Salle(Tir à 18m), tirée sur blasons triples de 40cm à la distance de 18m
 consiste en :
 A.7.5.1 : Pour les arcs classiques
-• L'épreuve éliminatoire dans laquelle les 32 meilleurs archers sont positionnés en fonction de leurs
-résultats obtenus lors de l'épreuve de qualification (voir en annexe les tableaux des matchs). Ils tirent
-une série de matchs. Chaque match se tire au meilleur des 5 sets de 3 flèches.
 
-• L'épreuve finale dans laquelle les 8 meilleurs archers, issus de l'épreuve éliminatoire, tirent des
-matchs individuels. Chaque match se tire au meilleur des 5 sets de 3 flèches et ceci jusqu'à la finale
-pour l'Or. En fonction du niveau de compétition (National, Régional, Départemental ou local), les
-compétiteurs alterneront le tir d'une flèche.
+- L'épreuve éliminatoire dans laquelle les 32 meilleurs archers sont positionnés en fonction de leurs
+  résultats obtenus lors de l'épreuve de qualification (voir en annexe les tableaux des matchs). Ils tirent
+  une série de matchs. Chaque match se tire au meilleur des 5 sets de 3 flèches.
 
-• L'épreuve éliminatoire par équipes dans laquelle les 16 meilleures équipes de 3 archers (16 équipes
-dames et 16 équipes hommes), placées selon leurs résultats du tir de qualification (voir en annexe
-les tableaux des matchs), tirent simultanément une série de matchs. Chaque match se tire au
-meilleur des 4 sets de 6 flèches (2 flèches par archer). Une volée est tirée dans un temps de 2
-minutes.
+- L'épreuve finale dans laquelle les 8 meilleurs archers, issus de l'épreuve éliminatoire, tirent des
+  matchs individuels. Chaque match se tire au meilleur des 5 sets de 3 flèches et ceci jusqu'à la finale
+  pour l'Or. En fonction du niveau de compétition (National, Régional, Départemental ou local), les
+  compétiteurs alterneront le tir d'une flèche.
 
-• L'épreuve finale par équipes dans laquelle les 4 meilleures équipes dames et les 4 meilleures équipes
-hommes, issues de l'épreuve éliminatoire, tirent des matchs. Chaque match se tire au meilleur des 4 sets
-de 6 flèches (2 flèches par archer) et ceci jusqu'à la finale pour l'or. Une volée est tirée dans un temps de 2
-minutes.
+- L'épreuve éliminatoire par équipes dans laquelle les 16 meilleures équipes de 3 archers (16 équipes
+  dames et 16 équipes hommes), placées selon leurs résultats du tir de qualification (voir en annexe
+  les tableaux des matchs), tirent simultanément une série de matchs. Chaque match se tire au
+  meilleur des 4 sets de 6 flèches (2 flèches par archer). Une volée est tirée dans un temps de 2
+  minutes.
+
+- L'épreuve finale par équipes dans laquelle les 4 meilleures équipes dames et les 4 meilleures équipes
+  hommes, issues de l'épreuve éliminatoire, tirent des matchs. Chaque match se tire au meilleur des 4 sets
+  de 6 flèches (2 flèches par archer) et ceci jusqu'à la finale pour l'or. Une volée est tirée dans un temps de 2
+  minutes.
 
 A.7.5.2 : Pour les arcs à poulies
-• L'épreuve éliminatoire dans laquelle les 32 meilleurs archers sont positionnés en fonction de leurs
-résultats obtenus lors de l'épreuve de qualification (voir en annexe les tableaux des matchs). Ils tirent
-une série de matchs en duels. Chaque match se tire en 5 volées de 3 flèches (score cumulé aux
-points et non pas en sets).
 
-• L'épreuve finale dans laquelle les 8 meilleurs archers, issus de l'épreuve éliminatoire, tirent des
-matchs individuels. Chaque match se tire en 5 volées de 3 flèches (score cumulé) et ceci jusqu'à la
-finale pour l'Or. En fonction du niveau de compétition (National, Régional, Départemental ou local), les
-compétiteurs alterneront les tirs d'une flèche.
+- L'épreuve éliminatoire dans laquelle les 32 meilleurs archers sont positionnés en fonction de leurs
+  résultats obtenus lors de l'épreuve de qualification (voir en annexe les tableaux des matchs). Ils tirent
+  une série de matchs en duels. Chaque match se tire en 5 volées de 3 flèches (score cumulé aux
+  points et non pas en sets).
 
-• L'épreuve éliminatoire par équipes dans laquelle les 16 meilleures équipes de 3 archers (16 équipes
-dames et 16 équipes hommes), placées selon leurs résultats du tir de qualification (voir en annexe
-les tableaux des matchs), tirent simultanément une série de matchs. Chaque match consiste en 4
-volées de 6 flèches (2 par archer) au score cumulé. Une volée est tirée dans un temps de 2 minutes.
+- L'épreuve finale dans laquelle les 8 meilleurs archers, issus de l'épreuve éliminatoire, tirent des
+  matchs individuels. Chaque match se tire en 5 volées de 3 flèches (score cumulé) et ceci jusqu'à la
+  finale pour l'Or. En fonction du niveau de compétition (National, Régional, Départemental ou local), les
+  compétiteurs alterneront les tirs d'une flèche.
 
-• L'épreuve finale par équipes dans laquelle les 4 meilleures équipes dames et les 4 meilleures
-équipes hommes, issues de l'épreuve éliminatoire, tirent des matchs. Chaque match consiste en 4
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 178
- Le Tir en Salle (Le Tir à 18m) Edition Février 2022
-volées de 6 flèches (2 par archer) au score cumulé et ceci jusqu'à la finale pour l'or. Une volée est
-tirée dans un temps de 2 minutes.
+- L'épreuve éliminatoire par équipes dans laquelle les 16 meilleures équipes de 3 archers (16 équipes
+  dames et 16 équipes hommes), placées selon leurs résultats du tir de qualification (voir en annexe
+  les tableaux des matchs), tirent simultanément une série de matchs. Chaque match consiste en 4
+  volées de 6 flèches (2 par archer) au score cumulé. Une volée est tirée dans un temps de 2 minutes.
+
+- L'épreuve finale par équipes dans laquelle les 4 meilleures équipes dames et les 4 meilleures
+  équipes hommes, issues de l'épreuve éliminatoire, tirent des matchs. Chaque match consiste en 4
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 178
+   Le Tir en Salle (Le Tir à 18m) Edition Février 2022
+  volées de 6 flèches (2 par archer) au score cumulé et ceci jusqu'à la finale pour l'or. Une volée est
+  tirée dans un temps de 2 minutes.
 
 A.7.6 : Pour les championnats de France, les blasons triples verticaux sont obligatoires.
 
@@ -7672,8 +7247,6 @@ d'entraînement de l'athlète.
 A.9.2 : Des contrôles de dopage hors compétition peuvent être demandés par le Comité Médical de la WA
 pour les concurrents d'une Association Membre quelconque de la WA.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             179
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 A.9.3 : Les contrôles de dopage hors compétition sont organisés et conduits conformément aux
 dispositions énoncées dans le code antidopage du mouvement olympique.
@@ -7690,22 +7263,21 @@ Voir Cf. I Les Règlements Généraux – Article C.2.
 
 A.11 LIEU DU TIR ALTERNE
 A.11.1 : POUR LES COMPETITIONS Où LA TELEVISION EST PRESENTE
-• les archers et les entraîneurs ne disposeront pas de chaises sur le terrain de compétition ;
-• les archers ne passent que 15 à 22 minutes sur le terrain pour le tir individuel, 22 minutes pour le
-tir par équipes ;
-• les sacs et les caisses d'arc ne sont pas autorisés sur le terrain de tir, le petit matériel pouvant être
-porté dans les poches ou par l'entraîneur dans un sac de ceinture ;
-• Des bouteilles d'eau froide seront disponibles sur le terrain de tir et dans la zone d'attente des
-archers dans le stade ;
-• pas d'appareils de photo et de caméras personnelles autorisés sur le terrain de tir ;
-• pas de téléphone cellulaire autorisé sur le terrain de tir ;
-• un seul coach (entraîneur) n'est autorisé par archer ou équipe sur le terrain de tir.
+
+- les archers et les entraîneurs ne disposeront pas de chaises sur le terrain de compétition ;
+- les archers ne passent que 15 à 22 minutes sur le terrain pour le tir individuel, 22 minutes pour le
+  tir par équipes ;
+- les sacs et les caisses d'arc ne sont pas autorisés sur le terrain de tir, le petit matériel pouvant être
+  porté dans les poches ou par l'entraîneur dans un sac de ceinture ;
+- Des bouteilles d'eau froide seront disponibles sur le terrain de tir et dans la zone d'attente des
+  archers dans le stade ;
+- pas d'appareils de phot- et de caméras personnelles autorisés sur le terrain de tir ;
+- pas de téléphone cellulaire autorisé sur le terrain de tir ;
+- un seul coach (entraîneur) n'est autorisé par archer ou équipe sur le terrain de tir.
 
 A.11.2 : Pour les Championnats de France, les télescopes sont autorisés, mais leur hauteur doit être
 ajustée de telle façon à ce que le haut du télescope ne dépasse pas les épaules de l'archer : si le télescope
 est plus haut, il masque le visage de l'archer pour les images télévisées.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               180
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
@@ -7755,8 +7327,6 @@ derrière la ligne de 1m, mettant à disposition assez de place pour 3 athlètes
 qu’une case aménagée pour les entraîneurs derrière la zone des athlètes. S’il y a suffisamment de place,
 un emplacement sera également aménagé pour l'arbitre entre les deux équipes.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  181
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
 B.2 LES EQUIPEMENTS DES SITES DE TIR
@@ -7798,17 +7368,16 @@ une petite croix "x" dont les traits ne peuvent pas excéder 1mm de largeur et 4
 Pour la division compound, un "10 intérieur" sera inscrit. Il aura 3cm de diamètre pour les blasons de 60cm
 et 2cm pour les blasons de 40cm.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 182
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
 Il existe une distinction entre les blasons triples standards et les blasons triples classiques et arcs à poulies.
 Le blason triple de 40cm (vertical ou triangulaire) différera par la taille du 10 :
-• Le 40cm "Arc Classique et Arc Nu" a un cercle du 10 de 40mm
-• Le 40cm "Arc à Poulies" a un cercle du 10 de 20mm
-• Le 40cm "combiné" a deux cercles du 10.
-ils ont les mêmes dimensions que les blasons de 40cm, mais sans les zones de scores de 5 à 1. La zone
-de score la plus basse est donc le bleu clair qui équivaut à 6.
+
+- Le 40cm "Arc Classique et Arc Nu" a un cercle du 10 de 40mm
+- Le 40cm "Arc à Poulies" a un cercle du 10 de 20mm
+- Le 40cm "combiné" a deux cercles du 10.
+  ils ont les mêmes dimensions que les blasons de 40cm, mais sans les zones de scores de 5 à 1. La zone
+  de score la plus basse est donc le bleu clair qui équivaut à 6.
 
 Chaque blason triple consiste en 3 petits blasons sur fond blanc placés symétriquement selon une
 disposition triangulaire ou en colonne verticale. Les centres des cercles jaunes seront distants
@@ -7856,8 +7425,6 @@ de 40cm sont utilisés, la distance maximale entre le sol et les centres des bla
 sera de 162cm. La distance minimale entre le sol et les centres de la ligne du bas sera de 100cm. En cas
 d’utilisation de blasons triples triangulaires de 40cm, la hauteur maximale s’applique aux centres du haut
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    183
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 de la ligne supérieure et la hauteur minimale aux centres du bas de la ligne inférieure des blasons triples.
 La distance minimum entre les zones marquantes de 2 blasons à la même hauteur sera de 10cm.
@@ -7897,49 +7464,50 @@ dessous, de chaque cible, en dégageant bien le blason.
 B.2.3 LES MOYENS DE CONTROLE DU TEMPS
 B.2.3.1 SONORES ET VISUELS
 Le directeur des tirs contrôle :
-• Le début et la fin de chaque période de tir avec un sifflet ou tout autre appareil émettant un
-signal sonore.
-• Chaque période de tir au moyen de chronomètres digitaux, de feux, de drapeaux, de panneaux
-ou de tout autre appareil simple en complément aux signaux sonores.
+
+- Le début et la fin de chaque période de tir avec un sifflet ou tout autre appareil émettant un
+  signal sonore.
+- Chaque période de tir au moyen de chronomètres digitaux, de feux, de drapeaux, de panneaux
+  ou de tout autre appareil simple en complément aux signaux sonores.
 
 B.2.3.2: Dans le cas où il y aurait une légère discordance entre le signal sonore et le signal visuel, le signal
 sonore prévaut.
 
 B.2.3.3 : Les équipements suivants peuvent être utilisés :
-• Les feux
-Ils seront verticaux, rouge, jaune et vert, dans cet ordre avec le rouge au-dessus. Ils doivent être
-synchronisés et à aucun moment, il ne pourra y avoir deux couleurs allumées en même temps. Dans les
-compétitions de la FFTA, les feux doivent être reliés au système sonore de manière à ce que, à la fin de la
-séquence de tir, au premier son émis par l'équipement sonore, les feux deviennent rouges et que le
-chronomètre digital marque soit réinitialisé.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  184
+- Les feux
+  Ils seront verticaux, rouge, jaune et vert, dans cet ordre avec le rouge au-dessus. Ils doivent être
+  synchronisés et à aucun moment, il ne pourra y avoir deux couleurs allumées en même temps. Dans les
+  compétitions de la FFTA, les feux doivent être reliés au système sonore de manière à ce que, à la fin de la
+  séquence de tir, au premier son émis par l'équipement sonore, les feux deviennent rouges et que le
+  chronomètre digital marque soit réinitialisé.
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
-• Les chronomètres digitaux
-Quand le temps de tir est contrôlé par des chronomètres digitaux, les chiffres doivent avoir au moins 20cm
-de haut et doivent pouvoir être lus clairement à 100m de distance. Ils doivent pouvoir être arrêtés et remis
-à 0 à tout moment. Le chronomètre doit fonctionner selon le principe du décompte. Tous les autres
-paramètres (position, nombre, etc...) seront les mêmes que pour les feux.
-Quand on utilise des chronomètres digitaux, les feux ne sont pas obligatoires. Si les deux systèmes sont
-utilisés, ils doivent être synchronisés, mais s'il y a une divergence entre les deux systèmes, les chronomètres
-digitaux ont la priorité.
 
-• Les indicateurs d'ordre de tir lors des matchs
-Lors du tir alterné lors des matchs, il y aura des lumières vertes / rouges séparées, des chronomètres
-séparés ou d'autres signaux visuels utiles pour indiquer quel archer doit tirer.
+- Les chronomètres digitaux
+  Quand le temps de tir est contrôlé par des chronomètres digitaux, les chiffres doivent avoir au moins 20cm
+  de haut et doivent pouvoir être lus clairement à 100m de distance. Ils doivent pouvoir être arrêtés et remis
+  à 0 à tout moment. Le chronomètre doit fonctionner selon le principe du décompte. Tous les autres
+  paramètres (position, nombre, etc...) seront les mêmes que pour les feux.
+  Quand on utilise des chronomètres digitaux, les feux ne sont pas obligatoires. Si les deux systèmes sont
+  utilisés, ils doivent être synchronisés, mais s'il y a une divergence entre les deux systèmes, les chronomètres
+  digitaux ont la priorité.
 
-• L’équipement d'urgence
-Quand le temps de tir est contrôlé électriquement, des panneaux, drapeaux ou un autre moyen manuel
-simple doivent être disponibles, sur le terrain, en cas de défaillance de l'équipement électrique. Des feux
-et/ou des chronomètres digitaux, ainsi que du matériel de secours, sont absolument indispensables lors
-des compétitions nationales de la FFTA.
-Quand le contrôle du temps de tir se fait manuellement par des panneaux, les panneaux ne doivent pas
-avoir moins de 120 x 80cm. Ils doivent être construits solidement et doivent pouvoir être tournés
-facilement pour en montrer l'autre côté. Une des faces de ces panneaux doit être verte. L'autre face doit
-être entièrement jaune.
-Note : pendant le tir, la face entièrement verte sera montrée aux archers et quand il restera 30 secondes
-de tir, la face jaune sera montrée aux archers.
+- Les indicateurs d'ordre de tir lors des matchs
+  Lors du tir alterné lors des matchs, il y aura des lumières vertes / rouges séparées, des chronomètres
+  séparés ou d'autres signaux visuels utiles pour indiquer quel archer doit tirer.
+
+- L’équipement d'urgence
+  Quand le temps de tir est contrôlé électriquement, des panneaux, drapeaux ou un autre moyen manuel
+  simple doivent être disponibles, sur le terrain, en cas de défaillance de l'équipement électrique. Des feux
+  et/ou des chronomètres digitaux, ainsi que du matériel de secours, sont absolument indispensables lors
+  des compétitions nationales de la FFTA.
+  Quand le contrôle du temps de tir se fait manuellement par des panneaux, les panneaux ne doivent pas
+  avoir moins de 120 x 80cm. Ils doivent être construits solidement et doivent pouvoir être tournés
+  facilement pour en montrer l'autre côté. Une des faces de ces panneaux doit être verte. L'autre face doit
+  être entièrement jaune.
+  Note : pendant le tir, la face entièrement verte sera montrée aux archers et quand il restera 30 secondes
+  de tir, la face jaune sera montrée aux archers.
 
 B.2.4 ÉQUIPEMENTS DIVERS
 Les équipements suivants sont obligatoires lors des compétitions nationales de la FFTA et sont
@@ -7971,8 +7539,6 @@ B.2.4.7 : Réservé
 B.2.4.8 : Une plate-forme surélevée, équipée de sièges, pour le directeur des tirs.
 
 B.2.4.9 : Une sonorisation.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             185
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.2.4.10 : Sur les terrains de tir autres que le terrain des finales ou la zone des finales du terrain principal,
@@ -8083,8 +7649,6 @@ ayant une longueur supérieure à 2cm, n'est pas réglementaire dans la division
 La longueur maximale d'un tube, capot ou tunnel de visée (circulaire, carré ou de toute autre forme
 géométrique), pour la division arc classique, est de 2cm, hormis une possible simple fibre optique.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               187
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 Note : une seule fibre optique est autorisée pour l'arc classique. La fibre optique ne doit pas procurer plus
 d'un point de visée. Par conséquent, seul le point lumineux doit être visible en pleine allonge.
@@ -8142,8 +7706,6 @@ jumelles ou des longues vues sur pieds.
 B.3.1.9.3 : Les archers peuvent porter des lunettes de vue, de tir ou de soleil mais celles-ci ne peuvent pas
 comporter de micro-objectif (dans un tout petit trou) ni d’autre appareil similaire ni présenter de marque
 pouvant servir d’aide à la visée.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    188
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.3.1.9.4. : Il est autorisé de recouvrir le verre de lunette, du côté de l'œil qui ne vise pas, avec du ruban ou
@@ -8252,8 +7814,6 @@ B.4.2 : Un compétiteur a un temps alloué pour tirer une volée de 3 flèches
 
 B.4.2.1 : Le temps maximum imparti pour tirer une volée de 3 flèches est de 2 minutes.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               190
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.4.2.2 : Toute flèche tirée avant ou après le signal de contrôle de temps, ou hors de la séquence, entraîne
 la perte de la valeur de la flèche ayant le plus haut score de cette volée : elle sera marquée comme flèche
@@ -8310,34 +7870,36 @@ tir.
 
 B.4.4 : Une flèche ne peut être tirée à nouveau sous aucun prétexte.
 B.4.4.1 : Cependant, une flèche n'est pas considérée comme tirée :
-• si la flèche est tombée ou que le tir est raté et que le tube de la flèche se trouve à l'intérieur de la
-zone délimitée par la ligne de tir et la ligne des 3m, pour autant que la flèche n'ait pas rebondi (voir
-1, note importante, ci-dessous) ;
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 191
- Le Tir en Salle (Le Tir à 18m) Edition Février 2022
-• si le blason ou la butte tombe (bien qu'ayant été fixé à la satisfaction des arbitres). Les arbitres
-prendront les mesures qui s'imposent et donneront le temps nécessaire pour tirer les flèches
-concernées. Si le blason glisse simplement, les arbitres décideront des mesures à prendre.
+
+- si la flèche est tombée ou que le tir est raté et que le tube de la flèche se trouve à l'intérieur de la
+  zone délimitée par la ligne de tir et la ligne des 3m, pour autant que la flèche n'ait pas rebondi (voir
+  1, note importante, ci-dessous) ;
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 191
+   Le Tir en Salle (Le Tir à 18m) Edition Février 2022
+- si le blason ou la butte tombe (bien qu'ayant été fixé à la satisfaction des arbitres). Les arbitres
+  prendront les mesures qui s'imposent et donneront le temps nécessaire pour tirer les flèches
+  concernées. Si le blason glisse simplement, les arbitres décideront des mesures à prendre.
 
 (1) Note importante concernant le B.4.4.1
-• La zone des 3m, délimitée par la ligne des 3m et la ligne de tir, doit être considérée comme un espace
-3 dimensions (et non une surface deux dimensions). Ainsi, une flèche, plantée dans le sol à l'extérieur
-de la ligne des 3m mais avec sa partie arrière derrière la ligne des 3m, sera considérée comme non
-tirée, même si elle ne repose pas à plat sur le sol.
-• La largeur de la ligne des 3m fait partie de la zone des 3m (avantage à l'archer).
-• En cas de flèche manquée près de la ligne durant une épreuve en duel (match), le compétiteur doit
-décider lui-même si la flèche est valable ou non car le chronométrage ne peut pas être interrompu
-et il ne peut pas demander de temps supplémentaire pour défaut. Si le compétiteur décide de tirer
-une flèche en plus et que la flèche au sol est considérée comme tirée (après contrôle précis de
-l'arbitre), la flèche ayant la plus haute valeur de cette volée sera perdue.
-• lors d'une épreuve sans duel : le compétiteur a le choix de continuer de tirer ou d'utiliser la procédure
-d'équipement défectueux. Dans la première hypothèse, si, après contrôle de près de l'arbitre, la flèche
-au sol est considérée comme tirée, la flèche ayant la plus haute valeur de la volée sera perdue. Dans
-le second cas (procédure d'équipement défectueux), le compétiteur devrait ensuite préparer une
-autre flèche si la flèche au sol est considérée comme tirée (après un contrôle de près de l'arbitre).
-• l'arbitre doit, lors de son contrôle de près d'une flèche manquée, prendre en considération le fait que
-le compétiteur doit être capable d'estimer la validité de son tir depuis la ligne de tir et, en cas de
-doute, que l'avantage sera donné au compétiteur.
+
+- La zone des 3m, délimitée par la ligne des 3m et la ligne de tir, doit être considérée comme un espace
+  3 dimensions (et non une surface deux dimensions). Ainsi, une flèche, plantée dans le sol à l'extérieur
+  de la ligne des 3m mais avec sa partie arrière derrière la ligne des 3m, sera considérée comme non
+  tirée, même si elle ne repose pas à plat sur le sol.
+- La largeur de la ligne des 3m fait partie de la zone des 3m (avantage à l'archer).
+- En cas de flèche manquée près de la ligne durant une épreuve en duel (match), le compétiteur doit
+  décider lui-même si la flèche est valable ou non car le chronométrage ne peut pas être interrompu
+  et il ne peut pas demander de temps supplémentaire pour défaut. Si le compétiteur décide de tirer
+  une flèche en plus et que la flèche au sol est considérée comme tirée (après contrôle précis de
+  l'arbitre), la flèche ayant la plus haute valeur de cette volée sera perdue.
+- lors d'une épreuve sans duel : le compétiteur a le choix de continuer de tirer ou d'utiliser la procédure
+  d'équipement défectueux. Dans la première hypothèse, si, après contrôle de près de l'arbitre, la flèche
+  au sol est considérée comme tirée, la flèche ayant la plus haute valeur de la volée sera perdue. Dans
+  le second cas (procédure d'équipement défectueux), le compétiteur devrait ensuite préparer une
+  autre flèche si la flèche au sol est considérée comme tirée (après un contrôle de près de l'arbitre).
+- l'arbitre doit, lors de son contrôle de près d'une flèche manquée, prendre en considération le fait que
+  le compétiteur doit être capable d'estimer la validité de son tir depuis la ligne de tir et, en cas de
+  doute, que l'avantage sera donné au compétiteur.
 
 B.4.5 : Pendant que l'archer est sur la ligne de tir, il peut recevoir des conseils techniques, non
 électroniques, de la part des officiels de son équipe, pour autant que cela ne gêne pas les autres
@@ -8372,8 +7934,6 @@ B.5.1.4 : Lors de l'utilisation de blasons triples verticaux de 40cm :
 ✓ par 4 compétiteurs : à partir de la gauche, A tir sur la première colonne, B sur la troisième, C sur
 la deuxième et D sur la quatrième.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               192
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.5.1.5 : Lors de l'épreuve par équipes en Salle(Tir à 18m), chaque compétiteur tire sur son propre blason
 triple.
@@ -8396,18 +7956,19 @@ B.5.2.1 : Epreuve de qualification : avec 4 archers par cible, deux tirent en m�
 blason triple vertical. Ils tirent par volées de 3 flèches.
 
 B.5.2.2 : Lors des épreuves éliminatoires et finales individuelles ou des duels Arcs à Poulies :
-• Epreuves éliminatoires : 2 archers par cible tirent en même temps sur leur propre blason triple
-vertical.
-• Epreuves finales : chaque archer tire sur sa propre cible sur un blason triple vertical en tir alterné.
-• Lors des épreuves éliminatoires et finales, la position gauche/droite du compétiteur est
-déterminée par le tableau des matchs. Durant la première série de matchs, le compétiteur placé
-sur la ligne supérieure de chaque paire du tableau tirera depuis le côté gauche. L'attribution des
-cibles pour le match relève de l'organisateur.
-• Lors des matchs en tir alterné, l’archer (l’équipe), ayant la meilleure place à l’épreuve de classement
-(qualification), aura à décider de son ordre de tir (tirer le premier ou le second) pour la première
-volée. L’archer (l’équipe) ayant le nombre de points de set cumulé le plus bas, ou le score cumulé le
-plus bas pour les arcs à poulies, tirera le premier lors de la volée suivante. Si les archers sont à
-égalité, celui qui aura tiré le premier lors de la première volée tirera le premier à la volée suivante.
+
+- Epreuves éliminatoires : 2 archers par cible tirent en même temps sur leur propre blason triple
+  vertical.
+- Epreuves finales : chaque archer tire sur sa propre cible sur un blason triple vertical en tir alterné.
+- Lors des épreuves éliminatoires et finales, la position gauche/droite du compétiteur est
+  déterminée par le tableau des matchs. Durant la première série de matchs, le compétiteur placé
+  sur la ligne supérieure de chaque paire du tableau tirera depuis le côté gauche. L'attribution des
+  cibles pour le match relève de l'organisateur.
+- Lors des matchs en tir alterné, l’archer (l’équipe), ayant la meilleure place à l’épreuve de classement
+  (qualification), aura à décider de son ordre de tir (tirer le premier ou le second) pour la première
+  volée. L’archer (l’équipe) ayant le nombre de points de set cumulé le plus bas, ou le score cumulé le
+  plus bas pour les arcs à poulies, tirera le premier lors de la volée suivante. Si les archers sont à
+  égalité, celui qui aura tiré le premier lors de la première volée tirera le premier à la volée suivante.
 
 B.5.2.3 : Dans les épreuves éliminatoires et finales par équipes, quand les 2 équipes tirent en même temps
 :
@@ -8431,29 +7992,29 @@ match. Ils indiqueront qu'ils ont fini de tirer en levant la main au-dessus de l
 des 1m.
 
 B.5.2.4 : Dans l’Epreuve de duels en Salle(Tir à 18m) par équipe – Epreuves Finales (en cas de tir alterné) :
-− Les deux équipes débuteront chaque volée de leur duel avec leurs 3 athlètes derrière la ligne de
-1m.
 
-                         Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               193
+- Les deux équipes débuteront chaque volée de leur duel avec leurs 3 athlètes derrière la ligne de
+  1m.
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
-− L’équipe ayant le meilleur classement lors de l’épreuve de qualification décidera de l’ordre de tir de
-la première volée. A la volée suivante, l'équipe ayant le nombre de points de set cumulé le plus bas,
-ou le score cumulé le plus bas pour les arcs à poulies, commencera le tir. Si les équipes sont à
-égalité, l’équipe qui a commencé le duel tirera en premier.
-− Lorsque la première équipe a tiré 3 flèches (1 flèche par membre de l’équipe) et que l’athlète est
-retourné derrière la ligne de 1m, le chronomètre de cette équipe est arrêté en affichant le temps
-qu’il reste.
-− Lorsque le score de la dernière flèche est affiché sur le tableau de marque placé vers la butte de
-tir (applicable lors des compétitions retransmises sur écran), le chronomètre de la deuxième équipe
-est mis en marche et le premier athlète de cette équipe peut franchir la ligne de 1m et commencer
-à tirer.
-− Cela est répété jusqu’à ce que chaque équipe ait tiré 6 flèches ou que le temps soit écoulé.
-− Lorsque le tir alterné est utilisé pour la compétition par équipes, les équipes doivent alterner leurs
-membres après chaque tir de manière à ce que chaque membre de l’équipe ait tiré une flèche dans
-chaque phase de rotation.
-− Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne
-des 1m.
+
+- L’équipe ayant le meilleur classement lors de l’épreuve de qualification décidera de l’ordre de tir de
+  la première volée. A la volée suivante, l'équipe ayant le nombre de points de set cumulé le plus bas,
+  ou le score cumulé le plus bas pour les arcs à poulies, commencera le tir. Si les équipes sont à
+  égalité, l’équipe qui a commencé le duel tirera en premier.
+- Lorsque la première équipe a tiré 3 flèches (1 flèche par membre de l’équipe) et que l’athlète est
+  retourné derrière la ligne de 1m, le chronomètre de cette équipe est arrêté en affichant le temps
+  qu’il reste.
+- Lorsque le score de la dernière flèche est affiché sur le tableau de marque placé vers la butte de
+  tir (applicable lors des compétitions retransmises sur écran), le chronomètre de la deuxième équipe
+  est mis en marche et le premier athlète de cette équipe peut franchir la ligne de 1m et commencer
+  à tirer.
+- Cela est répété jusqu’à ce que chaque équipe ait tiré 6 flèches ou que le temps soit écoulé.
+- Lorsque le tir alterné est utilisé pour la compétition par équipes, les équipes doivent alterner leurs
+  membres après chaque tir de manière à ce que chaque membre de l’équipe ait tiré une flèche dans
+  chaque phase de rotation.
+- Pour les arcs à poulies le décocheur ne peut pas être attaché à l'arc lors du passage de la ligne
+  des 1m.
 
 B.5.3 SEQUENCE DE TIR
 B.5.3.1 : 40 secondes est le temps alloué au compétiteur pour tirer 1 flèche :
@@ -8488,21 +8049,22 @@ jaune ou vert). La face jaune montrée aux compétiteurs signifie qu'il ne reste
 avant la fin de la séquence. La face verte est montrée à tout autre instant de la séquence de tir.
 
 B.5.3.6.4 : Quand le tir est contrôlé par des feux (sauf lors des épreuves finales), l'ordre est le suivant :
-• ROUGE : Le directeur des tirs donnera 2 signaux sonores afin que les archers désignés (AB, CD
-comme prévu) viennent occuper la ligne de tir ensemble
-• VERT : 10 secondes plus tard (10 secondes lors des matchs), quand la couleur devient verte, le
-directeur des tirs donne 1 signal sonore afin d'autoriser le début des tirs.
-• JAUNE : Ce signal signifie qu'il ne reste plus que 30 secondes avant la fin de la séquence de tir.
-• ROUGE : Ce signal signifie que la séquence de tir est terminée et 2 signaux sonores doivent retentir,
-indiquant la fin du tir, même si toutes les flèches de la volée n'ont pas été tirées. Les compétiteurs,
-Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 194
- Le Tir en Salle (Le Tir à 18m) Edition Février 2022
-qui sont encore sur la ligne de tir, doivent regagner leur position derrière la ligne d'attente. Les
-compétiteurs suivants peuvent occuper la ligne de tir et attendre que le feu passe au vert pour
-débuter leur séquence. La procédure sera répétée jusqu'à ce que tous les compétiteurs aient tiré.
-Lorsque le feu rouge s'allume après une volée de 3 ou 6 flèches (3 x 2 flèches de l'épreuve par équipes),
-selon l'épreuve, 3 signaux sonores retentissent afin que les archers puissent commencer à enregistrer les
-scores.
+
+- ROUGE : Le directeur des tirs donnera 2 signaux sonores afin que les archers désignés (AB, CD
+  comme prévu) viennent occuper la ligne de tir ensemble
+- VERT : 10 secondes plus tard (10 secondes lors des matchs), quand la couleur devient verte, le
+  directeur des tirs donne 1 signal sonore afin d'autoriser le début des tirs.
+- JAUNE : Ce signal signifie qu'il ne reste plus que 30 secondes avant la fin de la séquence de tir.
+- ROUGE : Ce signal signifie que la séquence de tir est terminée et 2 signaux sonores doivent retentir,
+  indiquant la fin du tir, même si toutes les flèches de la volée n'ont pas été tirées. Les compétiteurs,
+  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage © 194
+   Le Tir en Salle (Le Tir à 18m) Edition Février 2022
+  qui sont encore sur la ligne de tir, doivent regagner leur position derrière la ligne d'attente. Les
+  compétiteurs suivants peuvent occuper la ligne de tir et attendre que le feu passe au vert pour
+  débuter leur séquence. La procédure sera répétée jusqu'à ce que tous les compétiteurs aient tiré.
+  Lorsque le feu rouge s'allume après une volée de 3 ou 6 flèches (3 x 2 flèches de l'épreuve par équipes),
+  selon l'épreuve, 3 signaux sonores retentissent afin que les archers puissent commencer à enregistrer les
+  scores.
 
 B.5.3.6.5 : Dès que la ligne de tir est laissée libre, parce que tous les compétiteurs ont terminé de tirer
 leurs flèches avant la fin de la séquence, le signal approprié sera donné immédiatement.
@@ -8554,8 +8116,7 @@ désigné donnera la décision finale.
     B.6.1.4.1 : Pour les Arcs Classiques et les Arcs Nus :
     Un archer peut obtenir un score maximum de 30 points (pour 3 flèches) par set.
     L'archer avec le score le plus élevé de la volée obtient 2 points de set, le perdant 0 point. En cas
-    d’égalité, les 2 archers obtiennent 1 point de set chacun.
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              195
+    d’égalité, les 2 archers obtiennent 1 point de set chacun
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 Aussitôt qu’un archer obtient 6 points de set dans un duel en 5 sets, il est déclaré vainqueur du duel
@@ -8706,12 +8267,13 @@ remises. Cependant s’ils remarquent des erreurs au moment où celles-ci leur s
 demanderont aux archers concernés de les corriger et le résultat obtenu après correction sera retenu.
 Toutes les corrections devront être effectuées avant l’étape suivante de la compétition.
 En cas de différence entre les sommes totales :
-• Entre deux feuilles de marque en papier, la somme totale la plus basse sera utilisée pour le résultat
-final ; si le score sur une seule feuille de marque (et en cas d’un double marquage si le score est le
-même sur chaque feuille de marque) est inférieur au score réel, le score le plus bas sur la feuille
-de marque sera utilisé et si entre une feuille de marque en papier et une électronique, la somme
-totale de la version papier sera utilisée pour le résultat final à moins que celle-ci ne soit supérieurs
-au score réel (dans ce cas, le score réel le plus bas sera utilisé).
+
+- Entre deux feuilles de marque en papier, la somme totale la plus basse sera utilisée pour le résultat
+  final ; si le score sur une seule feuille de marque (et en cas d’un double marquage si le score est le
+  même sur chaque feuille de marque) est inférieur au score réel, le score le plus bas sur la feuille
+  de marque sera utilisé et si entre une feuille de marque en papier et une électronique, la somme
+  totale de la version papier sera utilisée pour le résultat final à moins que celle-ci ne soit supérieurs
+  au score réel (dans ce cas, le score réel le plus bas sera utilisé).
 
 B.6.4.1.1 : Lors des phases éliminatoires, les feuilles de marque doivent être signées par les deux
 compétiteurs (ou leur agent) du match, prouvant ainsi qu'ils sont d'accord avec la valeur de chaque flèche,
@@ -8724,65 +8286,66 @@ B.6.5 : Dans l'éventualité d'une égalité dans les scores totaux, et pour l�
 phases éliminatoires ou finales ne sont pas organisées ; le départage se fera de la manière suivante :
 
 B.6.5.1 : Dans toutes les épreuves, sauf pour les égalités décrites plus loin en B.6.5.2 :
-• Individuels et équipes
-✓ plus grand nombre de 10 ;
-✓ plus grand nombre de 9 ;
-✓ si l'égalité subsiste, les compétiteurs sont déclarés ex-æquo. Mais pour des raisons de classement
-(par exemple la position dans le tableau des matchs de l'épreuve éliminatoire), un tirage au sort
-décidera de la place.
+
+- Individuels et équipes
+  ✓ plus grand nombre de 10 ;
+  ✓ plus grand nombre de 9 ;
+  ✓ si l'égalité subsiste, les compétiteurs sont déclarés ex-æquo. Mais pour des raisons de classement
+  (par exemple la position dans le tableau des matchs de l'épreuve éliminatoire), un tirage au sort
+  décidera de la place.
 
 B.6.5.2 : Le départage des égalités, pour entrer dans les épreuves éliminatoires, pour la progression d'une étape
 de la compétition vers la suivante ou pour l'attribution de médailles, doit se faire, après les matchs de cette
 étape, par des tirs de barrage (sans prendre en considération le nombre de 10 ou de 9).
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 198
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.6.5.2.1 :
-• Individuels
-✓ Un seul tir de barrage d'une flèche, pour le score
-✓ Si l'égalité subsiste, la flèche la plus près du centre donne la victoire.
-✓ Si l'égalité subsiste encore, on répète le barrage avec la flèche la plus près du centre jusqu'à résolution
-de l'égalité.
-✓ Si les deux archers manquent la zone marquante de la cible, tous deux tireront une flèche
-supplémentaire ;
-✓ Lors des tirs alternés, l'archer qui a tiré en premier au début du match commencera lors du tir
-de barrage.
+
+- Individuels
+  ✓ Un seul tir de barrage d'une flèche, pour le score
+  ✓ Si l'égalité subsiste, la flèche la plus près du centre donne la victoire.
+  ✓ Si l'égalité subsiste encore, on répète le barrage avec la flèche la plus près du centre jusqu'à résolution
+  de l'égalité.
+  ✓ Si les deux archers manquent la zone marquante de la cible, tous deux tireront une flèche
+  supplémentaire ;
+  ✓ Lors des tirs alternés, l'archer qui a tiré en premier au début du match commencera lors du tir
+  de barrage.
 
 B.6.5.2.2 :
-• Équipes
-✓ Un tir de barrage d'une volée de 3 flèches (1 par archer), le plus haut total de points gagne
-✓ Si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante.
-✓ Si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) est la plus près du centre, sera
-déclarée gagnante.
-✓ Lors des tirs alternés, l’équipe qui a tiré en premier au début du match commencera lors du tir
-de barrage.
-✓ Lors de tirs alternés, l’alternance entre les équipes se fera après que chacun des membres d’une
-équipe ait tiré 1 flèche.
-B.6.5.2.3 : Pour les tirs de barrage individuels, on utilisera les cibles centrales des blasons triples verticaux
-ou la cible du milieu (haut) pour les blasons triples triangulaires.
-B.6.5.2.3.1 : Pour les tirs de barrage par équipes, un blason vertical triple sera installé horizontalement ou
-les blasons triangulaires triples peuvent aussi être utilisés.
-B.6.5.2.3.2 : Les archers doivent rester sur le terrain de la compétition jusqu’à ce que l’annonce officielle
-de tirs de barrage soit faite. Un archer qui n’est pas présent pour disputer son tir de barrage annoncé sera
-déclaré perdant.
-B.6.5.2.4 : Tant que les informations officielles au sujet des tirs de barrage n'ont pas été annoncées, les
-compétiteurs doivent rester sur le terrain de compétition. Les compétiteurs, qui ne sont pas présents
-lorsqu'ils sont appelés pour un tir de barrage, seront considérés comme perdants du match.
-B.6.5.3 : La résolution des égalités pour l'accession à la phase éliminatoire dépend du type de blason utilisé.
-La procédure du tir de barrage sera la suivante :
-B.6.5.3.1 : Pour les individuels, le tir de barrage doit se faire sur le même blason (A, B, C, D) et sur le même
-type de blason (40cm, blason triples de 40cm vertical, blason triples de 40cm triangulaire, 60cm) sur
-lequel les compétiteurs à égalité ont tiré la phase de qualification.
-Si des blasons triples verticaux sont utilisés, le compétiteur doit tirer dans le spot du milieu de la colonne.
-Si des blasons triples triangulaires sont utilisés, le compétiteur doit tirer dans le spot du haut.
-Si cela n'est pas possible, une ou plusieurs buttes de tir seront placées avec un maximum de deux blasons
-chacune, pour un maximum de deux compétiteurs par butte de tir.
-B.6.5.3.2 : Pour le tir de barrage des équipes, il y aura une butte de tir par équipe.
-Quand on utilise les blasons triples triangulaires, l'équipe disposera d'un blason dont les centres du bas
-seront à 130cm au-dessus du sol. Chaque équipier tirera dans un des spots du blason.
-Quand on utilise les blasons triples verticaux, un blason sera installé horizontalement et les membres de
-l’équipe choisiront sur quel spot tirer.
+
+- Équipes
+  ✓ Un tir de barrage d'une volée de 3 flèches (1 par archer), le plus haut total de points gagne
+  ✓ Si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante.
+  ✓ Si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) est la plus près du centre, sera
+  déclarée gagnante.
+  ✓ Lors des tirs alternés, l’équipe qui a tiré en premier au début du match commencera lors du tir
+  de barrage.
+  ✓ Lors de tirs alternés, l’alternance entre les équipes se fera après que chacun des membres d’une
+  équipe ait tiré 1 flèche.
+  B.6.5.2.3 : Pour les tirs de barrage individuels, on utilisera les cibles centrales des blasons triples verticaux
+  ou la cible du milieu (haut) pour les blasons triples triangulaires.
+  B.6.5.2.3.1 : Pour les tirs de barrage par équipes, un blason vertical triple sera installé horizontalement ou
+  les blasons triangulaires triples peuvent aussi être utilisés.
+  B.6.5.2.3.2 : Les archers doivent rester sur le terrain de la compétition jusqu’à ce que l’annonce officielle
+  de tirs de barrage soit faite. Un archer qui n’est pas présent pour disputer son tir de barrage annoncé sera
+  déclaré perdant.
+  B.6.5.2.4 : Tant que les informations officielles au sujet des tirs de barrage n'ont pas été annoncées, les
+  compétiteurs doivent rester sur le terrain de compétition. Les compétiteurs, qui ne sont pas présents
+  lorsqu'ils sont appelés pour un tir de barrage, seront considérés comme perdants du match.
+  B.6.5.3 : La résolution des égalités pour l'accession à la phase éliminatoire dépend du type de blason utilisé.
+  La procédure du tir de barrage sera la suivante :
+  B.6.5.3.1 : Pour les individuels, le tir de barrage doit se faire sur le même blason (A, B, C, D) et sur le même
+  type de blason (40cm, blason triples de 40cm vertical, blason triples de 40cm triangulaire, 60cm) sur
+  lequel les compétiteurs à égalité ont tiré la phase de qualification.
+  Si des blasons triples verticaux sont utilisés, le compétiteur doit tirer dans le spot du milieu de la colonne.
+  Si des blasons triples triangulaires sont utilisés, le compétiteur doit tirer dans le spot du haut.
+  Si cela n'est pas possible, une ou plusieurs buttes de tir seront placées avec un maximum de deux blasons
+  chacune, pour un maximum de deux compétiteurs par butte de tir.
+  B.6.5.3.2 : Pour le tir de barrage des équipes, il y aura une butte de tir par équipe.
+  Quand on utilise les blasons triples triangulaires, l'équipe disposera d'un blason dont les centres du bas
+  seront à 130cm au-dessus du sol. Chaque équipier tirera dans un des spots du blason.
+  Quand on utilise les blasons triples verticaux, un blason sera installé horizontalement et les membres de
+  l’équipe choisiront sur quel spot tirer.
 
 B.6.6 : Le classement définitif devra suivre la procédure ci-dessus, toutefois seuls les 8 meilleurs
 athlètes (équipes) seront classé(e)s individuellement.
@@ -8791,8 +8354,6 @@ seront classés 17 ème.
 B.6.6.2 Les athlètes éliminés lors des ¼ de finales seront classés en fonction du nombre de sets
 remportés et en cas d’égalité du nombre de points tirés cumulé lors du dernier duel. Si l’égalité subsiste,
 ils seront déclarés à égalité.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  199
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.6.6.3 Les équipes éliminées lors des ¼ de finales seront classées en fonction du score cumulé
@@ -8851,8 +8412,6 @@ B.7.4.1 : Tous les autres, avec leur équipement, doivent rester en arrière de 
 archer a fini de tirer, il doit immédiatement se retirer derrière la ligne d'attente. Il peut laisser sa longue vue
 sur la ligne de tir, entre les volées, pour autant qu'elle ne constitue pas un obstacle pour un autre
 compétiteur.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  200
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.7.4.2 : Dans l'épreuve de matchs par équipes, un seul compétiteur pourra se trouver sur la ligne de tir,
@@ -9031,8 +8590,6 @@ B.10.1 : Lors du tir sur cibles en Salle(Tir à 18m), les archers doivent se ré
 toute question se rapportant à la valeur d'une flèche, ceci avant que les flèches aient été touchées et
 retirées de la cible.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  203
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 B.10.2 : Une erreur sur la feuille de marque peut être corrigée avant que les flèches ne soient enlevées de
 la cible à condition que tous les archers de cette cible soient d’accord. La correction doit être attestée et
@@ -9061,8 +8618,6 @@ Généraux - B.5 avant le début de la prochaine phase de la compétition. Les p
 l'objet d'un litige, ne peuvent pas être remis avant que le jury d'appel n'ait pris une décision.
 L'appel écrit doit se faire dans les 15 minutes avant la fin de l'épreuve.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                204
-
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
 B.12 LES ANNEXES
@@ -9071,8 +8626,9 @@ B.12 LES ANNEXES
 
 ANNEXE 1 :
 Tableau des matchs/Grille de répartition
-• finales individuelles
-• finales par équipe
+
+- finales individuelles
+- finales par équipe
 
 ANNEXE 2 : LES FEUILLES DE MARQUE
 Epreuves de qualification 2x18m ou 2x25m
@@ -9302,20 +8858,20 @@ C.1.1 LE CHAMPIONNAT DE FRANCE ELITE EN SALLE(TIR A 18M) (TOUTES CATEGORIES) POU
 CLASSIQUES, ARCS A POULIES ET ARCS NUS ET LE CHAMPIONNAT DE FRANCE ADULTE EN SALLE(TIR A 18M) PAR
 CATEGORIE D'AGE.
 
-• Qualifications
-Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
+- Qualifications
+  Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
 
-• Date
-En fonction du calendrier international, généralement entre fin février et début mars.
+- Date
+  En fonction du calendrier international, généralement entre fin février et début mars.
 
-• Epreuves
-Le championnat de France Elite décerne 6 titres :
-CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC NU
-CHAMPIONNE DE FRANCE ELITE SALLE(TIR A 18M) ARC NU
-CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC CLASSIQUE
-CHAMPIONNE DE FRANCE ELITE SALLE(TIR A 18M) ARC CLASSIQUE
-CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC A POULIES
-CHAMPIONNE DE FRANCE ELITE SALLE(TIR À 18M) ARC A POULIES
+- Epreuves
+  Le championnat de France Elite décerne 6 titres :
+  CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC NU
+  CHAMPIONNE DE FRANCE ELITE SALLE(TIR A 18M) ARC NU
+  CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC CLASSIQUE
+  CHAMPIONNE DE FRANCE ELITE SALLE(TIR A 18M) ARC CLASSIQUE
+  CHAMPION DE FRANCE ELITE SALLE(TIR À 18M) ARC A POULIES
+  CHAMPIONNE DE FRANCE ELITE SALLE(TIR À 18M) ARC A POULIES
 
 Les X meilleur(e)s archers des catégories Cadets(U18), Juniors(U21), seniors 1, seniors 2, seniors 3 au
 classement national "Toutes catégories" en Arc Classique et en Arc à Poulies sont regroupées dans une
@@ -9327,64 +8883,60 @@ Le championnat de France Adulte en Salle(Tir à 18m) par catégorie d'âge déce
 DE France SALLE(TIR À 18M) à chacune des catégories ouvertes sur ce championnat (cf : Les catégories
 concernées (Arcs Classique, Arcs à Poulies et Arcs Nu) : voir Article A.7 ci-dessus – Catégories officielles.)
 
-• Distance : le tir se déroule entièrement à 18m.
+- Distance : le tir se déroule entièrement à 18m.
 
-• Blasons : toutes les phases du championnat se tireront sur des blasons triples verticaux
-correspondant à la catégorie.
+- Blasons : toutes les phases du championnat se tireront sur des blasons triples verticaux
+  correspondant à la catégorie.
 
-• L’entraînement : l’entraînement officiel : le premier jour de la compétition, sur le terrain de
-compétition, selon les horaires prévus par l'organisateur.
+- L’entraînement : l’entraînement officiel : le premier jour de la compétition, sur le terrain de
+  compétition, selon les horaires prévus par l'organisateur.
 
-• Participation et sélection des archers : Se rapporter au tableau officiel des quotas des sélectionnés
-et au calendrier fédéral officiel.
+- Participation et sélection des archers : Se rapporter au tableau officiel des quotas des sélectionnés
+  et au calendrier fédéral officiel.
 
-• Le déroulement du championnat : Le programme est publié dans le Calendrier des compétitions de
-la FFTA, selon le cahier des charges.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              220
+- Le déroulement du championnat : Le programme est publié dans le Calendrier des compétitions de
+  la FFTA, selon le cahier des charges.
 
 Le Tir en Salle (Le Tir à 18m) Edition Février 2022
 
 C.1.2 LE CHAMPIONNAT DE FRANCE JEUNES EN SALLE(TIR A 18M)
 
-• Qualifications
-Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
+- Qualifications
+  Les règles de sélection sont mentionnées au Chapitre I - Les Règlements Généraux – Article C.5.1.2
 
-• Date
-En fonction du calendrier international, généralement entre fin février et début mars.
+- Date
+  En fonction du calendrier international, généralement entre fin février et début mars.
 
-• Epreuves
-Le championnat de France Jeune en Salle(Tir à 18m) par catégorie d'âge décerne des titres de CHAMPION
-DE France SALLE(TIR À 18M) à chacune des catégories ouvertes sur ce championnat (cf : Les catégories
-concernées (Arcs Classique, Arcs à Poulies et Arcs Nu) : voir Article A.7 ci-dessus – Catégories officielles.)
+- Epreuves
+  Le championnat de France Jeune en Salle(Tir à 18m) par catégorie d'âge décerne des titres de CHAMPION
+  DE France SALLE(TIR À 18M) à chacune des catégories ouvertes sur ce championnat (cf : Les catégories
+  concernées (Arcs Classique, Arcs à Poulies et Arcs Nu) : voir Article A.7 ci-dessus – Catégories officielles.)
 
-• Distance : le tir se déroule entièrement à 18m.
+- Distance : le tir se déroule entièrement à 18m.
 
-• Blasons : toutes les phases du championnat se tireront sur des blasons triples verticaux
-correspondant à la catégorie.
+- Blasons : toutes les phases du championnat se tireront sur des blasons triples verticaux
+  correspondant à la catégorie.
 
-• L’entraînement : l’entraînement officiel : le premier jour de la compétition, sur le terrain de
-compétition, selon les horaires prévus par l'organisateur.
+- L’entraînement : l’entraînement officiel : le premier jour de la compétition, sur le terrain de
+  compétition, selon les horaires prévus par l'organisateur.
 
-• Participation et sélection des archers :
+- Participation et sélection des archers :
 
       Se rapporter au tableau officiel des quotas des sélectionnés et au calendrier fédéral officiel.
 
-• Le déroulement du championnat
-Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
-C.1.3 DIVERS
-✓ Arbitres : Lors du championnat de France, le nombre d'arbitres expérimentés doit être suffisant,
-au moins 1 arbitre pour 7 cibles installées, non compris le Président de la Commission des
-Arbitres, son adjoint (PCRA). Excepté pour les phases finales, les arbitres peuvent modifier la
-position des archers sur la ligne de tir, afin qu'il n'y ait pas, si possible, plus d'un archer d'un même
-club sur la même cible. Ils doivent en informer le service informatique si les boitiers électroniques
-sont utilisés lors de la compétition. Dans tous les cas, pas plus de 2 archers du même club ne
-pourront être placés sur la même cible.
-✓ Nombre de sélectionnés pour le championnat de France : la décision appartient à la FFTA. Le
-nombre d'archers sélectionnés est publié chaque année dans le tableau officiel. La FFTA publie
-également le mode d’inscription.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   221
+- Le déroulement du championnat
+  Le programme est publié dans le Calendrier des compétitions de la FFTA, selon le cahier des charges.
+  C.1.3 DIVERS
+  ✓ Arbitres : Lors du championnat de France, le nombre d'arbitres expérimentés doit être suffisant,
+  au moins 1 arbitre pour 7 cibles installées, non compris le Président de la Commission des
+  Arbitres, son adjoint (PCRA). Excepté pour les phases finales, les arbitres peuvent modifier la
+  position des archers sur la ligne de tir, afin qu'il n'y ait pas, si possible, plus d'un archer d'un même
+  club sur la même cible. Ils doivent en informer le service informatique si les boitiers électroniques
+  sont utilisés lors de la compétition. Dans tous les cas, pas plus de 2 archers du même club ne
+  pourront être placés sur la même cible.
+  ✓ Nombre de sélectionnés pour le championnat de France : la décision appartient à la FFTA. Le
+  nombre d'archers sélectionnés est publié chaque année dans le tableau officiel. La FFTA publie
+  également le mode d’inscription.
 
 Le Tir en Campagne Edition Février 2022
 
@@ -9446,8 +8998,6 @@ C.4.5 Titres décernés
 C.5 Divers
 C.6 Le rôle du Délégué FFTA
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               222
-
 Le Tir en Campagne Edition Février 2022
 
 A. GENERALITES
@@ -9496,19 +9046,18 @@ Les Athlètes doivent à tout moment porter des maillots arborant leur nom et le
 Tous les athlètes et officiels doivent porter des chaussures de sport ou de marche. Celles-ci peuvent être
 de styles différents mais elles doivent entièrement recouvrir les pieds.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               223
-
 Le Tir en Campagne Edition Février 2022
 
 A.4.2 : Pendant la compétition :
-• les dames doivent porter des robes, jupes, jupes culottes, shorts ou des pantalons (lâches) et des
-chemisiers, blouses ou hauts.
-Note : Le Comité "Constitution et Règlements" a été sollicité pour donner une définition du mot "Top" : "un
-Top est un vêtement féminin qui, lors des championnats FFTA, couvre la partie supérieure du corps (devant
-et derrière) et qui est fixé en haut par au moins une bretelle / ficelle sur chaque épaule".
 
-     • les hommes doivent porter des pantalons longs ou courts (shorts), des chemises à manches longues
-        ou courtes.
+- les dames doivent porter des robes, jupes, jupes culottes, shorts ou des pantalons (lâches) et des
+  chemisiers, blouses ou hauts.
+  Note : Le Comité "Constitution et Règlements" a été sollicité pour donner une définition du mot "Top" : "un
+  Top est un vêtement féminin qui, lors des championnats FFTA, couvre la partie supérieure du corps (devant
+  et derrière) et qui est fixé en haut par au moins une bretelle / ficelle sur chaque épaule".
+
+       - les hommes doivent porter des pantalons longs ou courts (shorts), des chemises à manches longues
+          ou courtes.
 
 On peut porter des pull-overs ou des gilets. Le bas des shorts ne sera pas plus haut que la position du bout
 des doigts, lorsque le compétiteur est bras et doigts tendus le long du corps. En aucun cas, les limites
@@ -9523,7 +9072,7 @@ Les survêtements, fournis aux équipes comme uniformes officiels, sont autoris�
 
 A.4.3 : Les compétiteurs doivent porter des chaussures pendant le tournoi.
 
-A.4.4 : Le numéro d'enregistrement du compétiteur (dossard) doit être placé bien en vue et doit être visible
+A.4.4 : Le numér- d'enregistrement du compétiteur (dossard) doit être placé bien en vue et doit être visible
 à tout moment pendant le tir.
 
 A.4.5 : Il est permis aux compétiteurs des porter des vêtements sur lesquels apparaît le nom et/ou l'insigne
@@ -9564,8 +9113,6 @@ Seniors 3
 (piquet bleu) (piquet bleu) (piquet rouge) (piquet rouge) (piquet rouge) (piquet rouge)
 
 (1) Les arcs nus sont aussi acceptés en Salle(Tir à 18m) (voir article C1 du tir en Salle(Tir à 18m))
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                      224
 
 Le Tir en Campagne Edition Février 2022
 
@@ -9627,8 +9174,6 @@ difficultés de tir, en fonction du terrain, dans l'esprit et les traditions que
 Le parcours peut comporter des distances de tir connues ou non et peut inclure n'importe quel nombre de
 cibles en dégradé ou en éventail, comme indiqué dans l'article A.7.4.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  225
-
 Le Tir en Campagne Edition Février 2022
 A.7.3 : L'épreuve "ARROW HEAD" consiste en un nombre de cibles compris entre 24 et 48 et divisible par
 4 et trois (3) flèches par cible, à savoir deux épreuves FFTA complètes de tir en campagne où les distances
@@ -9689,8 +9234,6 @@ Si un parcours comporte 24 cibles (2x12), le tableau des 12 cibles doit être do
 
 Les Benjamins(U13) (arcs classiques) tirent aux distances du piquet blanc ou du piquet orange s’il est présent.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                226
-
 Le Tir en Campagne Edition Février 2022
 
 A.8 LES DISTINCTIONS DE LA WORLD ARCHERY
@@ -9702,7 +9245,7 @@ A.8.2 : En tir en campagne, les distinctions sont les badges ARROW HEAD (pointe 
 
 A.8.3 : Selon les scores suivants pour la division « Arcs classiques » :
 
-                                 •     ARRO W HEAD : ARCS CLASSI QU ES
+                                 -     ARR- W HEAD : ARCS CLASSI QU ES
                 24 Cibles    28 Cibles 32 Cibles 36 Cibles 40 Cibles 44 Cibles                48 Cibles
                  H      D     H      D        H     D     H     D      H     D     H     D     H     D
       Vert      219    196   256    229      292   261   329   294    365   327   402   359   438   392
@@ -9715,7 +9258,7 @@ A.8.3 : Selon les scores suivants pour la division « Arcs classiques » :
 
 A.8.3.1 : Selon les scores suivants pour la division « Arcs nus » :
 
-                                         •      ARRO W HEAD : ARCS NU S
+                                         -      ARR- W HEAD : ARCS NU S
                 24 Cibles    28 Cibles       32 Cibles 36 Cibles 40 Cibles 44 Cibles          48 Cibles
                  H      D     H      D        H     D     H     D      H     D     H     D     H     D
       Vert      191    182   223    212      255   243   287   273    318   303   350   334   382   364
@@ -9728,7 +9271,7 @@ A.8.3.1 : Selon les scores suivants pour la division « Arcs nus » :
 
 A.8.4. : Selon les scores suivants pour la division « Arcs à poulies » :
 
-                                •    ARRO W HEAD : ARCS               A PO U LIES
+                                -    ARR- W HEAD : ARCS               A P- U LIES
                24 Cibles     28 Cibles 32 Cibles 36 Cibles            40 Cibles 44 Cibles     48 Cibles
                 H    D        H    D    H     D   H     D              H    D     H   D        H     D
       Vert     292 275       341 321 389 367 438 413                  487 458 535 504         584 550
@@ -9744,8 +9287,6 @@ A.8.4.1 : Les deux distinctions les plus basses (vert et brun) peuvent être obt
 
 A.8.5 : L'épreuve ARROW HEAD consiste en un nombre de cibles compris entre 24 et 48 et divisible par
 4, à savoir 2 épreuves complètes WA de tir en campagne où les distances sont conformes à l'article A.7.4
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               227
 
 Le Tir en Campagne Edition Février 2022
 Ces épreuves pourront être tirées soit sur des distances connues et inconnues, soit l'une sur les connues
@@ -9808,7 +9349,7 @@ les cibles de 60 et 80cm : les compétiteurs tireront par rotation.
 B.11.5 : A toutes les cibles, un piquet ou une marque pour chaque division, devra être placé de manière à
 permettre à 2 archers, au moins, de tirer en même temps de n'importe quel côté du piquet.
 
-B.1.1.6 : Chaque pas de tir sera numéroté du numéro correspondant à la cible. La distance sera inscrite
+B.1.1.6 : Chaque pas de tir sera numéroté du numér- correspondant à la cible. La distance sera inscrite
 lors de tirs aux distances connues. Les piquets signalant les postes de tir seront de couleurs différentes
 selon la division :
 ✓ bleu pour la division "arcs nus" ; les Cadets(U18) Arcs Classiques et Arcs à Poulies
@@ -9835,8 +9376,6 @@ blasons. Aucun point du blason ne sera à moins de 15cm du sol.
 Dans tous les cas, sans prendre en considération le terrain, les cibles seront placées le plus
 perpendiculairement possible par rapport à la ligne de visée des archers sur le pas de tir, de manière à
 offrir à la vue le blason en entier.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              229
 
 Le Tir en Campagne Edition Février 2022
 
@@ -9889,8 +9428,6 @@ Le 6 est du même jaune. Les deux zones seront séparées par une fine ligne noi
 maximum. Les zones restantes, de couleur noire, seront séparées par de fines lignes blanches de 1mm
 d'épaisseur maximum. Chaque ligne de séparation des zones de scores est inscrite dans la zone de score
 la plus haute. Le centre de la cible sera marqué par une fine croix (+). Voir croquis en annexe B.13.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              230
 
 Le Tir en Campagne Edition Février 2022
 
@@ -9948,8 +9485,6 @@ Technique.
 Il est illégal d'augmenter artificiellement la taille de cette poignée de façon à ce qu'il y ait un contact entre
 la main/poing et la poignée.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  231
-
 Le Tir en Campagne Edition Février 2022
 
 B.3.1.2 POUR LA DIVISION ARC NU SEULEMENT
@@ -9991,8 +9526,6 @@ B.3.1.5 POUR LA DIVISION ARC CHASSE (ARC INSTINCTIF)
 B.3.1.5.1 : La puissance maximale de l'arc est de 80 livres pour les hommes et de 60 livres pour les
 femmes et les Juniors(U21).
 Accessoires : voir le règlement du Tir Nature article A.3.1
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   232
 
 Le Tir en Campagne Edition Février 2022
 
@@ -10053,8 +9586,6 @@ type.
 B.3.5.1.1 : il n'y sera pas incorporé de prisme, ni de lentille, ni de verre grossissant, ni d'appareil de
 nivellement, ni électronique, ni électrique. De même, il n'offrira qu'un seul point de visée.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 233
-
 Le Tir en Campagne Edition Février 2022
 B.3.5.1.2 : la longueur totale du viseur (tunnel, tube, point de visée ou tout autre élément allongé) ne pourra
 excéder 2cm.
@@ -10105,8 +9636,6 @@ B.3.5.3.1 : A condition
 ✓ qu'il ne soit ni électrique, ni électronique ;
 ✓ et ne dispose pas de moyens supplémentaires pour estimer les distances lors des parcours aux
 distances inconnues.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  234
 
 Le Tir en Campagne Edition Février 2022
 B.3.5.3.2 : Les points de visée multiples et les systèmes permettant d’éviter l’utilisation d’une visette ne
@@ -10167,8 +9696,6 @@ B.3.7.2.1 : les restrictions suivantes s'appliquent :
 ✓ les pointes ne seront que du type normal en campagne pour flèches en bois ou en bambou ;
 ✓ l'empennage sera constitué uniquement de plumes naturelles.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  235
-
 Le Tir en Campagne Edition Février 2022
 ✓ le diamètre maximum des flèches ne pourra pas excéder 9,3mm. La pointe de ces flèches peut
 avoir un diamètre de 9,4mm.
@@ -10178,13 +9705,15 @@ B.3.8 PROTECTION POUR LES DOIGTS ET LES MAINS
 B.3.8.1 Toutes divisions :
 Une protection pour les doigts, des gants, une palette sont autorisés pour tendre, retenir et lâcher la corde.
 B.3.8.1.1 : les équipements suivants sont autorisés :
-• un séparateur entre les doigts afin d’éviter de pincer la corde
-• pour la main d’arc, un gant ordinaire, une mitaine ou tout autre article peut être porté mais ne
-doit pas être attaché au grip de l’arc.
+
+- un séparateur entre les doigts afin d’éviter de pincer la corde
+- pour la main d’arc, un gant ordinaire, une mitaine ou tout autre article peut être porté mais ne
+  doit pas être attaché au grip de l’arc.
 
 B.3.8.2 : Arc classique et Arc Nu
 B.3.8.2.1 : L’équipement suivant est autorisé :
-• Une plaquette d’ancrage ou tout système similaire attaché à la palette
+
+- Une plaquette d’ancrage ou tout système similaire attaché à la palette
 
 B.3.8.2.2 : Pour les arcs nus, les coutures sur les palettes doivent être de couleur unie, les points et les
 lignes doivent être de même taille, forme et couleur. Des repères supplémentaires ou des inscriptions ne
@@ -10192,7 +9721,8 @@ sont pas autorisés.
 
 B.3.8.3 : Arc à poulies
 B.3.8.3.1 : L’équipement suivant est autorisé :
-• Une aide mécanique pour lâcher la corde, à condition qu’elle ne soit ni électrique, ni électronique.
+
+- Une aide mécanique pour lâcher la corde, à condition qu’elle ne soit ni électrique, ni électronique.
 
 B.3.8.4 : Arc classique, Arc Nu et Longbow :
 B.3.8.4.1 : Les restrictions suivantes s’appliquent :
@@ -10200,26 +9730,27 @@ La protection pour les doigts ne doit contenir aucun système pour tenir, tendre
 
 B.3.8.5 Arc droit Longbow
 B.3.8.5.1 : N’est pas autorisé :
-• une plaquette d'ancrage ou tout autre système attaché à la palette.
-Prise de corde
-• L'arc doit être tendu en utilisant la prise "Méditerranéenne" (à 3 doigts : 1 doigt au-dessus et 2 doigts
-au-dessous de la flèche) ou avec 3 doigts placés directement en-dessous de l'encoche de la flèche (l'index
-ne doit pas être placé à plus de 2mm en-dessous de celle-ci) et 1 seul point d'ancrage fixe.
-• L'athlète doit choisir entre ces deux méthodes : "méditerranéenne" ou 3 doigts en-dessous, mais il
-ne peut pas utiliser les deux.
-• La protection pour les 3 doigts en-dessous doit présenter une surface lisse ou des doigtiers reliés
-entre eux sans possibilité de tirer les doigts écartés.
-• Quand il tire avec la méthode « méditerranéenne », l’athlète peut utiliser un séparateur pour les
-doigts afin d’éviter de pincer la flèche.
-• Le string walking (pianotage ou point de repère sur la corde) et le face walking (point de repère sur
-le visage) ne sont pas autorisés.
+
+- une plaquette d'ancrage ou tout autre système attaché à la palette.
+  Prise de corde
+- L'arc doit être tendu en utilisant la prise "Méditerranéenne" (à 3 doigts : 1 doigt au-dessus et 2 doigts
+  au-dessous de la flèche) ou avec 3 doigts placés directement en-dessous de l'encoche de la flèche (l'index
+  ne doit pas être placé à plus de 2mm en-dessous de celle-ci) et 1 seul point d'ancrage fixe.
+- L'athlète doit choisir entre ces deux méthodes : "méditerranéenne" ou 3 doigts en-dessous, mais il
+  ne peut pas utiliser les deux.
+- La protection pour les 3 doigts en-dessous doit présenter une surface lisse ou des doigtiers reliés
+  entre eux sans possibilité de tirer les doigts écartés.
+- Quand il tire avec la méthode « méditerranéenne », l’athlète peut utiliser un séparateur pour les
+  doigts afin d’éviter de pincer la flèche.
+- Le string walking (pianotage ou point de repère sur la corde) et le face walking (point de repère sur
+  le visage) ne sont pas autorisés.
 
 B.3.9 LES JUMELLES, UNE LONGUE VUE OU D'AUTRES MOYENS OPTIQUES
 B.3.9.1 POUR TOUTES LES DIVISIONS
 Ces moyens peuvent être utilisés pour voir les impacts des flèches :
 B.3.9.1.1 : pourvu qu'ils ne soient pas un obstacle pour les autres archers sur la ligne de tir, en terme d'espace.
 B.3.9.1.2 : Les lunettes médicales, lunettes de tir et les lunettes de soleil sont autorisées.
-B.3.9.1.3 : Les verres de ces lunettes ne peuvent, en aucun cas, être munis de micro trous, ou de dispositifs
+B.3.9.1.3 : Les verres de ces lunettes ne peuvent, en aucun cas, être munis de micr- trous, ou de dispositifs
 semblables, ni comporter de marques pouvant servir d'aide à la visée.
 
 B.3.9.1.4 : Il est autorisé de recouvrir le verre de lunette, du côté de l'œil qui ne vise pas, d'un bandeau. Un
@@ -10285,8 +9816,6 @@ cette flèche n'ait pas rebondi (refus).
 B.4.4.2 : Le blason ou la cible tombe (bien qu'ayant été fixé à la satisfaction des arbitres). Les arbitres
 prendront les mesures qu'ils estiment nécessaires et donneront les compensations de temps voulues pour
 tirer les flèches restantes. Si la cible glisse simplement, les arbitres sont libres d'intervenir ou non.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               237
 
 Le Tir en Campagne Edition Février 2022
 B.4.5 : Les archers ne peuvent pas se communiquer les distances du parcours des inconnues pendant la
@@ -10405,8 +9934,6 @@ barrez cette valeur, la remplacer par un M et signer la feuille de marque en ind
 Dans les phase éliminatoires et finales en match, le temps de tir (défini au C.1.2) est décompté dès lors
 que l’arbitre a donné le "go" pour le départ (voir B.5.1.14 ci-dessus).
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               239
-
 Le Tir en Campagne Edition Février 2022
 Le temps limite de tir peut être étendu lors de circonstances exceptionnelles, sur décision de la
 Commission des arbitres.
@@ -10461,8 +9988,6 @@ de la zone de score la plus haute.
 B.6.2.1 : Ni les flèches, ni le blason ne doivent être touchés avant que toutes les flèches sur la cible n'aient
 été enregistrées et les scores contrôlés.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     240
-
 Le Tir en Campagne Edition Février 2022
 B.6.2.2 : Si 2 flèches ou plus, sont tirées dans le même blason de 20cm, elles doivent être considérées
 comme faisant partie de cette volée, mais uniquement la flèche ayant la valeur la plus basse sera
@@ -10499,11 +10024,12 @@ B.6.2.7.5 : Touchant le blason en dehors des zones marquantes sera enregistrée 
 
 B.6.3 : Dans l'éventualité d'une égalité dans les scores totaux, le départage se fait de la manière suivante :
 B.6.3.1 : Dans toutes les épreuves, sauf pour les égalités décrites en B.6.3.2 :
-• Individuels et équipes
-✓ plus grand nombre de 6
-✓ plus grand nombre de 5
-Si l'égalité subsiste, les compétiteurs sont déclarés ex-aequo. Mais pour des raisons de classement (par
-exemple la position dans le tableau pour les phases éliminatoires), un tirage au sort décidera de la place.
+
+- Individuels et équipes
+  ✓ plus grand nombre de 6
+  ✓ plus grand nombre de 5
+  Si l'égalité subsiste, les compétiteurs sont déclarés ex-aequo. Mais pour des raisons de classement (par
+  exemple la position dans le tableau pour les phases éliminatoires), un tirage au sort décidera de la place.
 
 B.6.3.2 : Pour le départage des égalités concernant :
 ✓ l'admission aux épreuves éliminatoires ;
@@ -10517,9 +10043,6 @@ B.6.3.2 : Pour le départage des égalités concernant :
       ✓ si l'égalité subsiste encore, on répète le barrage avec la flèche la plus près du centre jusqu'à
          résolution de l'égalité ;
       ✓ le temps limite pour un tir de barrage sera 1/3 du temps limite appliqué.
-
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               241
 
 Le Tir en Campagne Edition Février 2022
 B.6.3.2.2 ÉQUIPES
@@ -10579,8 +10102,6 @@ délégué technique.
 
 B.7.2.4 : Si la compétition devait être arrêtée à une autre étape, la dernière épreuve entièrement tirée
 déterminera les vainqueurs.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                   242
 
 Le Tir en Campagne Edition Février 2022
 B.7.2.5 : En cas de soleil aveuglant, une ombre protectrice, de la taille maximale d'une feuille de papier de
@@ -10642,8 +10163,6 @@ B.8.1.9 : Un archer qui persiste à utiliser une technique d’allonge considér
 sera immédiatement invité par le Président de la Commission des arbitres ou par le Directeur des tirs à
 arrêter le tir et quitter le terrain.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                243
-
 Le Tir en Campagne Edition Février 2022
 
 B.8.2 PERTE DE LA VALEUR DES FLECHES
@@ -10703,8 +10222,6 @@ B.9.1.2 : Vérifier toutes les distances, veiller à la bonne disposition des co
 Vérifier la taille des blasons et des cibles en fonction des distances, la hauteur au sol des blasons,
 l'orientation des buttes de tir selon le principe du tir en campagne.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 244
-
 Le Tir en Campagne Edition Février 2022
 B.9.1.3 : Contrôler tout l'équipement du terrain.
 
@@ -10763,8 +10280,6 @@ B.10.1.4 : Si un blason est trop abîmé ou s'il y a lieu de se plaindre de l'é
 ou les capitaines d'équipes, peuvent demander aux arbitres de faire remplacer ou de faire remédier aux
 défauts constatés.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               245
-
 Le Tir en Campagne Edition Février 2022
 B.10.2 : Les problèmes concernant le déroulement du tir ou le comportement d'un archer doivent être
 traités avant la prochaine étape de la compétition.
@@ -10780,8 +10295,6 @@ B.10.1 ci-dessus. L'appel doit avoir lieu avant le début d'une nouvelle étape 
 trophées qui sont l'objet du litige ne peuvent pas être remis avant que le jury d'appel n'ait délibéré et pris
 une décision.
 L'appel écrit doit se faire dans les 15 minutes après la fin de l'épreuve ou la phase de tir.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  246
 
 Le Tir en Campagne Edition Février 2022
 
@@ -10897,8 +10410,6 @@ C.1.3 : Un appareil de photographies peut être emporté. Son utilisation n’es
 la volée de 3 flèches terminée et lorsque le compétiteur a quitté le pas de tir. Ne sont permis que les
 appareils strictement photos, les autres appareils restent interdits, notamment les téléphones mobiles.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                250
-
 Le Tir en Campagne Edition Février 2022
 
 C.2 SELECTION POUR LE CHAMPIONNAT DE FRANCE ELITE OU LE CHAMPIONNAT DE
@@ -10923,29 +10434,32 @@ Certaines catégories pourront ne pas être ouvertes lors du championnat de Fran
 définis chaque année (quotas liés au classement national de la saison n-1).
 
 Les Juniors(U21) devront choisir :
-• Soit s’inscrire pour le championnat de France « jeunes »
-• Soit s’inscrire pour le championnat de France Elite « Toutes catégories »
-En aucun cas ils ne pourront participer aux 2 championnats.
+
+- Soit s’inscrire pour le championnat de France « jeunes »
+- Soit s’inscrire pour le championnat de France Elite « Toutes catégories »
+  En aucun cas ils ne pourront participer aux 2 championnats.
 
 C.3.2 LES PARCOURS
-• Epreuve de qualification (premier jour) : 1 parcours de 24 cibles comportant 12 postes à distances
-inconnues et 12 postes à distances connues, disposés selon l'article A.7.4 du Règlement du Tir en
-Campagne. Le panachage des cibles est autorisé.
-• Epreuves éliminatoires (deuxième jour) :
-3 boucles de 6 cibles à distances connues
-Chaque boucle doit contenir au moins un blason de chaque diamètre (20, 40, 60 et 80cm)
-La répartition est laissée au choix de l'organisateur
-Sur chaque cible, toutes les distances doivent être piquetées (courte, moyenne et longue)
-• Epreuves finales (deuxième jour) :
-1/2 finales et finales sur 4 cibles connues.
+
+- Epreuve de qualification (premier jour) : 1 parcours de 24 cibles comportant 12 postes à distances
+  inconnues et 12 postes à distances connues, disposés selon l'article A.7.4 du Règlement du Tir en
+  Campagne. Le panachage des cibles est autorisé.
+- Epreuves éliminatoires (deuxième jour) :
+  3 boucles de 6 cibles à distances connues
+  Chaque boucle doit contenir au moins un blason de chaque diamètre (20, 40, 60 et 80cm)
+  La répartition est laissée au choix de l'organisateur
+  Sur chaque cible, toutes les distances doivent être piquetées (courte, moyenne et longue)
+- Epreuves finales (deuxième jour) :
+  1/2 finales et finales sur 4 cibles connues.
 
 Pour les épreuves éliminatoires, utiliser les cibles des parcours de qualification de la veille, en alternant
 les parcours déjà tirés.
 Pour les 1/2 finales et les finales, installer 2 fois 4 cibles à distances connues, si possible en continu.
 
 C.3.2.1 : CHRONOMETRAGE
-• Lors de la phase de qualification cf C.1.2
-• Lors des phases éliminatoires et finales (matchs) : cf B.5.1.14 et C.1.2
+
+- Lors de la phase de qualification cf C.1.2
+- Lors des phases éliminatoires et finales (matchs) : cf B.5.1.14 et C.1.2
 
 C.3.3 LE DEROULEMENT
 
@@ -10958,11 +10472,9 @@ Les compétiteurs montant sur le podium sont connus à l'issue du dernier duel e
 des médailles se fait immédiatement.
 Les résultats peuvent être saisis à la fin ou pendant la phase en cours pour la phase précédente.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 251
-
 Le Tir en Campagne Edition Février 2022
 
-    • Entraînement
+    - Entraînement
 
 Aucun entraînement n'est autorisé sur le parcours de la compétition. Un terrain d'entraînement est érigé
 à proximité pour l'entraînement officiel, la veille du championnat.
@@ -10970,18 +10482,18 @@ Avant le début des tirs, le jour du championnat, ainsi qu'avant les phases éli
 cibles d'entraînement seront mises à la disposition des concurrents à proximité de la zone de
 rassemblement.
 
-• Phase éliminatoire
-La phase éliminatoire se tire sur des boucles de 6 cibles connues (voir tableau ci-dessous).
-L'ordre des cibles est à la discrétion de l’organisateur.
+- Phase éliminatoire
+  La phase éliminatoire se tire sur des boucles de 6 cibles connues (voir tableau ci-dessous).
+  L'ordre des cibles est à la discrétion de l’organisateur.
 
-                               TABLEAUX DISTANCES BOUCLE 6 CIBLES
-          N° de cibles            Diamètre de blason    Piquet bleu                  Piquet rouge
-               1                        Ø20              10 ou 15                      15 ou 20
-               2                        Ø40              15 ou 20                      20 ou 25
-               3                        Ø40              20 ou 25                      25 ou 30
-               4                        Ø60              30 ou 35                      35 ou 40
-               5                        Ø60              35 ou 40                      40 ou 45
-               6                        Ø80              40 ou 45                      50 ou 55
+                                 TABLEAUX DISTANCES BOUCLE 6 CIBLES
+            N° de cibles            Diamètre de blason    Piquet bleu                  Piquet rouge
+                 1                        Ø20              10 ou 15                      15 ou 20
+                 2                        Ø40              15 ou 20                      20 ou 25
+                 3                        Ø40              20 ou 25                      25 ou 30
+                 4                        Ø60              30 ou 35                      35 ou 40
+                 5                        Ø60              35 ou 40                      40 ou 45
+                 6                        Ø80              40 ou 45                      50 ou 55
 
 Suite aux qualifications et pour chaque catégorie :
 
@@ -11014,24 +10526,22 @@ A l'issue de ces 4 matchs :
 - le vainqueur du groupe B rencontre le vainqueur du groupe C, le gagnant ira en 1/2 finale contre le 1er
   des qualifications
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©            252
-
   Le Tir en Campagne Edition Février 2022
 
-  • Phases finales - 1/2 finales
-  Les 4 sélectionnés précédemment, dans chaque catégorie tirent en duels sur le module de 4 cibles,
-  distances connues, suivant :
+  - Phases finales - 1/2 finales
+    Les 4 sélectionnés précédemment, dans chaque catégorie tirent en duels sur le module de 4 cibles,
+    distances connues, suivant :
 
-                                    Distances 1/2 finales et finales
-      n° de cibles      diamètre blason       piquet blanc         piquet bleu        piquet rouge
-           1                  Ø20                  15                  15                   20
-           2                  Ø40                  20                  25                   30
-           3                  Ø60                  25                  35                   40
-           4                  Ø80                  35                  45                   55
-           1                  Ø20                  10                  10                   15
-           2                  Ø40                  15                  20                   25
-           3                  Ø60                  30                  40                   45
-           4                  Ø80                  40                  50                   60
+                                      Distances 1/2 finales et finales
+        n° de cibles      diamètre blason       piquet blanc         piquet bleu        piquet rouge
+             1                  Ø20                  15                  15                   20
+             2                  Ø40                  20                  25                   30
+             3                  Ø60                  25                  35                   40
+             4                  Ø80                  35                  45                   55
+             1                  Ø20                  10                  10                   15
+             2                  Ø40                  15                  20                   25
+             3                  Ø60                  30                  40                   45
+             4                  Ø80                  40                  50                   60
 
 Les duels se tirent, pour chaque catégorie, en rotation normale. L'archer ayant le score le plus élevé de la
 phase de qualification tire du piquet de gauche :
@@ -11053,25 +10563,23 @@ C.3.4 LE DEPARTAGE DES EGALITES
 Toutes les égalités seront résolues selon le règlement du tir en campagne (articles B.6.3.2.1 et
 B.6.3.2.2.)
 
-• Phase de qualification :
-En cas d'égalité de points pour les 2e et 3e places à l'issue de la phase de qualification, - tir de barrage sur une cible installée à cet effet près de la zone centrale, à la distance maximale
-pour chaque division d'arc.
+- Phase de qualification :
+  En cas d'égalité de points pour les 2e et 3e places à l'issue de la phase de qualification, - tir de barrage sur une cible installée à cet effet près de la zone centrale, à la distance maximale
+  pour chaque division d'arc.
 
-• Phase éliminatoire :
-tir de barrage sur la dernière cible du module tiré par les archers en duels
+- Phase éliminatoire :
+  tir de barrage sur la dernière cible du module tiré par les archers en duels
 
-• Phase finale :
-1/2 finales : tir de barrage sur la dernière cible du module tiré par les archers en duels.
-Finales pour les médailles.
-En cas d'égalité de points lors des finales pour les médailles, tir de barrage sur une cible
-spécialement installée à cet effet, près de la zone centrale, à la distance maximale pour chaque
-division d'arc.
+- Phase finale :
+  1/2 finales : tir de barrage sur la dernière cible du module tiré par les archers en duels.
+  Finales pour les médailles.
+  En cas d'égalité de points lors des finales pour les médailles, tir de barrage sur une cible
+  spécialement installée à cet effet, près de la zone centrale, à la distance maximale pour chaque
+  division d'arc.
 
 C.3.5 LES TITRES DECERNES
 Le titre de CHAMPION DE FRANCE ELITE DE TIR EN CAMPAGNE est décerné dans chacune des
 catégories qui apparaît dans le tableau officiel des qualifications.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              253
 
 Le Tir en Campagne Edition Février 2022
 
@@ -11117,8 +10625,6 @@ n'y aura plus de deux archers du même club dans le même peloton.
 
 C.6 Le rôle du Délégué Technique FFTA
 Cf B.5.2 des Règlements Généraux
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              254
 
 Le Tir en Campagne Edition Février 2022
 
@@ -11173,18 +10679,16 @@ des impacts. Il peut utiliser des jumelles avec les mêmes restrictions que pour
 compétition.
 ✓ Il est responsable de son équipe : - en ce qui concerne la tenue vestimentaire et l’équipement (arc, flèches,...) - il accompagne son équipe au contrôle du matériel - en cas de désaccord, il peut déposer un recours devant le Jury d’Appel
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               255
-
 Le Tir en Campagne Edition Février 2022
 
-• Procédure d’inscription des équipes
-Lors du Championnat de France par équipes, un club ne peut être représenté que par une seule équipe
-hommes et une seule équipe femmes.
-La composition de l’équipe, transmise à la FFTA lors de l’inscription, peut être modifiée avant le début du
-championnat (dépôt de la composition de l’équipe au Greffe).
-Si une ou des équipes sont absentes le jour du championnat, il ne sera pas fait appel à une ou des équipes
-complémentaires.
-Transferts et surclassement : voir la règle dans les Règlements Généraux en C.3.3.
+- Procédure d’inscription des équipes
+  Lors du Championnat de France par équipes, un club ne peut être représenté que par une seule équipe
+  hommes et une seule équipe femmes.
+  La composition de l’équipe, transmise à la FFTA lors de l’inscription, peut être modifiée avant le début du
+  championnat (dépôt de la composition de l’équipe au Greffe).
+  Si une ou des équipes sont absentes le jour du championnat, il ne sera pas fait appel à une ou des équipes
+  complémentaires.
+  Transferts et surclassement : voir la règle dans les Règlements Généraux en C.3.3.
 
 D.3.3 L’ENTRAÎNEMENT OFFICIEL
 La veille du Championnat, l'organisateur doit prévoir un terrain sur lequel seront installés des pas de tir en
@@ -11232,8 +10736,6 @@ aux mêmes postes que les adultes.
 
 D.3.5.2 RESERVE
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                256
-
 Le Tir en Campagne Edition Février 2022
 
 D.3.5.3 TABLEAU DES DISTANCES EN 1/8, 1/4, 1/2 ET FINALES
@@ -11253,43 +10755,43 @@ D.3.5.4 DISPOSITIONS PARTICULIERES POUR LES 1/8, 1/4, 1/2 ET FINALES
 Module de 8 ou 4 cibles selon le tableau ci-dessus.
 Les matchs se tirent simultanément, sur leurs parcours respectifs de 8 cibles pour les 1/8, 1/4 et 4
 cibles pour les 1/2. L’ordre des cibles est au gré de l’organisateur.
-• Finales
-Module de 4 cibles suivant le tableau, la dernière étant celle de 80cm.
-La finale pour le bronze se tire en premier, la finale pour l’or en second.
+
+- Finales
+  Module de 4 cibles suivant le tableau, la dernière étant celle de 80cm.
+  La finale pour le bronze se tire en premier, la finale pour l’or en second.
 
 D.3.5.5 L’ORDRE DE TIR
 Chaque groupe est composé de 2 équipes soit 6 archers. Les équipes tirent l’une après l’autre.
 D.3.5.5.1 LE TIR DE QUALIFICATION
-• Tir sur blasons uniques : les équipes tirent l’une après l’autre. Chaque équipe tire ses 9 flèches dans
-le blason.
 
-• Tir sur les blasons de Ø 40 cm : les équipes tirent l’une après l’autre. Les blasons de 40 cm sont
-placés sous forme de carré. Chaque équipe tire ses 9 flèches indistinctement dans sa colonne.
+- Tir sur blasons uniques : les équipes tirent l’une après l’autre. Chaque équipe tire ses 9 flèches dans
+  le blason.
 
-• Tir sur les blasons de Ø 20 cm : les équipes tirent l’une après l’autre. Les blasons sont disposés en
-6 colonnes de 3, sur 2 buttes distinctes. Les 3 premières colonnes à partir de la gauche sont
-attribuées à l’équipe qui commence le tir, les 3 dernières sont attribuées à l’équipe qui termine le tir.
-Les archers de chaque équipe tirent leurs 3 flèches dans le blason de leur choix des 3 colonnes
-attribuées à leur équipe.
-D.3.5.5.2 1/8, 1/4, 1/2 ET FINALES
-• Tir sur blasons uniques : les équipes tirent l’une après l’autre. Chaque équipe tire ses 3 flèches (une
-par archer).
-• Tir sur les blasons de Ø 40 cm : les équipes tirent l’une après l’autre. Il y a 2 blasons de 40 cm sur
-chaque butte. Chaque équipe tire ses 3 flèches (une par archer) dans sa colonne.
-• Tir sur les blasons de Ø 20 cm : les équipes tirent l’une après l’autre. Il y a 2 colonnes de 3 blasons
-par butte, espacées par une distance de 20 cm minimum. Chaque équipe tire ses 3 flèches (une par
-archer) dans sa colonne.
-•
-D.3.5.6 LA ROTATION
-L’organisateur aménagera les postes de tir pour que 2 compétiteurs de la même équipe puissent tirer
-simultanément lors des tirs de qualification. Il y a rotation des équipes du début à la fin.
+- Tir sur les blasons de Ø 40 cm : les équipes tirent l’une après l’autre. Les blasons de 40 cm sont
+  placés sous forme de carré. Chaque équipe tire ses 9 flèches indistinctement dans sa colonne.
+
+- Tir sur les blasons de Ø 20 cm : les équipes tirent l’une après l’autre. Les blasons sont disposés en
+  6 colonnes de 3, sur 2 buttes distinctes. Les 3 premières colonnes à partir de la gauche sont
+  attribuées à l’équipe qui commence le tir, les 3 dernières sont attribuées à l’équipe qui termine le tir.
+  Les archers de chaque équipe tirent leurs 3 flèches dans le blason de leur choix des 3 colonnes
+  attribuées à leur équipe.
+  D.3.5.5.2 1/8, 1/4, 1/2 ET FINALES
+- Tir sur blasons uniques : les équipes tirent l’une après l’autre. Chaque équipe tire ses 3 flèches (une
+  par archer).
+- Tir sur les blasons de Ø 40 cm : les équipes tirent l’une après l’autre. Il y a 2 blasons de 40 cm sur
+  chaque butte. Chaque équipe tire ses 3 flèches (une par archer) dans sa colonne.
+- Tir sur les blasons de Ø 20 cm : les équipes tirent l’une après l’autre. Il y a 2 colonnes de 3 blasons
+  par butte, espacées par une distance de 20 cm minimum. Chaque équipe tire ses 3 flèches (une par
+  archer) dans sa colonne.
+  •
+  D.3.5.6 LA ROTATION
+  L’organisateur aménagera les postes de tir pour que 2 compétiteurs de la même équipe puissent tirer
+  simultanément lors des tirs de qualification. Il y a rotation des équipes du début à la fin.
 
 D.3.5.6.1 : Il y a rotation pour l'ordre de tir des équipes constituant le peloton. L'équipe, tirée au sort en
 premier, commencera à la première cible tirée et ensuite s'appliquera la rotation.
 Les tireurs de l'équipe effectuant leur tir en premier tireront sur la ou les colonne(s) les plus à gauche s'il y
 a 1 cible ou sur les colonnes de la cible de gauche s'il y a 2 cibles.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 257
 
 Le Tir en Campagne Edition Février 2022
 
@@ -11310,7 +10812,7 @@ D.3.6.1.1 RESERVE
 
 D.3.6.1.2 1/8, 1/4 ET FINALES
 
-Le juge accompagnant le groupe commencera et stoppera le tir verbalement (GO pour commencer et
+Le juge accompagnant le groupe commencera et stoppera le tir verbalement (G- pour commencer et
 STOP quand les 3 minutes seront écoulées). Le juge montrera un carton jaune comme avertissement
 quand il restera 30 secondes de tir. Aucun tir ne sera permis après que les 3 minutes se soient écoulées
 et que le juge ait arrêté le tir. Si un archer d’une équipe tire une flèche après que le juge ait arrêté le tir, la
@@ -11385,10 +10887,9 @@ Elle reçoit la médaille d’or et le trophée.
 L’équipe classée seconde reçoit la médaille d’argent, la troisième la médaille de bronze
 
 Organisation du Championnat de France l’année suivante :
-• Années paires : club gagnant de l’équipe hommes
-• Années impaires : club gagnant de l’équipe femmes
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               259
+- Années paires : club gagnant de l’équipe hommes
+- Années impaires : club gagnant de l’équipe femmes
 
 Le Tir en Campagne Edition Février 2022
 
@@ -11401,8 +10902,9 @@ Installation des modules de phases finales – Tableau des matchs.
 
 ANNEXE 2
 Exemple de feuilles de marque :
-• Qualification du 1er jour
-• Finales du 2ème jour
+
+- Qualification du 1er jour
+- Finales du 2ème jour
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         260
 
@@ -11465,8 +10967,6 @@ B.6 Les temps de tir
 B.7 Le marquage des scores
 B.8 Le classement par catégories et le départage des
 ex aequo
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©            264
 
 Le Parcours Nature Edition Février 2022
 
@@ -11594,8 +11094,6 @@ personnelle, relative au parcours et au tir, manuscrite ou numérique, durant la
 interdite. Cependant, l’affichage des réglages, concernant les distances, sur la réglette du viseur, en division
 Tir Libre, est autorisé.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  266
-
 Le Parcours Nature Edition Février 2022
 ➢ A.3.1.15 LA TENUE DES ARCHERS
 Durant les parcours, des vêtements et des chaussures adaptés doivent être portés.
@@ -11653,8 +11151,6 @@ L'arc non tendu, complet avec les accessoires autorisés doit pouvoir passer par
 de 12,2cm de diamètre intérieur, tolérance de + ou – 0,5mm.
 La longueur et la puissance sont indifférentes.
 Aucun accessoire autre que ceux définis précédemment ne sont autorisés
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                267
 
 Le Parcours Nature Edition Février 2022
 
@@ -11715,8 +11211,6 @@ l'arc. L'arc peut être démontable en deux parties de longueur égale (séparat
 poignée/zone du repose-flèche) et peut être fait de n'importe quel type de matériel ou d'une combinaison
 de matériaux. La forme de la poignée (zone de la poignée seulement) est sans restriction. La fenêtre de
 l'arc peut permettre le tir par le centre. L'arc doit être libre de saillies, marques, défauts ou pièces (dans la
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    268
 
 Le Parcours Nature Edition Février 2022
 zone de la fenêtre de l'arc) qui pourraient aider à la visée. La taille et la puissance de l’arc sont libres. Ces
@@ -11779,8 +11273,6 @@ Il s'agit d'un arc classique ou à poulies tels que définis plus haut.
 Corde :
 Il n'y a aucune restriction concernant la corde dans cette catégorie.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               269
-
 Le Parcours Nature Edition Février 2022
 Repose flèche et contrôleur d’allonge :
 Un repose flèche réglable ou n'importe quel bouton de pression mobile ou écarteur de flèche,
@@ -11840,8 +11332,6 @@ Aucun viseur n’est accepté.
 
 Flèche :
 Il n’y a pas de poids minimal de flèches.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                    270
 
 Le Parcours Nature Edition Février 2022
 Protection des doigts de corde :
@@ -12020,8 +11510,6 @@ Petits Animaux Entre 5 et 15 mètres 15 mètres maxi 15 mètres maxi
 - Pour un parcours de 21 cibles, le total des distances séparant le pas rouge des cibles sera dans une
   fourchette de 525 à 550m.
 
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              273
-
   Le Parcours Nature Edition Février 2022
   B.5 LES CIBLES
   B.5.1 NOMBRE DE CIBLES :
@@ -12055,8 +11543,6 @@ Ils comportent obligatoirement 2 zones :
 
 Quatre catégories sont définies d'après leurs grandes zones "tué".
 La tolérance de traçage est de + ou –2mm.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  274
 
 Le Parcours Nature Edition Février 2022
 
@@ -12096,16 +11582,15 @@ Benjamins(U13) qui doivent tirer leurs deux flèches dans le blason avec une mar
 
 B.5.5 CREATION DE BLASONS, REGLES D’HOMOLOGATIONS DES BLASONS PARCOURS NATURE
 ➢ B.5.5.1 DEFINITION DES SURFACES DES ZONES BLESSEE SUIVANT LE TYPE DE GIBIERS :
-o Petits Animaux : la surface de la zone blessée doit être comprise entre 4 et 15 fois la surface
-de la zone tuée ronde. Soit entre 176cm² et 660 cm²
-o Petits Gibiers : la surface de la zone blessée doit être comprise entre 4 et 9 fois la surface de
-la zone tuée ronde. Soit entre 704cm² et 1584 cm²
-o Moyens Gibiers : la surface de la zone blessée doit être comprise entre 4 et 9 fois la surface
-de la zone tuée ronde. Soit entre 1590 cm² et 3582 cm²
-o Grands Gibiers : la surface de la zone blessée doit être au minimum de 4 fois la surface de la
-zone tué ronde. Soit 2828 cm² minimum.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               275
+- Petits Animaux : la surface de la zone blessée doit être comprise entre 4 et 15 fois la surface
+  de la zone tuée ronde. Soit entre 176cm² et 660 cm²
+- Petits Gibiers : la surface de la zone blessée doit être comprise entre 4 et 9 fois la surface de
+  la zone tuée ronde. Soit entre 704cm² et 1584 cm²
+- Moyens Gibiers : la surface de la zone blessée doit être comprise entre 4 et 9 fois la surface
+  de la zone tuée ronde. Soit entre 1590 cm² et 3582 cm²
+- Grands Gibiers : la surface de la zone blessée doit être au minimum de 4 fois la surface de la
+  zone tué ronde. Soit 2828 cm² minimum.
 
 Le Parcours Nature Edition Février 2022
 ➢ B.5.5.2 REGLES PARTICULIERES
@@ -12121,7 +11606,7 @@ Le Parcours Nature Edition Février 2022
 
 - Il n’y a pas obligation d’un format identique de support par type de gibier. Les photos d’animaux de
   forme humanoïde sont interdites.)
-- La photo de l’animal devra être nette (sans bavures, sans pixellisation).
+- La phot- de l’animal devra être nette (sans bavures, sans pixellisation).
 
 ➢ B.5.5.3 LES INFORMATIONS A TRANSMETTRE LORS DE LA DEMANDE D’HOMOLOGATION
 Fournir un tirage papier en grandeur réelle de chaque blason faisant la demande d’homologation.
@@ -12130,14 +11615,15 @@ moyens de production.
 Le papier devra être de bonne qualité (ne pas se déchirer lors du collage sur un support, résistant à
 l’eau,…)
 Fournir un fichier informatique des blasons par catégorie comportant :
-o La référence fournisseur du blason
-o La photographie
-o La surface zone blessée
-o Le ratio zone blessée/zone tuée
-o Un répertoire de l’ensemble des blasons avec les zones blessées et tuées, tracées, sur
-lesquelles la commission pourra effectuer les mesures pour vérification des ratios.
 
-              Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              276
+- La référence fournisseur du blason
+- La photographie
+- La surface zone blessée
+- Le rati- zone blessée/zone tuée
+- Un répertoire de l’ensemble des blasons avec les zones blessées et tuées, tracées, sur
+  lesquelles la commission pourra effectuer les mesures pour vérification des ratios.
+
+                Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              276
 
 Le Parcours Nature Edition Février 2022
 B.6 TEMPS DE TIR
@@ -12175,13 +11661,14 @@ B.7 LE MARQUAGE DES SCORES
 B.8 LE CLASSEMENT PAR CATEGORIES ET LE DEPARTAGE DES EX ÆQUO
 Le classement doit être dégressif en partant du score le plus élevé.
 En cas d'égalité entre deux archers, ceux-ci sont départagés comme suit :
-• au nombre de 35 points réalisés (en faisant 20 points + 15 points)
-• au nombre de 30 points réalisés (en faisant 20 points + 10 points)
-• au nombre de 30 points réalisés (en faisant 15 points + 15 points)
-• au nombre de 25 points réalisés (en faisant 15 points + 10 points)
-• au nombre de 20 points
-• au nombre de 15 points
-• au nombre de 10 points
+
+- au nombre de 35 points réalisés (en faisant 20 points + 15 points)
+- au nombre de 30 points réalisés (en faisant 20 points + 10 points)
+- au nombre de 30 points réalisés (en faisant 15 points + 15 points)
+- au nombre de 25 points réalisés (en faisant 15 points + 10 points)
+- au nombre de 20 points
+- au nombre de 15 points
+- au nombre de 10 points
 
                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                277
 
@@ -12242,8 +11729,6 @@ Si un archer doit se rendre, pour quelque raison que ce soit, au terrain d'écha
 l'autorisation au Président de la Commission des Arbitres du championnat. Les contrevenants seront
 avertis : en cas de non-obtempération ou de récidive, expulsion du terrain et disqualification.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              278
-
 Le Parcours Nature Edition Février 2022
 C.1.7 RESOLUTION DES EGALITES :
 ➢ C.1.7.1 EN CAS D'EGALITE :
@@ -12272,9 +11757,10 @@ des 3 meilleurs archers du même club tirant le même jour, le même concours) e
 archers.
 Nombre de scores pour la sélection au Championnat de France Parcours Nature par équipe de Club : 2
 Le classement est établi sur le total des 3 meilleurs scores réalisés à condition qu’il y ait
-o un arc nu (B.B.) ou un arc de chasse
-o un arc droit
-o un arc à poulies nu ou un arc tir libre
+
+- un arc nu (B.B.) ou un arc de chasse
+- un arc droit
+- un arc à poulies nu ou un arc tir libre
 
 Ce Championnat de France par équipes de clubs concerne toutes les catégories de compétiteurs ouvertes
 à l'article A.2 LES CATEGORIES DES TIREURS du présent règlement, chaque compétiteur tirant au pas de tir
@@ -12305,8 +11791,6 @@ Le Capitaine d’Equipe est responsable :
 - il accompagne son équipe lors du contrôle du matériel ;
 - il a un devoir de sécurité pour lui-même et son équipe.
   En cas de désaccord, il devra déposer un recours devant le Jury d’Appel.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               279
 
   Le Parcours Nature Edition Février 2022
   Le capitaine d’équipe doit être licencié (pas forcément dans la même structure FFTA que celle de son
@@ -12369,8 +11853,6 @@ Les dépassements de temps sont gérés en termes d’équipes. Un (1) dépassem
 sanction, est accordé à l’équipe par parcours de 21 cibles. Un arbitre, ayant observé un archer dépassant
 le temps limite imparti, l’avertira par une note signée sur la feuille de marque de l’équipe en indiquant l’heure
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 280
-
 Le Parcours Nature Edition Février 2022
 de l’avertissement. Au second ou tout autre avertissement écrit suivant, lors de cette compétition,
 entraînera l'annulation d’autant de meilleures flèches en cibles que de flèches tirées hors délai.
@@ -12408,11 +11890,6 @@ Les équipes de Club gagnantes reçoivent le titre de :
         - CHAMPIONNE DE FRANCE DE PARCOURS NATURE PAR EQUIPE DE CLUB FEMMES
         - CHAMPIONNE DE FRANCE DE PARCOURS NATURE PAR EQUIPE DE CLUB HOMMES
 
-
-
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                281
-
 Le Parcours Nature Edition Février 2022
 C.3 LES ANNEXES
 
@@ -12423,14 +11900,10 @@ ANNEXE 1 : Exemple de feuille de marque
 1.1 : Pour le tir individuel
 1.2 : Pour le tir par équipe
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         282
-
 Le Parcours Nature Edition Février 2022
 Annexe 1 :
 1.1 Pour le tir Individuel :
-Feuille de marque pour les qualifications individuelles sur concours qualificatif : Edition Recto Verso
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                283
+Feuille de marque pour les qualifications individuelles sur concours qualificatif : Edition Rect- Verso
 
 Nom Nom
 Prénom Prénom
@@ -12481,7 +11954,7 @@ Edition Février 2022
 
 284
  CHAMPIONNAT DE France TIR NATURE PAR EQUIPE DE CLUB
-logo club
+log- club
 CLUB : EQUIPE : HOMME / FEMMES
 
                                                                             N°     Noter en premier tous les 20, puis tous les 15 et tous les 10.   Total                                          Dépass/
@@ -12556,8 +12029,6 @@ B.6 Les temps de tir
 B.7 Le marquage des scores
 B.8 Le classement par catégories et le départage des
 ex æquo
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             286
 
 Le Tir sur Cibles 3D Edition Février 2022
 A. GENERALITES
@@ -12917,8 +12388,6 @@ Seul est autorisé un tapis d’arc, posé directement sur la fenêtre d’origi
 tapis de fenêtre est libre, la hauteur maximum autorisée est de 3cm. Aucun autre type de repose flèche
 n’est autorisé. Les contrôleurs d’allonge sont interdits.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               292
-
 Le Tir sur Cibles 3D Edition Février 2022
 Stabilisateur :
 Un seul amortisseur ou contre poids, ayant une longueur linéaire maximale de 13cm mesurée
@@ -13123,21 +12592,24 @@ Le choix des cibles et des distances est laissé à l’initiative de l’organi
 Il existe 4 groupes de cibles 3D, répartis suivant la formule suivante :
 Surface elliptique de la zone 8 x diamètre de la zone 10
 Avec le calcul de la surface elliptique = π x demi grand axe x demi petit axe
-• Groupe 1 : ≥ 9000
-• Groupe 2 : 5000 à 8999
-• Groupe 3 : 2000 à 4999
-• Groupe 4 : 300 à 1999
+
+- Groupe 1 : ≥ 9000
+- Groupe 2 : 5000 à 8999
+- Groupe 3 : 2000 à 4999
+- Groupe 4 : 300 à 1999
 
 Fourchette de distance :
-• Pas rouge : 10 à 45m
-• Pas bleu : 5 à 30m
-• Pas blanc : 5 à 25m
+
+- Pas rouge : 10 à 45m
+- Pas bleu : 5 à 30m
+- Pas blanc : 5 à 25m
 
 Pour 24 cibles :
 Les parcours doivent comporter des animaux de tailles variées à des distances variées et le cumul des
 distances du piquet à la cible :
-• Piquet bleu : doit se situer dans une fourchette de 490 à 520m
-• Piquet rouge : doit se situer dans une fourchette de 630 à 670m
+
+- Piquet bleu : doit se situer dans une fourchette de 490 à 520m
+- Piquet rouge : doit se situer dans une fourchette de 630 à 670m
 
 Les photographies des différents gibiers doivent être affichées globalement au greffe ou au piquet
 d’attente au choix de l’organisateur.
@@ -13217,13 +12689,14 @@ Pour chacune des flèches :
 Lors d’une compétition, il ne peut y avoir qu’une seule zone marquante (zone « tué » et zone « blessé »)
 sur un animal. La zone en question est celle qui est visible dans sa totalité du pas de tir.
 
-B.8 LE CLASSEMENT PAR CATEGORIES ET LE DEPARTAGE DES EX ÆQUO :
+B.8 LE CLASSEMENT PAR CATEGORIES ET LE DEPARTAGE DES EX ÆQU- :
 Le classement doit être dégressif en partant du score le plus élevé.
 En cas d’égalité entre deux archers, ceux-ci sont départagés comme suit :
-• au nombre de 11
-• au nombre de 10
-• au nombre de 8
-• au nombre de 5
+
+- au nombre de 11
+- au nombre de 10
+- au nombre de 8
+- au nombre de 5
 
                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©           298
 
@@ -13285,9 +12758,6 @@ Suite aux qualifications et pour chaque catégorie :
                      11e                  13e                  12e                  14e
                      18e                  16e                  17e                  15e
                      19e                  21e                  20e                  22e
-
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               299
 
   Le Tir sur Cibles 3D Edition Février 2022
   Dans chaque groupe, il est procédé à un système de match-process.
@@ -13402,9 +12872,10 @@ les jeunes tirant à leur pas de tir habituel.
 Nombre de scores pour la sélection au Championnat de France par équipe de Club : 2
 Le classement est établi sur le total du meilleur score de chacune des catégories (présence obligatoire
 le même jour au même concours) :
-o un arc nu (B.B.) ou un arc de chasse
-o un arc droit
-o un arc à poulies nu ou un arc tir libre
+
+- un arc nu (B.B.) ou un arc de chasse
+- un arc droit
+- un arc à poulies nu ou un arc tir libre
 
 Un score de qualification pour le Championnat de France par équipe de clubs doit être fait sur un
 parcours de 24 cibles.
@@ -13420,13 +12891,14 @@ distances entre 5 et 45m.
 C.3.3 LE DEROULEMENT DU CHAMPIONNAT :
 L’épreuve de qualification est une épreuve de tir 3D de 24 cibles (2 parcours doivent être installés).
 Seules les équipes sélectionnées peuvent prendre part à l’épreuve de qualification.
-• les 16 premières équipes masculines et féminines font des phases finales (8ème de finale sur 8 cibles,
-¼ de finale, ½ finale et finale sur 4 cibles) en duel.
-• les équipes classées de la 17ème place à la dernière place pour les hommes et les femmes tirent
-24 cibles. Le classement définitif se fera selon les scores du 2ème jour.
-Chaque compétiteur tire 2 flèches du pas de tir de sa division d’arc. Si une équipe (ou plusieurs)
-déclare(nt) son (leur) intention de ne pas participer aux phases finales après proclamation des résultats
-du tir de qualification, il ne sera pas fait de repêchage.
+
+- les 16 premières équipes masculines et féminines font des phases finales (8ème de finale sur 8 cibles,
+  ¼ de finale, ½ finale et finale sur 4 cibles) en duel.
+- les équipes classées de la 17ème place à la dernière place pour les hommes et les femmes tirent
+  24 cibles. Le classement définitif se fera selon les scores du 2ème jour.
+  Chaque compétiteur tire 2 flèches du pas de tir de sa division d’arc. Si une équipe (ou plusieurs)
+  déclare(nt) son (leur) intention de ne pas participer aux phases finales après proclamation des résultats
+  du tir de qualification, il ne sera pas fait de repêchage.
 
 Pour les demi-finales, les équipes masculines tirent en premier suivies des équipes féminines. Cet ordre
 est inversé pour les finales. Pour l’attribution des médailles, le match pour le bronze sera tiré en premier
@@ -13458,29 +12930,30 @@ tirées hors délai sera effectuée par l’arbitre.
 
 C.3.7 RESOLUTION DES EGALITES :
 Dans l’éventualité d’une égalité dans les scores totaux, le départage se fera de la manière suivante :
-• Pour le classement, excepté pour les égalités décrites plus loin
-A l’issue de la phase de qualification et du tir de classement :
 
-                 o    plus grand nombre de 11
-                 o    plus grand nombre de 10
-                 o    plus grand nombre de 8
-                 o    plus grand nombre de 5
+- Pour le classement, excepté pour les égalités décrites plus loin
+  A l’issue de la phase de qualification et du tir de classement :
 
-• Exceptions :
-Le départage des égalités, pour entrer dans les phases finales, pour la progression d’une étape à l’autre
-de la compétition ou pour l’attribution de médailles, doit se faire par des tirs de barrage, sans prendre
-en considération le nombre de 11 et 10.
+                   -    plus grand nombre de 11
+                   -    plus grand nombre de 10
+                   -    plus grand nombre de 8
+                   -    plus grand nombre de 5
+
+- Exceptions :
+  Le départage des égalités, pour entrer dans les phases finales, pour la progression d’une étape à l’autre
+  de la compétition ou pour l’attribution de médailles, doit se faire par des tirs de barrage, sans prendre
+  en considération le nombre de 11 et 10.
 
 Lors des phases finales :
 
-• Tir de barrage
-En cas d'égalité à l'issue d'un duel :
-✓ Un tir de barrage d'une série de 3 flèches (1 par archer) est effectué. Chaque archer de l'équipe tire
-du pas de tir de sa catégorie. Les archers peuvent tous monter au pas de tir rouge en même temps. Le
-plus haut total de points gagne le duel.
-✓ Si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante.
-✓ Si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) flèche est la plus près du centre, sera
-déclarée gagnante.
+- Tir de barrage
+  En cas d'égalité à l'issue d'un duel :
+  ✓ Un tir de barrage d'une série de 3 flèches (1 par archer) est effectué. Chaque archer de l'équipe tire
+  du pas de tir de sa catégorie. Les archers peuvent tous monter au pas de tir rouge en même temps. Le
+  plus haut total de points gagne le duel.
+  ✓ Si l'égalité subsiste, l'équipe ayant la flèche la plus près du centre sera déclarée gagnante.
+  ✓ Si l'égalité subsiste, l'équipe, dont la deuxième (ou la troisième) flèche est la plus près du centre, sera
+  déclarée gagnante.
 
 Le temps limite pour un tir de barrage par équipes sera de 2 minutes. Les tirs de barrage se feront sur
 des cibles spécialement désignées à cet effet. Une cible de barrage spécifique sera implantée pour
@@ -13489,14 +12962,15 @@ chaque phase de la compétition.
 C.3.8 LES TITRES DECERNES :
 Les équipes de Club gagnantes reçoivent le titre de :
 
-• ÉQUIPE DE CLUB MASCULINE CHAMPIONNE DE FRANCE DE TIR SUR CIBLES 3D
-• ÉQUIPE DE CLUB FEMININE CHAMPIONNE DE FRANCE DE TIR SUR CIBLES 3D
-Elle reçoit la médaille d’or et le trophée.
-L’équipe classée seconde reçoit la médaille d’argent, la troisième la médaille de bronze.
+- ÉQUIPE DE CLUB MASCULINE CHAMPIONNE DE FRANCE DE TIR SUR CIBLES 3D
+- ÉQUIPE DE CLUB FEMININE CHAMPIONNE DE FRANCE DE TIR SUR CIBLES 3D
+  Elle reçoit la médaille d’or et le trophée.
+  L’équipe classée seconde reçoit la médaille d’argent, la troisième la médaille de bronze.
 
 Organisation du Championnat de France l’année suivante :
-o Années paires : club gagnant de l’équipe masculine
-o Années impaires : club gagnant de l’équipe féminine
+
+- Années paires : club gagnant de l’équipe masculine
+- Années impaires : club gagnant de l’équipe féminine
 
                 Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               303
 
@@ -13510,12 +12984,10 @@ ANNEXE 1 : Exemple de feuille de marque
 1.1 : Pour le tir individuel
 1.2 : Pour le tir par équipe
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©        304
-
 NOM Prénom NOM Prénom
 Annexe 1 :
 
-                                                                             LOGO DU CLUB            Licence                  Arme                                         LOGO DU CLUB            Licence                  Arme
+                                                                             LOG- DU CLUB            Licence                  Arme                                         LOG- DU CLUB            Licence                  Arme
 
                                                                                                       Cat.                    Club                                                                  Cat.                    Club
                                                                              N°                                                                                            N°
@@ -13626,8 +13098,6 @@ N° cible Flèche Total volée Cumul N° cible Flèche Total volée Cumul
 BARRAGE : TOTAL : BARRAGE : TOTAL :
 Archer 1 : Signatures Archer 2 :
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                                         306
-
 Le Tir sur Cibles 3D Edition Février 2022
 Feuille de marque pour les matchs de ½ finale et finales du championnat de France Elite Individuel :
 
@@ -13692,8 +13162,6 @@ N° cible Flèche Total volée Cumul N° cible Flèche Total volée Cumul
 BARRAGE : TOTAL : BARRAGE : TOTAL :
 
 Archer 1 : Signatures Archer 2 :
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                                          307
 
 CHAMPIONNAT DE FRANCE 3D PAR EQUIPES DE CLUBS
 Tir de qualification
@@ -13957,8 +13425,6 @@ B.7. Pénalités et sanctions Annexe 6 Exemple de fiche de suivi des tirs
 B.8. Officiels du Run-Archery Annexe 7 Exemple de Fiche de suivi des Boucles de
 Pénalité
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             312
-
 Le Run Archery Edition Février 2022
 
 A - GENERALITES
@@ -13982,14 +13448,15 @@ L’usage du décocheur est interdit.
 
 Il y a trois façons de porter l'arc : à la main, avec un carquois dorsal ou avec un harnais. Dans le cas d'un
 harnais, les dispositions suivantes s'appliquent :
-− Des sangles attachées directement à l'arc et avec un logement pour les flèches attaché à l'arc.
-L'arc doit être porté avec la fenêtre de visée tournée vers le dos de l'athlète ;
-− un harnais souple qui doit maintenir fermement l'arc de manière à ce qu'il ne puisse pas glisser
-même en cas de chute, avec un logement pour les flèches fixé à l'arc. L'arc doit être porté avec la
-fenêtre de visée tournée vers l'arrière de l'archer ;
-− Un harnais rigide qui doit maintenir fermement l'arc de manière à ce qu'il ne puisse pas glisser
-même en cas de chute, avec un logement pour les flèches qui peut être attaché soit à l'arc, soit au
-harnais. L'arc peut être glissé dans le harnais à la discrétion de l'athlète.
+
+- Des sangles attachées directement à l'arc et avec un logement pour les flèches attaché à l'arc.
+  L'arc doit être porté avec la fenêtre de visée tournée vers le dos de l'athlète ;
+- un harnais souple qui doit maintenir fermement l'arc de manière à ce qu'il ne puisse pas glisser
+  même en cas de chute, avec un logement pour les flèches fixé à l'arc. L'arc doit être porté avec la
+  fenêtre de visée tournée vers l'arrière de l'archer ;
+- Un harnais rigide qui doit maintenir fermement l'arc de manière à ce qu'il ne puisse pas glisser
+  même en cas de chute, avec un logement pour les flèches qui peut être attaché soit à l'arc, soit au
+  harnais. L'arc peut être glissé dans le harnais à la discrétion de l'athlète.
 
 Harnais ou carquois d'arc.
 Lorsqu'un athlète utilise un harnais ou un carquois d'arc, l'arc doit être porté sur le dos pendant toute la
@@ -14013,8 +13480,6 @@ Port des dossards :
 Les dossards, fournis par l’organisateur avec leurs fixations (épingles de sureté par exemple) doivent être
 portés par l’athlète sur le torse et dans le dos, de façon à être visibles et lisibles par les officiels à tout
 moment de la compétition.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               313
 
 Le Run Archery Edition Février 2022
 
@@ -14068,8 +13533,6 @@ de sexe, et leur résultat ne fait pas l’objet d’un classement officiel.
 A.3.2 PRATIQUE DES MOINS DE 15 ANS
 Les moins de 15 peuvent concourir en RUN-ARCHERY KIDS, dont les règles sont précisées à l’article C.5
 des présents règlements.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©             314
 
 Le Run Archery Edition Février 2022
 
@@ -14200,8 +13663,6 @@ La zone de passage de relais doit commencer à la ligne de chronométrage. Le d�
 doivent être matérialisés par une ligne au sol et une signalisation au début : "Zone de Relais"
 B.1.5. STAND DE TIR
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  316
-
 Le Run Archery Edition Février 2022
 B.1.5.1 GENERALITES.
 Le stand de tir doit être situé dans la zone centrale du site, les cibles et la ligne de tir doivent être visibles
@@ -14229,7 +13690,7 @@ minimum de 10 mètres derrière la position des observateurs. L'entrée et la so
 
 L’entrée et la sortie de la zone de tir doivent être clairement délimitées.
 A l’entrée de la zone de tir des plots doivent être mis à disposition des athlètes qui ne possèdent pas un
-carquois de dos adapté. Ces plots doivent porter le numéro de départ de l’athlète propriétaire des flèches
+carquois de dos adapté. Ces plots doivent porter le numér- de départ de l’athlète propriétaire des flèches
 qui y sont déposées.
 Des plots doivent être disposés à chaque couloir de tir pour y déposer les flèches lors des épreuves finales
 et les relais.
@@ -14238,7 +13699,7 @@ Lorsque l'arc est porté dans le dos, il ne doit être retiré et replacé dans 
 l’athlète, sans déranger les athlètes qui se trouvent sur les cibles adjacentes.
 
 Placé convenablement sur le stand de tir, il doit y avoir des supports pour les arcs de rechange pour les
-athlètes pendant les compétitions et les entraînements. Chaque arc doit porter le numéro de départ de
+athlètes pendant les compétitions et les entraînements. Chaque arc doit porter le numér- de départ de
 l’athlète à qui il appartient.
 
 B.1.5.3 CIBLES.
@@ -14299,10 +13760,8 @@ La ligne d’arrivée doit être matérialisée au sol.
 
 B.1.7 ÉQUIPEMENT DE CHRONOMETRAGE
 Pour le chronométrage manuel, il faut utiliser des chronomètres qui permettent de prendre autant
-d’enregistrements de temps consécutifs (au 1/10 de seconde ou au 1/1OO selon la compétition
+d’enregistrements de temps consécutifs (au 1/10 de seconde ou au 1/1O- selon la compétition
 organisée) qu’il y a de compétiteurs sur la course.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  318
 
 Le Run Archery Edition Février 2022
 B.2. ENTRAINEMENT ET ECHAUFFEMENT
@@ -14351,7 +13810,7 @@ la compétition.
 B.3. ORGANISATION DES DEPARTS
 B.3.1. ATTRIBUTION DES NUMEROS DE DEPART
 Pour les phases qualificatives, les athlètes ou les équipes sont choisis au hasard parmi les inscriptions à la
-compétition, par tirage au sort manuel ou par ordinateur, et leur numéro de départ est attribué en fonction
+compétition, par tirage au sort manuel ou par ordinateur, et leur numér- de départ est attribué en fonction
 de ce tirage au sort.
 
 B.3.2. PRESENCE EN ZONE D’APPEL
@@ -14364,8 +13823,6 @@ B.4.1.1 BOUCLES DE PENALITE DE COURSE A PIED.
 Les athlètes doivent exécuter une boucle de pénalité pour chaque cible manquée immédiatement après la
 fin du tir. Il n'est pas permis de terminer les boucles de pénalité plus tard.
 Les athlètes sont responsables de l'exécution du nombre requis de boucles.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                319
 
 Le Run Archery Edition Février 2022
 
@@ -14425,8 +13882,6 @@ immédiatement faire la correction.
 B.5.2.1 POSITION DEBOUT.
 Les athlètes doivent tirer à partir d'une position debout et sans appui, les deux pieds derrière la ligne de tir.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                  320
-
 Le Run Archery Edition Février 2022
 B.5.2.2 POSITION A GENOUX.
 Les athlètes, lorsqu'ils tirent à genoux, ne doivent poser qu'un seul genou sur le sol en se plaçant derrière
@@ -14470,14 +13925,14 @@ B.5.4.4 PROCEDURE DE CHANGEMENT D'ARC.
 S’il n’est pas déjà au pas de tir, l'athlète lui-même peut aller chercher son arc de rechange dans la zone du
 stand de tir.
 Pendant le tir, l'athlète doit indiquer que son arc doit être remplacé en levant la main. Lorsqu'un officiel
-répond, le compétiteur pointe son arc et prononce "Arc", et son numéro de départ, à haute voix. L’officiel
+répond, le compétiteur pointe son arc et prononce "Arc", et son numér- de départ, à haute voix. L’officiel
 récupèrera l’arc de rechange désigné et l'apportera à l'athlète.
 
 B.5.4.5 FLECHES ENDOMMAGEES.
 Un athlète qui endommage une ou plusieurs flèches pendant une compétition peut les remplacer à partir
 des flèches de rechange dans les plots à l'entrée de la zone de tir. Si l'athlète découvre une flèche
 endommagée sur la ligne de tir, il peut obtenir des flèches de remplacement d'un officiel en levant la main
-et en disant "Flèche", et son numéro de départ, à haute voix. L’officiel qui répond récupèrera la/les flèche(s)
+et en disant "Flèche", et son numér- de départ, à haute voix. L’officiel qui répond récupèrera la/les flèche(s)
 de rechange et la/les donnera à l'athlète.
 
 B.5.4.6 INCIDENCE SUR LE TEMPS DECOMPTE
@@ -14494,7 +13949,7 @@ Si une cible sur laquelle un athlète tire est touchée par un autre tireur, le 
 immédiatement averti.
 Si aucune zone basculante n'est tombée, l'athlète affecté à cette cible peut continuer à tirer.
 Si une zone basculante a été touchée, la cible doit être immédiatement remontée et l'athlète poursuit le tir.
-Avant qu'une telle remise à zéro de la cible ne soit effectuée, les touches et leur position doivent être
+Avant qu'une telle remise à zér- de la cible ne soit effectuée, les touches et leur position doivent être
 enregistrées. Dans un tel cas, le spotter doit indiquer à l'athlète le nombre de boucles de pénalité à
 effectuer.
 
@@ -14530,8 +13985,6 @@ B.5.4.11 ARRET DES TIRS PAR L’ARBITRE POUR DES RAISONS DE SECURITE
 Si l’arbitre doit arrêter les tirs pour des raisons de sécurité, il doit mettre en marche le chronomètre pour
 mesurer le temps perdu.
 Ce temps sera déduit du temps final de chaque athlète qui tirait à ce moment.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                322
 
 Le Run Archery Edition Février 2022
 
@@ -14569,7 +14022,7 @@ B.6.5 DEPARTAGE DES EGALITES
 - Sprint voir C.2.6
 - Sprint relais et Sprint relais mixte voir C.4.8.2
 
-B.6.6 PHOTO FINISH.
+B.6.6 PHOT- FINISH.
 Lors des compétitions avec un départ groupé, une caméra de photo-finish peut être installée sur la ligne
 d'arrivée pour enregistrer l'arrivée. La caméra doit être placée dans une position telle que la caméra voit
 toute la ligne d'arrivée. Si la visualisation de la photo-finish est requise pour décider de l'ordre d'arrivée,
@@ -14589,12 +14042,10 @@ B.7.1.1 INTERDICTION DE DEPART
 Les actions entraînant l’interdiction à un athlète ou à une équipe de prendre le départ sont :
 
 - se présenter au départ avec de l'équipement ou des vêtements non conformes au règlement ;
-- se présenter au départ avec un mauvais numéro de départ, ou sans de numéro de départ, en raison
+- se présenter au départ avec un mauvais numér- de départ, ou sans de numér- de départ, en raison
   d'une erreur commise par l'athlète ou son équipe ;
 - violer les règlements concernant les entraînements officiels, les réglages, l'échauffement.
   L'interdiction s'applique à la compétition dans laquelle la violation a eu lieu.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               323
 
   Le Run Archery Edition Février 2022
 
@@ -14637,7 +14088,7 @@ Les conditions pour imposer une pénalité de temps ou pour disqualifier un athl
 - Modifier de manière prohibée l’équipement ou les vêtements qui ont été
   X
   inspectés lors du contrôle de départ.
-- Participer à une compétition avec un numéro de départ qui ne lui a pas été
+- Participer à une compétition avec un numér- de départ qui ne lui a pas été
   attribué pour la liste de départ de la compétition, délibérément ou en raison d’une X
   erreur de sa part ou de celle de son équipe.
 - Accepter l’assistance non autorisée de toute personne lors de la réparation de
@@ -14698,12 +14149,13 @@ C.1.1 GÉNÉRALITÉS :
 L'Individuel 4K est une compétition individuelle.
 Les catégories proposées sont celles prévues à l’article A3
 L’athlète doit faire 2 séquences de tir debout, et 1 séquence de tir un genou à terre.
-• dans l’ordre de son choix lorsqu’une cible ne lui a pas été attribuée en particulier pour la durée de
-la course
-• le premier tir debout, le deuxième un genou à terre, puis le troisième debout lorsqu’une cible en
-particulier lui a été attribuée pour la durée de la course
-:
-Les séquences de compétition sont les suivantes dans l’ordre indiqué :
+
+- dans l’ordre de son choix lorsqu’une cible ne lui a pas été attribuée en particulier pour la durée de
+  la course
+- le premier tir debout, le deuxième un genou à terre, puis le troisième debout lorsqu’une cible en
+  particulier lui a été attribuée pour la durée de la course
+  :
+  Les séquences de compétition sont les suivantes dans l’ordre indiqué :
 
 - séquence 1 : 1ère Course sur boucle de course ;
 - séquence 2 : tir de 4 flèches ;
@@ -14720,8 +14172,6 @@ Les séquences de compétition sont les suivantes dans l’ordre indiqué :
 C.1.2 ATTRIBUTION DES CIBLES
 C.1.2.1 CIBLES D’ENTRAINEMENT
 L'attribution des cibles sera déterminée par tirage au sort.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©            325
 
 Le Run Archery Edition Février 2022
 C.1.2.2 CIBLES DES TIRS DE COMPETITION
@@ -14754,8 +14204,6 @@ C.1.5 DEPARTAGE DES EGALITES
 Si deux ou plusieurs athlètes d'une même catégorie ont le même temps final, ils seront placés dans les
 résultats avec un rang égal (égalité).
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 326
-
 Le Run Archery Edition Février 2022
 
 C.2. SPRINT
@@ -14765,11 +14213,12 @@ Les catégories proposées sont celles prévues à l’article A3
 La catégorie PROMOTION est autorisée sur cette compétition.
 
 L’athlète doit faire 1 séquence de tir debout, et 1 séquence de tir un genou à terre
-• dans l’ordre de son choix lorsqu’une cible ne lui a pas été attribuée en particulier pour la durée de
-la course
-le premier tir debout et le second un genou à terre lorsqu’une cible en particulier lui a été attribuée pour la
-durée de la course.
-Les séquences de compétition sont les suivantes dans l’ordre indiqué :
+
+- dans l’ordre de son choix lorsqu’une cible ne lui a pas été attribuée en particulier pour la durée de
+  la course
+  le premier tir debout et le second un genou à terre lorsqu’une cible en particulier lui a été attribuée pour la
+  durée de la course.
+  Les séquences de compétition sont les suivantes dans l’ordre indiqué :
 
 - séquence 1 : 1ère Course sur boucle de course ;
 - séquence 2 : tir de 4 flèches +2 flèches de rattrapage si besoin ;
@@ -14816,8 +14265,6 @@ capteur électronique à la ligne d'arrivée.
 Lorsque le chronométrage manuel est utilisé, l'arrivée a lieu lorsque la ligne des épaules de l'athlète franchit
 la ligne d'arrivée.
 
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                 327
-
 Le Run Archery Edition Février 2022
 C.2.6 DEPARTAGE DES EGALITES
 Lorsque le Sprint ne constitue pas une phase éliminatoire, finale, deux ou plusieurs athlètes d'une
@@ -14846,7 +14293,7 @@ Exemple : pour 30 compétiteurs et 10 cibles, 3 finales sont organisées A B et 
 Chaque athlète se voit attribuer une cible pour la durée de la course lors des phases éliminatoires et finales.
 
 C.3.3 DEPARTAGE DES EGALITES
-Il n’y aura pas d'égalité lors de la phase de finale. Les athlètes seront départagés par la photo finish ou par
+Il n’y aura pas d'égalité lors de la phase de finale. Les athlètes seront départagés par la phot- finish ou par
 la décision de l’arbitre de course.
 
 C.3.4 ORGANISATION DU DEPART DES FINALES
@@ -14856,8 +14303,6 @@ Les courses se courent de la moins rapide à la plus rapide : finale C puis B pu
 C.3.5 REGROUPEMENT DE CATEGORIES
 Si moins de 3 athlètes dans une catégorie, ces athlètes sont regroupés avec une autre catégorie.
 L’ensemble des participants doit en être informé avant le démarrage de la compétition.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                328
 
 Le Run Archery Edition Février 2022
 
@@ -14913,13 +14358,11 @@ Les séquences de la compétition sont les suivantes :
 - séquence 7 : course du 2e relayeur des boucles de pénalité éventuelles ;
 - séquence 8 : course du 2e relayeur dans le couloir d’arrivée.
 
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©            329
-
   Le Run Archery Edition Février 2022
 
 C.4.3 ATTRIBUTION DES CIBLES
 C.4.3.1 DOSSARDS
-Le numéro de départ est donné par équipe.
+Le numér- de départ est donné par équipe.
 Pour différencier les relayeurs et faciliter le suivi de la compétition, les dossards sont distingués soit par
 des numéros d'ordre de départ (ex. 32-1, 32-2, 32-3), soit par des couleurs de fonds différentes :
 Relais Relais mixte
@@ -14928,7 +14371,7 @@ Relais Relais mixte
 3e relayeur Jaune
 
 C.4.3.2 CIBLES D’ENTRAINEMENT
-Le numéro de cible attribué est le même que le numéro de départ.
+Le numér- de cible attribué est le même que le numér- de départ.
 
 C.4.4 FLECHES DE RATTRAPAGE
 Les flèches de rattrapage se tirent sur le même principe que pour le Sprint. Cf. C.2.3
@@ -14972,9 +14415,7 @@ temps.
 
 C.4.8.2 DEPARTAGE DES EGALITES
 Il n’y aura pas d'égalité lors de la finale de relais. En cas d’égalité de temps final le classement sera
-déterminé par la photo finish ou par l’arbitre lors du franchissement de la ligne d’arrivée des athlètes.
-
-                  Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               330
+déterminé par la phot- finish ou par l’arbitre lors du franchissement de la ligne d’arrivée des athlètes.
 
 Le Run Archery Edition Février 2022
 C.5 RUN-ARCHERY KIDS
@@ -15000,32 +14441,33 @@ Minime (U15) ou U15 Fille ou U15 Garçon
 - La ligne des spotters doit se situer 6m derrière la ligne de tir.
 
 Les séquences de compétition sont les suivantes dans l’ordre indiqué :
-• séquence 1 : 1 Course
-ère
 
-       •      séquence 2 : 1 tir debout de 4 flèches
-                                 er
+- séquence 1 : 1 Course
+  ère
 
-
-
-       •      séquence 3 : course des éventuelles boucles de pénalité
-       •      séquence 4 : 2 course
-                                 e
+         -      séquence 2 : 1 tir debout de 4 flèches
+                                   er
 
 
 
-       •      séquence 5 : 2 tir debout de 4 flèches
-                                 e
+         -      séquence 3 : course des éventuelles boucles de pénalité
+         -      séquence 4 : 2 course
+                                   e
 
 
 
-       •      séquence 6 : course des éventuelles boucles de pénalité
-       •      séquence 7 : 3 course
-                                 e
+         -      séquence 5 : 2 tir debout de 4 flèches
+                                   e
 
 
 
-       •      séquence 8 : course d’arrivée.
+         -      séquence 6 : course des éventuelles boucles de pénalité
+         -      séquence 7 : 3 course
+                                   e
+
+
+
+         -      séquence 8 : course d’arrivée.
 
 C.5.2. ATTRIBUTION DES CIBLES
 C.5.2.1 CIBLES D’ENTRAINEMENT
@@ -15051,8 +14493,6 @@ Les règles pour une présentation tardive à la ligne de départ sont ceux appl
 de compétitions Run-Archery.
 
 C.5.4.2 ARRIVEE
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©                     331
 
 Le Run Archery Edition Février 2022
 L'arrivée est le moment où le temps de compétition d'un athlète se termine.
@@ -15098,8 +14538,6 @@ D.3.1 LE FORMAT DE LA COMPETITION
 Une épreuve du Run Archery Tour est une épreuve cumulant un Run Archery long et un Run Archery court.
 Les deux courses sont dissociées et doivent permettre une participation sur une seule course. Le résultat
 de la manche se fait sur le cumul des résultats des deux courses.
-
-                   Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©               332
 
 Le Run Archery Edition Février 2022
 D.3.2 LE PROGRAMME
@@ -15158,8 +14596,6 @@ Différents classements seront établis sur l’ensemble des 4 étapes du Run Ar
 - le Challenge par équipe mixte de Club ;
 - le classement général du Run Archery Tour.
 
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              333
-
   Le Run Archery Edition Février 2022
   D.4.2.1 CLASSEMENT D’UNE ETAPE
   Le classement de l’étape est le classement à l’issue des finales et des phases de classement du combiné,
@@ -15213,8 +14649,6 @@ A la fin du Run Archery Tour, lors de la dernière étape, seront récompensés 
 - les trois meilleures Femmes et les trois meilleurs Hommes par catégorie du classement général du
   Tour ;
 - la meilleure équipe mixte de club.
-
-                    Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©              334
 
   Le Run Archery Edition Février 2022
   ANNEXE 1 : Exemple de site de compétition
@@ -15282,33 +14716,31 @@ A la fin du Run Archery Tour, lors de la dernière étape, seront récompensés 
   Le Run Archery Edition Février 2022
   ANNEXE 6 :
 
-Compétition : ****************\_**************** FICHE DE SUIVI DES TIRS
-Date : **_ /_** /**\_ Lieu : ******\_\_\_\_********
-Course N° \_**\_ Format : ********\_\_\_********** Nom SPOTTER : ************\_\_************
-Nom de la course : ************\_\_************ Cibles attribuées : ************\_************
+Compétition : **\*\***\*\*\*\***\*\***\_**\*\***\*\*\*\***\*\*** FICHE DE SUIVI DES TIRS
+Date : **_ /_** /**\_ Lieu : \*\*\*\***\_\_\_\_**\*\*\*\***
+Course N° \_**\_ Format : **\*\*\***\*\_\_\_\*\***\*\*\***\* Nom SPOTTER : \*\***\*\*\*\*\***\*\_\_\*\***\*\*\*\*\***\*
+Nom de la course : \*\***\*\*\*\*\***\*\_\_\*\***\*\*\*\*\***\* Cibles attribuées : \*\***\*\*\*\*\***\*\_\*\***\*\*\*\*\*\*\*\*
 Position Nb de Nb de
 Dossard Cibles touchées flèches pénalités OBSERVATIONS
 tirées annoncées
 
-Compétition : ****************\_**************** FICHE DE SUIVI DES TIRS
-Date : **_ /_** /**\_ Lieu :********\_**********
-Course N° \_**\_ Format : ********\_\_\_********** Nom SPOTTER : ************\_\_************
-Nom de la course : ************\_\_************ Cibles attribuées : ************\_************
+Compétition : **\*\***\*\*\*\***\*\***\_**\*\***\*\*\*\***\*\*** FICHE DE SUIVI DES TIRS
+Date : **_ /_** /**\_ Lieu :**\*\*\***\*\_\*\***\*\*\***\*
+Course N° \_**\_ Format : **\*\*\*\***\_\_\_\***\*\*\*\*\*** Nom SPOTTER : \***\*\*\*\*\*\*\***\_\_\***\*\*\*\*\*\*\***
+Nom de la course : \***\*\*\*\*\*\*\***\_\_\***\*\*\*\*\*\*\*** Cibles attribuées : \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
 Position Nb de Nb de
 Dossard Cibles touchées flèches pénalités OBSERVATIONS
 tirées annoncées
-
-                      Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©         340
 
 Le Run Archery Edition Février 2022
 
                                                        ANNEXE 7 :
 
-Compétition : **************\_\_\_\_************** RAPPORT BOUCLES DE PENALITE
-Date : **_ /_** /**\_ Lieu : ******\_\_\_\_********
-Course N° \_**\_ Format : ********\_\_\_********** NOM COMMISSAIRE DE COURSE :
-******************\_\_\_\_******************
-Nom de la course : ************\_\_************
+Compétition : **\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\*** RAPPORT BOUCLES DE PENALITE
+Date : **_ /_** /**\_ Lieu : \*\*\*\***\_\_\_\_**\*\*\*\***
+Course N° \_**\_ Format : **\*\*\***\*\_\_\_\*\***\*\*\***\* NOM COMMISSAIRE DE COURSE :
+**\*\*\***\*\*\***\*\*\*\***\_\_\_\_**\*\*\*\***\*\***\*\*\*\***
+Nom de la course : \***\*\*\*\*\*\*\***\_\_\***\*\*\*\*\*\*\*\*\*
 
           Relais                                      CONTROLE POST-COMPETITION (partie réservée aux arbitres)
                    Décompte Boucles        Nb de
@@ -15316,7 +14748,3 @@ Nom de la course : ************\_\_************
 DOSSARD ABC (cocher pour chaque Boucles
 boucle effectuée) boucles OBSERVATIONS
 123 dues
-
-                         Fédération Française de Tir à l'Arc – Règlements sportifs et Arbitrage ©          341
-
-
