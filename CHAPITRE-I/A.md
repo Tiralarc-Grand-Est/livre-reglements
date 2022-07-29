@@ -138,7 +138,7 @@ Le corps arbitral est structuré selon le schéma suivant :
 
 Une formation et une validation adaptées ont été mises en place en 2010 pour les jeunes (à partir de 14
 ans) désireux de s'investir dans la mission d'arbitrage.
-Le but recherché :
+**Le but recherché :**
 
 - Reconnaître la mission d'arbitrage des jeunes,
 - Inciter les jeunes à s'engager dans la voie de l'arbitrage le plus tôt possible, pour assurer le
@@ -300,12 +300,13 @@ récolter les demandes de distinctions internationales.
 Lors des compétitions (tirs sur cibles et disciplines de parcours) ne comportant qu'un seul "départ", un
 arbitre ne peut pas participer, en qualité de compétiteur, au concours officiel pour lequel il a été désigné.
 Lors des compétitions (Tir à l'Arc Extérieur, Salle(Tir à 18m), Beursault) comportant plusieurs "départs",
-un arbitre pourra tirer lors du départ de son choix, à condition :
+un arbitre pourra tirer **lors du départ de son choix**, à condition :
 
 - que cela ne gêne pas le déroulement de l'épreuve et qu'il y ait suffisamment d'arbitres ;
 - que l'arbitre ne soit pas en situation d'arbitrer lors de ce départ.
-  Dans les disciplines de parcours, si plusieurs "départs" sont organisés, l'arbitre ne pourra participer qu'au
-  premier départ, à condition :
+
+Dans les disciplines de parcours, si plusieurs "départs" sont organisés, l'arbitre ne pourra participer **qu'au premier départ**, à condition :
+
 - que cela ne gêne pas le déroulement de l'épreuve et qu'il y ait suffisamment d'arbitres ;
 - que l'arbitre ne soit pas en situation d'arbitrer lors de ce départ ;
 - que l'arbitre n'ait pas participé auparavant à "l'inspection" des parcours.
@@ -361,47 +362,75 @@ autre fournisseur même si les couleurs sont respectées.
 A compter du 1er septembre 2020, seule la tenue "bleue" pourra être portée par les Arbitres Fédéraux
 et les Jeunes Arbitres.
 
-- L'équipement des arbitres (compétitions officielles) :
+**L'équipement des arbitres (compétitions officielles) :**
 
-  - mètre à ruban ou pliant (minimum 2m) ;
-  - sifflet ;
-  - loupe ;
-  - chronomètre ;
-  - jumelles ;
-  - bloc-notes ;
-  - stylo rouge, bleu ou noir (avoir des stylos de rechange) ;
-  - le règlement pour la compétition concernée ;
-  - cartons jaune et rouge ;
-  - matériel (compas à pointes sèches ou autre) pour juger la flèche la plus près du centre ;
-  - matériel pour mesurer le diamètre des flèches.
+- mètre à ruban ou pliant (minimum 2m) ;
+- sifflet ;
+- loupe ;
+- chronomètre ;
+- jumelles ;
+- bloc-notes ;
+- stylo rouge, bleu ou noir (avoir des stylos de rechange) ;
+- le règlement pour la compétition concernée ;
+- cartons jaune et rouge ;
+- matériel (compas à pointes sèches ou autre) pour juger la flèche la plus près du centre ;
+- matériel pour mesurer le diamètre des flèches.
 
-- A mettre à disposition des arbitres par l’organisateur
-  - un plan du parcours avec indication des distances (Tir en Campagne, parcours nature et
-    3D) uniquement l'arbitre responsable ;
-  - un ruban de 50m minimum ;
-  - une fausse équerre pour mesurer l'inclinaison des cibles ;
-  - une pige pour mesurer la hauteur des ors ;
-  - un peson pour mesurer la puissance des arcs à poulies et une balance pour peser les flèches si
-    nécessaire. Afin d’éviter les contestations, le peson de référence et la balance utilisés pour
-    contrôler la puissance des arcs à poulies et le poids des flèches lors des compétitions sont ceux
-    de l’arbitre responsable ou désignés par l’arbitre responsable
-  - Si possible des talkies-walkies.
+**A mettre à disposition des arbitres par l’organisateur**
+
+- un plan du parcours avec indication des distances (Tir en Campagne, parcours nature et
+  3D) uniquement l'arbitre responsable ;
+- un ruban de 50m minimum ;
+- une fausse équerre pour mesurer l'inclinaison des cibles ;
+- une pige pour mesurer la hauteur des ors ;
+- un peson pour mesurer la puissance des arcs à poulies et une balance pour peser les flèches si
+  nécessaire. Afin d’éviter les contestations, le peson de référence et la balance utilisés pour
+  contrôler la puissance des arcs à poulies et le poids des flèches lors des compétitions sont ceux
+  de l’arbitre responsable ou désignés par l’arbitre responsable
+- Si possible des talkies-walkies.
 
 #### A.3.4.4 L’ARBITRE ET LE DEROULEMENT DE LA COMPETITION
 
 L’arbitre est garant de la bonne marche générale d’une compétition. A ce titre, il doit…
 
-- Avant le concours : 1. prendre connaissance de la convocation qui doit être adressée par l'organisateur aux arbitres ; 2. effectuer toutes les vérifications nécessaires (terrain, distances, blasons) au bon déroulement du
-  concours, en utilisant la liste du rapport d'arbitre ; 3. prendre contact avec le responsable de l'équipe de terrain ; 4. s'assurer que le greffe contrôle bien l'identité de chaque concurrent préalablement inscrit ; 5. contrôler l'affectation des cibles ; 6. contrôler l'installation des tireurs sur le terrain (tentes, parasols, arcs) ; 7. diriger l'entraînement, en concertation avec le directeur des tirs ; 8. contrôler la tenue vestimentaire des archers, le port correct du dossard.
+**Avant le concours :**
 
-- Pendant le concours : 1. faire respecter les consignes de sécurité ; 2. faire respecter, avec le directeur des tirs, les horaires de la compétition ; 3. faire respecter les règlements de tir avec fermeté ; 4. régler les situations particulières ou difficiles avec bon sens ; 5. veiller au nombre de flèches tirées par archer ; 6. gérer les incidents de tir et les défaillances d'équipement ; 7. guider les nouveaux compétiteurs ; 8. contrôler continuellement les équipements des archers ; 9. suspendre le tir et réunir l'ensemble de la commission des arbitres, le cas échéant, devant une
-  situation difficile ;
-  l'arbitre, en toute circonstance, doit rester calme, attentif, poli, aimable mais ferme, avoir un jugement
-  rapide tout en prenant le temps de bien analyser la situation pour préserver l’équité.
+1. prendre connaissance de la convocation qui doit être adressée par l'organisateur aux arbitres ;
+2. effectuer toutes les vérifications nécessaires (terrain, distances, blasons) au bon déroulement du
+   concours, en utilisant la liste du rapport d'arbitre ;
+3. prendre contact avec le responsable de l'équipe de terrain ;
+4. s'assurer que le greffe contrôle bien l'identité de chaque concurrent préalablement inscrit ;
+5. contrôler l'affectation des cibles ;
+6. contrôler l'installation des tireurs sur le terrain (tentes, parasols, arcs) ;
+7. diriger l'entraînement, en concertation avec le directeur des tirs ;
+8. contrôler la tenue vestimentaire des archers, le port correct du dossard.
 
-- Après le concours : 1. ne signer les qualifications qu'après proclamation des résultats ou présentation d'un justificatif ; 2. aider le greffe (contrôle des feuilles de marque ou des résultats, classements individuels et par
-  équipes) ; 3. signaler au greffe les éventuels records ; 4. enregistrer les demandes de ETOILE WA, WA TARGET ou ARROW HEAD ; 5. demander les résultats complets de la compétition ; 6. adresser les documents demandés à la FFTA et les demandes des distinctions de la WA aux
-  responsables.
+**Pendant le concours :**
+
+1. faire respecter les consignes de sécurité ;
+2. faire respecter, avec le directeur des tirs, les horaires de la compétition ;
+3. faire respecter les règlements de tir avec fermeté ;
+4. régler les situations particulières ou difficiles avec bon sens ;
+5. veiller au nombre de flèches tirées par archer ;
+6. gérer les incidents de tir et les défaillances d'équipement ;
+7. guider les nouveaux compétiteurs ;
+8. contrôler continuellement les équipements des archers ;
+9. suspendre le tir et réunir l'ensemble de la commission des arbitres, le cas échéant, devant une
+   situation difficile ;
+
+L'arbitre, en toute circonstance, doit rester calme, attentif, poli, aimable mais ferme, avoir un jugement
+rapide tout en prenant le temps de bien analyser la situation pour préserver l’équité.
+
+**Après le concours :**
+
+1. ne signer les qualifications qu'après proclamation des résultats ou présentation d'un justificatif ;
+2. aider le greffe (contrôle des feuilles de marque ou des résultats, classements individuels et par
+   équipes) ;
+3. signaler au greffe les éventuels records ;
+4. enregistrer les demandes de ETOILE WA, WA TARGET ou ARROW HEAD ;
+5. demander les résultats complets de la compétition ;
+6. adresser les documents demandés à la FFTA et les demandes des distinctions de la WA aux
+   responsables.
 
 L’arbitre participe à la mise en place d’une image positive de notre sport :
 
@@ -410,7 +439,8 @@ L’arbitre participe à la mise en place d’une image positive de notre sport 
 - de même, vis à vis du public, il prodiguera les recommandations nécessaires pour mieux apprécier
   la compétition dans leur intérêt et celui des participants.
 
-A.3.4.5 LE DIRECTEUR DES TIRS
+#### A.3.4.5 LE DIRECTEUR DES TIRS
+
 Concours sélectifs : le directeur des tirs est nommé par l’arbitre responsable. Il peut être un arbitre
 fédéral, un arbitre jeune ou un membre du club proposé par l’organisateur. Dans ce dernier cas, l’arbitre
 responsable testera la personne et l’acceptera ou non comme directeur des tirs.
@@ -427,18 +457,32 @@ arbitres s’entendront avec lui (avant le début des tirs) pour la procédure �
 incidents de tir, les défaillances d’équipements, les interruptions de tir. Sa collaboration, tout au long du
 concours est nécessaire.
 
-    - Procédure à suivre en cas de décision difficile
+**Procédure à suivre en cas de décision difficile**
 
 L’arbitre doit prendre du recul pour mieux analyser les différents éléments du problème et aller à
-l’essentiel… Être attentif à ce qui suit : 1. Quelle est l'origine du problème ? 2. Conduit-il à avantager ou désavantager un tireur, au détriment ou au bénéfice d’un autre… ? 3. La décision conduira-t-elle ou non à une sanction ? 4. La décision est-elle équitable ? 5. Y a-t-il eu faute en connaissance de cause ou est-on en présence d’un jeune ou d’un débutant
-ignorant l’usage ou la réglementation ? 6. Existe-t-il plusieurs règles traitant du même sujet ? Y a-t-il ambiguïté ? 7. En cas d’incertitude, peut-on accorder le bénéfice du doute ? Oui c’est préférable…
+l’essentiel… Être attentif à ce qui suit :
 
-- Liste des points à contrôler avant le concours : Consulter le rapport d’arbitre.
+1. Quelle est l'origine du problème ?
+2. Conduit-il à avantager ou désavantager un tireur, au détriment ou au bénéfice d’un autre… ?
+3. La décision conduira-t-elle ou non à une sanction ?
+4. La décision est-elle équitable ?
+5. Y a-t-il eu faute en connaissance de cause ou est-on en présence d’un jeune ou d’un débutant
+   ignorant l’usage ou la réglementation ?
+6. Existe-t-il plusieurs règles traitant du même sujet ? Y a-t-il ambiguïté ?
+7. En cas d’incertitude, peut-on accorder le bénéfice du doute ? Oui c’est préférable…
 
-A.4 LES « OUTILS DE TRAVAIL » DE L’ARBITRE
-A.4.1 LES RAPPORTS DE L’ARBITRE
+**Liste des points à contrôler avant le concours :** Consulter **le rapport d’arbitre.**
+
+## A.4 LES « OUTILS DE TRAVAIL » DE L’ARBITRE
+
+### A.4.1 LES RAPPORTS DE L’ARBITRE
+
 Les imprimés doivent être disponibles auprès du PCRA. Ils doivent servir au contrôle du terrain.
-Ils comportent 3 colonnes d'appréciation : 1. pointer tout ce qui est conforme sur le terrain ; 2. pointer ce qui est imparfait, à revoir ou à modifier ; 3. pointer quand la modification a été réalisée.
+Ils comportent 3 colonnes d'appréciation :
+
+1. pointer tout ce qui est conforme sur le terrain ;
+2. pointer ce qui est imparfait, à revoir ou à modifier ;
+3. pointer quand la modification a été réalisée.
 
 Les rapports d'arbitres servent :
 
@@ -446,12 +490,11 @@ Les rapports d'arbitres servent :
 - pour les responsables arbitres départementaux et le PCRA : permettre le suivi des concours ;
 - pour les organisateurs : connaître ce qui a pu être oublié ou mal compris .
   Ne pas envoyer les rapports d’arbitres à la FFTA. Cependant, il y a des exceptions :
-
-1. si, au cours de la compétition, s’est posé un problème important, l’arbitre doit envoyer un rapport à la
-   FFTA (à l’attention du Président de la CNA) avec tous les détails concernant l’incident ;
-2. les arbitres responsables des compétitions nationales (championnats de France, rassemblements
-   nationaux) doivent envoyer leur rapport à la FFTA (à l’attention du Président de la CNA), pour
-   transmission au Président de la Commission Sportive concernée ;
+  1. si, au cours de la compétition, s’est posé un **problème important**, l’arbitre doit envoyer un rapport à la
+     FFTA (à l’attention du Président de la CNA) avec tous les détails concernant l’incident ;
+  2. les arbitres responsables des compétitions nationales (championnats de France, rassemblements
+     nationaux) doivent envoyer leur rapport à la FFTA (à l’attention du Président de la CNA), pour
+     transmission au Président de la Commission Sportive concernée ;
 
 Les arbitres responsables doivent envoyer leur rapport, après chaque compétition, au PCRA et en cas de
 difficultés rencontrées, à l'organisateur. Le PCRA les conservera durant une année.
@@ -461,7 +504,8 @@ compétitions pendant au moins une année.
 
 Consulter le modèle du rapport d’arbitre annexe 2.
 
-A.4.2 LES IMPRIMES « ETOILE WA », « ARROW HEAD » ET « WA TARGET »
+### A.4.2 LES IMPRIMES « ETOILE WA », « ARROW HEAD » ET « WA TARGET »
+
 Les imprimés sont disponibles auprès du PCRA – voir modèle annexe 3.
 
 Les demandes de ETOILE WA, WA TARGET, ARROW HEAD doivent être adressées par l'arbitre responsable
@@ -484,6 +528,6 @@ points, il pourra prétendre uniquement à l’ETOILE WA 1100. S'il désire néa
 1000, il pourra le faire ultérieurement, à condition de réaliser un score supérieur à 999 points et inférieur
 à 1100 points.
 
-RAPPEL : Ces distinctions de la WA, ne peuvent s'obtenir que lors de compétitions spécifiques pour
+**RAPPEL** : Ces distinctions de la WA, ne peuvent s'obtenir que lors de compétitions spécifiques pour
 lesquelles une demande particulière a été faite auprès de la FFTA, au moment de l'établissement du
 calendrier.
