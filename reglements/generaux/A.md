@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # A. LES ARBITRES
 
 ## A.1 LES RÈGLES ÉTHIQUES DU CORPS ARBITRAL DE LA FFTA

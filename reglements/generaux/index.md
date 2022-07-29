@@ -1,6 +1,9 @@
-# CHAPITRE I - LES RÈGLEMENTS GÉNÉRAUX
+---
+sidebar_position: 2
+slug: /generaux
+---
 
-**Introduction**
+# Règlements Généraux
 
 Cette première partie traite de l'organisation du corps arbitral et de l'arbitrage. Le manuel "Constitution et
 Règlements de la WA", relatif aux statuts et règlements administratifs de la WA, ainsi que certains articles,
@@ -30,4 +33,9 @@ Les règlements applicables sont composés des éléments suivants :
   de plusieurs sources : World Archery, Commissions Sportives, archers, arbitres, …
   Les Interprétations et les Décrets prévalent sur le Livre des Règlements.
 
-## [A. LES ARBITRES](./A.md)
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
