@@ -10,6 +10,7 @@ const config = {
     "Règlements sportifs et Arbitrage - Fédération Française de Tir à l'Arc",
   url: "https://reglements-sportifs.tiralarc-grand-est.fr",
   baseUrl: "/",
+  trailingSlash: true,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -64,7 +65,7 @@ const config = {
           },
           {
             type: "doc",
-            docId: "generaux/index",
+            docId: "sportifs",
             position: "left",
             label: "Règlements Sportifs",
           },
