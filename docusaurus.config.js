@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Tiralarc-Grand-Est", // Usually your GitHub org/user name.
-  projectName: "reglement-arbitrage", // Usually your repo name.
+  projectName: "livre-reglements", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -36,7 +36,7 @@ const config = {
         docs: {
           path: "reglements",
           editUrl:
-            "https://github.com/Tiralarc-Grand-Est/reglement-arbitrage/tree/main/",
+            "https://github.com/Tiralarc-Grand-Est/livre-reglements/tree/main/",
           routeBasePath: "reglements",
           sidebarPath: require.resolve("./sidebars.js"),
         },
@@ -70,7 +70,7 @@ const config = {
             label: "Règlements Sportifs",
           },
           {
-            href: "https://github.com/Tiralarc-Grand-Est/reglement-arbitrage",
+            href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
             label: "GitHub",
             position: "right",
           },
@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/Tiralarc-Grand-Est/reglement-arbitrage",
+                href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
               },
             ],
           },
