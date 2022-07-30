@@ -2,10 +2,6 @@
 
 Le site présentant le règlement est généré avec [Docusaurus 2](https://docusaurus.io/), un générateur de site web statique.
 
-## Accès direct aux règlements sportifs en version brute
-
-- [CHAPITRE I - LES RÈGLEMENTS GÉNÉRAUX](./docs/chapitre-I/introduction.md)
-
 ## Développement
 
 ### Installation
