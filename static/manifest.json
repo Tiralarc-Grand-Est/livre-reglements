@@ -1,0 +1,27 @@
+{
+  "name": "Livre des Règlements - FFTA",
+  "short_name": "Règlements FFTA",
+  "description": "Tous les Règlements sportifs et arbitrage de la FFTA dans votre poche.",
+  "lang": "fr-FR",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#215197",
+  "icons": [
+    {
+      "src": "/img/icon-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#215197"
+}

@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title:
     "Règlements sportifs et Arbitrage - Fédération Française de Tir à l'Arc",
-  url: "https://reglements-sportifs.tiralarc-grand-est.fr",
+  url: "https://livre-reglements.tiralarc-grand-est.fr/",
   baseUrl: "/",
   trailingSlash: true,
   onBrokenLinks: "throw",
@@ -44,6 +44,100 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-pwa",
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          "appInstalled",
+          "standalone",
+          "queryString",
+        ],
+        pwaHead: [
+          {
+            tagName: "link",
+            rel: "icon",
+            sizes: "192x192",
+            href: "/img/icon-512.png",
+          },
+          {
+            tagName: "link",
+            rel: "manifest",
+            href: "/manifest.json",
+          },
+          {
+            tagName: "meta",
+            name: "application-name",
+            content: "Règlements FFTA",
+          },
+          {
+            tagName: "meta",
+            name: "apple-mobile-web-app-title",
+            content: "Règlements FFTA",
+          },
+          {
+            tagName: "meta",
+            name: "msapplication-navbutton-color",
+            content: "/",
+          },
+          {
+            tagName: "meta",
+            name: "viewport",
+            content: "width=device-width, initial-scale=1, shrink-to-fit=no",
+          },
+          {
+            tagName: "meta",
+            name: "msapplication-starturl",
+            content: "#215197",
+          },
+          {
+            tagName: "meta",
+            name: "theme-color",
+            content: "#215197",
+          },
+          {
+            tagName: "meta",
+            name: "mobile-web-app-capable",
+            content: "yes",
+          },
+          {
+            tagName: "meta",
+            name: "apple-mobile-web-app-capable",
+            content: "yes",
+          },
+          {
+            tagName: "meta",
+            name: "apple-mobile-web-app-status-bar-style",
+            content: "black-translucent",
+          },
+          {
+            tagName: "link",
+            sizes: "192x192",
+            rel: "apple-touch-icon",
+            href: "/img/icon-192.png",
+          },
+          {
+            tagName: "link",
+            rel: "mask-icon",
+            href: "/img/icon-vector.svg",
+            color: "#fff",
+          },
+          {
+            tagName: "meta",
+            name: "msapplication-TileImage",
+            content: "/img/icon-512.png",
+          },
+          {
+            tagName: "meta",
+            name: "msapplication-TileColor",
+            content: "#fff",
+          },
+        ],
+      },
     ],
   ],
 
@@ -90,6 +184,10 @@ const config = {
                 label: "Règlements Sportifs",
                 to: "/reglements/I",
               },
+              {
+                label: "Version PDF officielle",
+                href: "https://www.ffta.fr/vie-sportive/larbitrage/reglements-sportifs-et-arbitrage",
+              },
             ],
           },
           {
@@ -102,7 +200,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Fédération Française de Tir à l'Arc. Généré avec Docusaurus.`,
+        copyright: `Site créé par Julien Blatecky, le règlement est propriété de la FFTA. Copyright © ${new Date().getFullYear()}. Généré avec Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
