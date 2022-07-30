@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/reglements/changements"
           >
-            Lire le règlement
+            Lire le Livre des règlements
           </Link>
         </div>
       </div>
@@ -28,12 +28,8 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-    >
+    <Layout description="L'intégralité du Livre des Règlements dans votre poche.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
