@@ -59,13 +59,13 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "generaux/index",
+            docId: "I/index",
             position: "left",
             label: "Règlements Généraux",
           },
           {
             type: "doc",
-            docId: "sportifs",
+            docId: "II",
             position: "left",
             label: "Règlements Sportifs",
           },
@@ -84,11 +84,11 @@ const config = {
             items: [
               {
                 label: "Règlements Généraux",
-                to: "/reglements/generaux",
+                to: "/reglements/I",
               },
               {
                 label: "Règlements Sportifs",
-                to: "/reglements/generaux",
+                to: "/reglements/I",
               },
             ],
           },
