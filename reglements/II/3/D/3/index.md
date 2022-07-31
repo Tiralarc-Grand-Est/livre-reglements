@@ -1,4 +1,4 @@
-D.3. LE CHAMPIONNAT DE FRANCE PAR ÉQUIPES DE CLUBS
+# D.3. Le Championnat de France par équipes de clubs
 
 D.3.1 LES GÉNÉRALITÉS
 La date du Championnat de France est fixée par le Comité Directeur pour l'année suivante.
