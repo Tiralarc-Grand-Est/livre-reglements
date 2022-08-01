@@ -6,6 +6,7 @@
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#215197",
+  "background_color": "#215197",
   "icons": [
     {
       "src": "/img/icon-vector.svg",
@@ -40,6 +41,5 @@
       "sizes": "512x512",
       "purpose": "maskable"
     }
-  ],
-  "background_color": "#215197"
+  ]
 }
