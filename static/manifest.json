@@ -1,7 +1,7 @@
 {
   "name": "Livre des Règlements - FFTA",
   "short_name": "Règlements FFTA",
-  "description": "Tous les Règlements sportifs et arbitrage de la FFTA dans votre poche.",
+  "description": "Tous les règlements sportifs et arbitrage de la FFTA dans votre poche.",
   "lang": "fr-FR",
   "start_url": "/",
   "display": "standalone",
