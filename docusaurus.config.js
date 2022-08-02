@@ -206,6 +206,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: "TXA5HPKN0T",
+        apiKey: "c8e6afe48b408c3540a5210e2383a54f",
+        indexName: "livre-reglements",
+        contextualSearch: true,
+      },
     }),
 };
 
