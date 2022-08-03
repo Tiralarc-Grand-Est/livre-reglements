@@ -191,6 +191,19 @@ const config = {
             ],
           },
           {
+            title: "Contributeurs",
+            items: [
+              {
+                label: "Julien Blatecky",
+                href: "https://github.com/Julien1619",
+              },
+              {
+                label: "Nous aider",
+                href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
+              },
+            ],
+          },
+          {
             title: "Plus",
             items: [
               {
