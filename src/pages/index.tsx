@@ -6,6 +6,7 @@ import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import styles from "./index.module.css";
+import HomepageMentions from "../components/HomepageMentions";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -19,7 +20,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/reglements/changements"
           >
-            Lire le Livre des règlements
+            Lire le Livre des règlements (Édition Février 2022)
           </Link>
         </div>
       </div>
@@ -33,6 +34,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <HomepageMentions />
       </main>
     </Layout>
   );

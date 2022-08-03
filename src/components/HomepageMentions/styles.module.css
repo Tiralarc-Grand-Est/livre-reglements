@@ -1,0 +1,23 @@
+.mentions {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  background-color: var(--ifm-color-primary-darker);
+}
+
+.text {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
