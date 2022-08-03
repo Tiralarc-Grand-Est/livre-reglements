@@ -7,8 +7,8 @@ const randomVersion = `${Math.random() * 1000}`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title:
-    "Règlements sportifs et Arbitrage - Fédération Française de Tir à l'Arc",
+  title: "Règlements sportifs et Arbitrage",
+  tagline: "Fédération Française de Tir à l'Arc - Édition Février 2022",
   url: "https://livre-reglements.tiralarc-grand-est.fr/",
   baseUrl: "/",
   trailingSlash: true,
@@ -166,7 +166,7 @@ const config = {
           },
           {
             href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
-            label: "GitHub",
+            label: "Contribuer",
             position: "right",
           },
         ],
@@ -200,15 +200,6 @@ const config = {
               },
               {
                 label: "Nous aider",
-                href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
-              },
-            ],
-          },
-          {
-            title: "Plus",
-            items: [
-              {
-                label: "GitHub",
                 href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
               },
             ],

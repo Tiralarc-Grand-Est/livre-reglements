@@ -20,7 +20,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/reglements/changements"
           >
-            Lire le Livre des règlements (Édition Février 2022)
+            Lire le Livre des règlements
           </Link>
         </div>
       </div>
