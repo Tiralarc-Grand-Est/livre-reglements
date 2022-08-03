@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const randomVersion = `${Math.random() * 1000}`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -67,7 +68,7 @@ const config = {
           {
             tagName: "link",
             rel: "manifest",
-            href: "/manifest.json",
+            href: `/manifest.json?v=${randomVersion}`,
           },
           {
             tagName: "meta",
@@ -82,7 +83,7 @@ const config = {
           {
             tagName: "meta",
             name: "msapplication-navbutton-color",
-            content: "/",
+            content: "#215197",
           },
           {
             tagName: "meta",
@@ -92,7 +93,7 @@ const config = {
           {
             tagName: "meta",
             name: "msapplication-starturl",
-            content: "#215197",
+            content: "/",
           },
           {
             tagName: "meta",
