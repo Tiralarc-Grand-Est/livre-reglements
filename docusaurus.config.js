@@ -169,6 +169,12 @@ const config = {
             label: "Contribuer",
             position: "right",
           },
+          {
+            type: "docsVersion",
+            position: "right",
+            to: "/reglements",
+            label: "Édition Février 2022",
+          },
         ],
       },
       footer: {
