@@ -199,6 +199,10 @@ const config = {
                 href: "https://github.com/Julien1619",
               },
               {
+                label: "Hervé Paciel",
+                href: "https://github.com/RV-HP",
+              },
+              {
                 label: "Nous aider",
                 href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
               },
