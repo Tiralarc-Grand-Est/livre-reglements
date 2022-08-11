@@ -172,7 +172,7 @@ const config = {
           {
             type: "docsVersion",
             position: "right",
-            to: "/reglements",
+            to: "/",
             label: "Édition Février 2022",
           },
         ],
