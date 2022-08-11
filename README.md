@@ -1,5 +1,7 @@
 # Règlements sportifs et Arbitrage - Fédération Française de Tir à l'Arc
 
+[![Powered by Vercel](https://raw.githubusercontent.com/Tiralarc-Grand-Est/livre-reglements/main/static/img/powered-by-vercel.svg)](https://vercel.com?utm_source=tiralarc-grand-est&utm_campaign=oss)
+
 Le site présentant le règlement est généré avec [Docusaurus 2](https://docusaurus.io/), un générateur de site web statique.
 
 ## Développement

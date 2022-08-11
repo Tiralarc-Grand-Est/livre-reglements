@@ -208,9 +208,19 @@ const config = {
                 label: "Hervé Paciel",
                 href: "https://github.com/RV-HP",
               },
+            ],
+          },
+          {
+            title: "Plus",
+            items: [
               {
                 label: "Nous aider",
                 href: "https://github.com/Tiralarc-Grand-Est/livre-reglements",
+              },
+              {
+                html: `
+                  <a href="https://vercel.com?utm_source=tiralarc-grand-est&utm_campaign=oss" target="_blank" rel="noopener noreferrer"><img src="/img/powered-by-vercel.svg" alt="Powered by Vercel" /></a>
+                `,
               },
             ],
           },
