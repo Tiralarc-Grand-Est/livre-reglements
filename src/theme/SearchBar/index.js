@@ -31,6 +31,21 @@ function mergeFacetFilters(f1, f2) {
   const normalize = (f) => (typeof f === 'string' ? [f] : f);
   return [...normalize(f1), ...normalize(f2)];
 }
+function debounce(func, wait = 100) {
+  let lastTimeout = null;
+  return function (...args) {
+    const that = this;
+    return new Promise((resolve, reject) => {
+      if (lastTimeout) {
+        clearTimeout(lastTimeout);
+      }
+      lastTimeout = setTimeout(() => {
+        lastTimeout = null;
+        Promise.resolve(func.apply(that, args)).then(resolve).catch(reject);
+      }, wait);
+    });
+  };
+}
 function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
   const {siteMetadata} = useDocusaurusContext();
   const contextualSearchFacetFilters = useAlgoliaContextualFacetFilters();
@@ -125,7 +140,10 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
         'docusaurus',
         siteMetadata.docusaurusVersion,
       );
-      return searchClient;
+      return {
+        ...searchClient,
+        search: debounce(searchClient.search, 500)
+      };
     },
     [siteMetadata.docusaurusVersion],
   );
