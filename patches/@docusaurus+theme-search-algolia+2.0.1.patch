@@ -1,16 +1,30 @@
 diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
-index 878dc9b..815f47d 100644
+index 878dc9b..8548d74 100644
 --- a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
 +++ b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
-@@ -6,6 +6,7 @@
-  */
- import React, {useState, useRef, useCallback, useMemo} from 'react';
- import {createPortal} from 'react-dom';
-+import debounce from 'lodash/debounce';
- import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
- import {useHistory} from '@docusaurus/router';
- import {useBaseUrlUtils} from '@docusaurus/useBaseUrl';
-@@ -131,7 +132,10 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
+@@ -37,6 +37,21 @@ function mergeFacetFilters(f1, f2) {
+   const normalize = (f) => (typeof f === 'string' ? [f] : f);
+   return [...normalize(f1), ...normalize(f2)];
+ }
++function debounce(func, wait = 100) {
++  let lastTimeout = null;
++  return function (...args) {
++    const that = this;
++    return new Promise((resolve, reject) => {
++      if (lastTimeout) {
++        clearTimeout(lastTimeout);
++      }
++      lastTimeout = setTimeout(() => {
++        lastTimeout = null;
++        Promise.resolve(func.apply(that, args)).then(resolve).catch(reject);
++      }, wait);
++    });
++  };
++}
+ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
+   const {siteMetadata} = useDocusaurusContext();
+   const contextualSearchFacetFilters = useAlgoliaContextualFacetFilters();
+@@ -131,7 +146,10 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
          'docusaurus',
          siteMetadata.docusaurusVersion,
        );
