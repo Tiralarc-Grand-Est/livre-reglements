@@ -1,34 +1,35 @@
-import React, {useState, useRef, useCallback, useMemo} from 'react';
-import {createPortal} from 'react-dom';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import {useHistory} from '@docusaurus/router';
-import {useBaseUrlUtils} from '@docusaurus/useBaseUrl';
-import Link from '@docusaurus/Link';
-import Head from '@docusaurus/Head';
-import {isRegexpStringMatch} from '@docusaurus/theme-common';
-import {useSearchPage} from '@docusaurus/theme-common/internal';
-import {DocSearchButton, useDocSearchKeyboardEvents} from '@docsearch/react';
-import {useAlgoliaContextualFacetFilters} from '@docusaurus/theme-search-algolia/client';
-import Translate from '@docusaurus/Translate';
-import translations from '@theme/SearchTranslations';
+import React, { useState, useRef, useCallback, useMemo } from "react";
+import { createPortal } from "react-dom";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { useHistory } from "@docusaurus/router";
+import { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
+import Link from "@docusaurus/Link";
+import Head from "@docusaurus/Head";
+import { isRegexpStringMatch } from "@docusaurus/theme-common";
+import { useSearchLinkCreator } from "@docusaurus/theme-common/internal";
+import { DocSearchButton, useDocSearchKeyboardEvents } from "@docsearch/react";
+import { useAlgoliaContextualFacetFilters } from "@docusaurus/theme-search-algolia/client";
+import Translate from "@docusaurus/Translate";
+import translations from "@theme/SearchTranslations";
 let DocSearchModal = null;
-function Hit({hit, children}) {
+function Hit({ hit, children }) {
   return <Link to={hit.url}>{children}</Link>;
 }
-function ResultsFooter({state, onClose}) {
-  const {generateSearchPageLink} = useSearchPage();
+function ResultsFooter({ state, onClose }) {
+  const generateSearchPageLink = useSearchLinkCreator();
   return (
     <Link to={generateSearchPageLink(state.query)} onClick={onClose}>
       <Translate
         id="theme.SearchBar.seeAll"
-        values={{count: state.context.nbHits}}>
-        {'See all {count} results'}
+        values={{ count: state.context.nbHits }}
+      >
+        {"See all {count} results"}
       </Translate>
     </Link>
   );
 }
 function mergeFacetFilters(f1, f2) {
-  const normalize = (f) => (typeof f === 'string' ? [f] : f);
+  const normalize = (f) => (typeof f === "string" ? [f] : f);
   return [...normalize(f1), ...normalize(f2)];
 }
 function debounce(func, wait = 100) {
@@ -46,8 +47,8 @@ function debounce(func, wait = 100) {
     });
   };
 }
-function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
-  const {siteMetadata} = useDocusaurusContext();
+function DocSearch({ contextualSearch, externalUrlRegex, ...props }) {
+  const { siteMetadata } = useDocusaurusContext();
   const contextualSearchFacetFilters = useAlgoliaContextualFacetFilters();
   const configFacetFilters = props.searchParameters?.facetFilters ?? [];
   const facetFilters = contextualSearch
@@ -60,7 +61,7 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
     ...props.searchParameters,
     facetFilters,
   };
-  const {withBaseUrl} = useBaseUrlUtils();
+  const { withBaseUrl } = useBaseUrlUtils();
   const history = useHistory();
   const searchContainer = useRef(null);
   const searchButtonRef = useRef(null);
@@ -71,19 +72,19 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
       return Promise.resolve();
     }
     return Promise.all([
-      import('@docsearch/react/modal'),
-      import('@docsearch/react/style'),
-      import('./styles.css'),
-    ]).then(([{DocSearchModal: Modal}]) => {
+      import("@docsearch/react/modal"),
+      import("@docsearch/react/style"),
+      import("./styles.css"),
+    ]).then(([{ DocSearchModal: Modal }]) => {
       DocSearchModal = Modal;
     });
   }, []);
   const onOpen = useCallback(() => {
     importDocSearchModalIfNeeded().then(() => {
-      searchContainer.current = document.createElement('div');
+      searchContainer.current = document.createElement("div");
       document.body.insertBefore(
         searchContainer.current,
-        document.body.firstChild,
+        document.body.firstChild
       );
       setIsOpen(true);
     });
@@ -99,10 +100,10 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
         setInitialQuery(event.key);
       });
     },
-    [importDocSearchModalIfNeeded, setIsOpen, setInitialQuery],
+    [importDocSearchModalIfNeeded, setIsOpen, setInitialQuery]
   );
   const navigator = useRef({
-    navigate({itemUrl}) {
+    navigate({ itemUrl }) {
       // Algolia results could contain URL's from other domains which cannot
       // be served through history and should navigate with window.location
       if (isRegexpStringMatch(externalUrlRegex, itemUrl)) {
@@ -125,27 +126,27 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
         ...item,
         url: withBaseUrl(`${url.pathname}${url.hash}`),
       };
-    }),
+    })
   ).current;
   const resultsFooterComponent = useMemo(
     () =>
       // eslint-disable-next-line react/no-unstable-nested-components
       (footerProps) =>
         <ResultsFooter {...footerProps} onClose={onClose} />,
-    [onClose],
+    [onClose]
   );
   const transformSearchClient = useCallback(
     (searchClient) => {
       searchClient.addAlgoliaAgent(
-        'docusaurus',
-        siteMetadata.docusaurusVersion,
+        "docusaurus",
+        siteMetadata.docusaurusVersion
       );
       return {
         ...searchClient,
-        search: debounce(searchClient.search, 500)
+        search: debounce(searchClient.search, 500),
       };
     },
-    [siteMetadata.docusaurusVersion],
+    [siteMetadata.docusaurusVersion]
   );
   useDocSearchKeyboardEvents({
     isOpen,
@@ -196,12 +197,12 @@ function DocSearch({contextualSearch, externalUrlRegex, ...props}) {
             placeholder={translations.placeholder}
             translations={translations.modal}
           />,
-          searchContainer.current,
+          searchContainer.current
         )}
     </>
   );
 }
 export default function SearchBar() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return <DocSearch {...siteConfig.themeConfig.algolia} />;
 }
