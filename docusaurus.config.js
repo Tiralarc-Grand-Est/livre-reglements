@@ -8,7 +8,7 @@ const randomVersion = `${Math.random() * 1000}`;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Règlements sportifs et Arbitrage",
-  tagline: "Fédération Française de Tir à l'Arc - Édition Février 2022",
+  tagline: "Le règlement dans la poche, même hors connexion",
   url: "https://livre-reglements.tiralarc-grand-est.fr/",
   baseUrl: "/",
   trailingSlash: true,
@@ -40,6 +40,17 @@ const config = {
             "https://github.com/Tiralarc-Grand-Est/livre-reglements/tree/main/",
           routeBasePath: "reglements",
           sidebarPath: require.resolve("./sidebars.js"),
+          lastVersion: "current",
+          versions: {
+            current: {
+              label: "Février 2023",
+              path: "",
+            },
+            "02-2022": {
+              label: "Février 2022",
+              path: "02-2022",
+            },
+          },
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -170,10 +181,8 @@ const config = {
             position: "right",
           },
           {
-            type: "docsVersion",
+            type: "docsVersionDropdown",
             position: "right",
-            to: "/",
-            label: "Édition Février 2022",
           },
         ],
       },
