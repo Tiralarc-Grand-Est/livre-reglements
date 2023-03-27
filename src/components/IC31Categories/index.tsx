@@ -8,7 +8,7 @@ export default function IC31Categories(): JSX.Element {
           <th>
             <b>Types de licences</b>
           </th>
-          <th>Age dans l’année civile de la licence</th>
+          <th>Age dans l'année civile de la licence</th>
           <th>Catégorie</th>
           <th>Validité</th>
           <th>Types de licences proposées</th>
@@ -49,21 +49,15 @@ export default function IC31Categories(): JSX.Element {
             11 &amp; 12 ans
           </td>
           <td>
-            (J) Junior(U21)
+            U21
             <br />
-            (C) Cadet(U18)
+            U18
             <br />
-            (M) Minime(U15)
+            U15
             <br />
-            (B) Benjamin(U13)
+            U13
           </td>
-          <td>
-            Pratique en club ou en compétition (Autorisation de compétition
-            suivant certificat médical fourni et enregistré dans l’extranet)
-            <br />
-            Toutes les catégories d’âges Jeunes de au Benjamin(U13) à
-            Junior(U21)
-          </td>
+          <td>Pratique en club ou en compétition</td>
         </tr>
         <tr>
           <td>Handisports</td>
@@ -72,23 +66,23 @@ export default function IC31Categories(): JSX.Element {
           <td>
             Pratique en Compétition uniquement
             <br />
-            Toutes catégories d’âges Adultes Jeunes Poussins(U11)
+            Toutes catégories d'âges Adultes, Jeunes, U11
             <br />
-            Présentation obligatoire d’une licence FFSA ou FFH en cours de
-            validité pour la saison en cours
+            Présentation obligatoire d'une licence FFSA en cours de validité
+            pour la saison en cours
             <br />
             Avec mention compétition obligatoire (sous conditions et limitations
-            pour les Poussins(U11))
+            pour les U11)
           </td>
         </tr>
         <tr>
-          <td>Poussins(U11)</td>
+          <td>U11</td>
           <td>10 ans et moins</td>
-          <td>(P) Poussin(U11)</td>
+          <td>U11</td>
           <td>
             Pratique en Club ou en compétition (sous conditions et limitations)
             <br />
-            Uniquement catégorie d’âge POUSSINS(U11)
+            Uniquement catégorie d'âge U11
           </td>
         </tr>
         <tr>
@@ -101,10 +95,10 @@ export default function IC31Categories(): JSX.Element {
             <br />
             Compétitions officielles non autorisées
             <br />
-            Toutes catégories d’âges Adultes Jeunes et Poussins(U11).
+            Toutes catégories d'âges Adultes, Jeunes et U11.
             <br />
             délivrable uniquement à partir de mars de la saison en cours à des
-            personnes n’ayant jamais été licenciées FFTA
+            personnes n'ayant jamais été licenciées FFTA
           </td>
         </tr>
       </tbody>
